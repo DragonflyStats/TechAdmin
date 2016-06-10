@@ -4,7 +4,7 @@ Atlantec Limerick Proposal
 
 Potential Events/Speaker List
 
-1. R Workshop (Kevin O'Brien)
+1. R Workshop (Kevin O'Brien, Dublin R)
 2. Gamegraft Workshop (Vicky Tormey Lee)
 3. Complex Networks Talk (Prof J Gleeson MACSI)
 4. KX Community Event (First Derivatives, Kevin McGivern)
@@ -21,3 +21,4 @@ Potential Events/Speaker List
 16. Film Technology Talk ( LIT )
 17. Cplusplus, Mihai Todor (Nitro, Dublin)
 18. Films at the Belltable (Decoding Diversity)
+19. Bayesian Workshop, Mick Cooney, Applied AI
