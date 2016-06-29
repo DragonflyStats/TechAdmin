@@ -1,0 +1,37 @@
+
+\begin{frame}
+\frametitle{Lightning Talks}
+
+Data Visualization, Forestry, Fishing, Buses, Genomics
+
+
+
+\end{frame}
+%==========================================%
+\begin{frame}
+\frametitle{PyCon Ireland 2016}
+
+\end{frame}
+%==========================================%
+\begin{frame}
+\frametitle{ERum in Poznan}
+
+
+\end{frame}
+%==========================================%
+\begin{frame}
+EARL Conference
+
+Predict Conference
+
+%=========================================%
+\begin{frame}
+ Peadar Coyle
+\end{frame}
+%=========================================%
+\begin{frame}
+
+Starbucks
+
+\end{frame}
+%=========================================%
