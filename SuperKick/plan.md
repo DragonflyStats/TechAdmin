@@ -3,7 +3,7 @@
 * Hadoop Fundamentals I
 * Spark Fundamentals II
 * Spark Fundamentals I
-* Predictive Modeling Fundamentals I
+* Predictive Modeling Fundamentals I (IBM Modeller)
 * Data Science with Scala
 * Introduction to Scala
 * Spark Overview for Scala Analytics
