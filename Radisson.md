@@ -69,36 +69,39 @@ Overall Status - David
 	
 ### 8Python Event in Cork:
 	Forma Biolab and UCC
-	Check WiFi
-	Late August Book hotel - PyIE - Meal - PyIE
-	Kevin, David, Neil, Marissa, Nicolas, Diarmuid, Paul
-	KOB to write a plan / Itinerary
-	Meetup.com page
-	Provisional Date : Last Weekend in August
+	- Check WiFi
+	- Late August Book hotel - PyIE - Meal - PyIE
+	- Kevin, David, Neil, Marissa, Nicolas, Diarmuid, Paul
+	- KOB to write a plan / Itinerary
+	- Meetup.com page
+	- Provisional Date : Last Weekend in August
 	
-PyData:
-	PyData Ireland
+### PyData:
+	- PyData Ireland as a sub-entity of PyIE
 	
-	What do we want to achieve? - Kevin
-		Control the Branding
-		Who has responsibility?
-		
-	Two Emails to Drafted by KOB
-	Is an EGM required - Directors
+	- What do we want to achieve? - Kevin
+		- Control the Branding
+		 - Who has responsibility?
+	Actions	
+	- Two Emails to Drafted by KOB
+	- Is an EGM required - Directors
 
-Meetups
-	June Meetup
+### Meetups
+	#### June Meetup
+		- Review of Monthly Meetup Procedures.
+		- Tighter control of Speakers.
+	        - MC should not be a speaker.
 		
-	July Meetup
+        July Meetup
 	
 Select and contact speakers for July
 	Follow up with BetBright re speaker
 
 Update website and meetup.com with details:
 
-Speakers
-	MC should not be a speaker.
+
 Venue
+
 Sponsors
 Liaise with DogPatch on the night
 Appoint someone to registration on the night
@@ -109,9 +112,10 @@ December/Christmas meetup
 Other Event planning
 Ideas for Workshops
 
-AOB:
+### AOB:
 BAML
 	Website/Branding (Not again)
 	CRO status/Nicolas IBB status 
+
 
 
