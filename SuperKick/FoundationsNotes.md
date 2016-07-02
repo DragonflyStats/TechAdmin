@@ -133,4 +133,25 @@ Choose one answer.
 To maximize the benefits of BigData analytics initiatives, 
 organizations should select the right analytics tools and involve people who bring needed analytical skills to a project.
 
-Answer: True False
+Answer: 
+* True 
+* False
+
+------------------------------------------------------------------------
+
+What open-source software was developed from Google’s MapReduce concept?
+
+* A. Puppet
+* B. Splunk
+* C. Hadoop
+* D. MongoDB
+
+------------------------------------------------------------------------
+
+Splunk announced a new product to search, access and report on Hadoop data sets. 
+What is this product called?
+
+* A. Splunk Storm
+* B. MongoDB
+* C. Splunk Cloud
+* D. Hunk
