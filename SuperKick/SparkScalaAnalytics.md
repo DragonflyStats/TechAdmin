@@ -1,6 +1,5 @@
                                                             1
-Marks: 1.00
- Not flagged
+#### Question 1
 If I want to write a SQL query over a DataFrame, I have to call the following method first:
 
 Choose one answer.
@@ -12,9 +11,8 @@ Choose one answer.
 
 ------------------------------------------------------------------------
 
-2
-Marks: 1.00
- Not flagged
+#### Question 2
+
 If I have a dataframe "person" with a field "age", which of the following expressions can never be used to reference that field?
 
 Choose one answer.
@@ -26,9 +24,8 @@ Choose one answer.
 
 ------------------------------------------------------------------------
 
-3
-Marks: 1.00
- Not flagged
+#### Question 3
+
 The Spark Web Console is used to:
 
 Choose one answer.
@@ -40,9 +37,8 @@ Choose one answer.
 
 ---------------------------------------------------------------------------
 
-4
-Marks: 1.00
- Not flagged
+#### Question 4
+
 Action methods have one or more of the following characteristics:
 
 Choose one answer.
@@ -53,9 +49,8 @@ Choose one answer.
 	e. All answers are correct
 ---------------------------------------------------------------------------
 
-5
-Marks: 1.00
- Not flagged
+#### Question 5
+
 The sequence of transformation and action method calls:
 
 Choose one answer.
@@ -66,7 +61,8 @@ Choose one answer.
 	e. All of the answers are correct
 
 ------------------------------------------------------------------------
-6 
+
+#### Question 6 
 
 Shuffling is used to:
 
@@ -77,9 +73,8 @@ Choose one answer.
 	d. Design where partitions are written to disk	
 ------------------------------------------------------------------------
 
-7
-Marks: 1.00
- Not flagged
+#### Question 7
+
 Which one of the following kinds of joins is not supported?
 
 Choose one answer.
@@ -90,8 +85,9 @@ Choose one answer.
 	e. All are supported
 	e. All answers are correct
 
+------------------------------------------------------------------------
 
-8 .
+#### Question 8 .
 DataFrames support the following operations:
 
 Choose one answer.
@@ -102,9 +98,10 @@ Choose one answer.
 	e. All answers are correct
 
 
-9
-Marks: 1.00
- Not flagged
+------------------------------------------------------------------------
+
+#### Question 9
+
 Transformation methods have one or more of the following characteristics:
 
 Choose one answer.
@@ -114,9 +111,10 @@ Choose one answer.
 	d. One and only one record is output for each input record	
 	e. None of the answers are correct
 
-10
-Marks: 1.00
- Not flagged
+------------------------------------------------------------------------
+
+#### Question 10
+
 The RDD flatMap method does what?
 
 Choose one answer.
@@ -126,9 +124,10 @@ Choose one answer.
 	d. Combines all records into a value	
 	e. None of the answers are correct
 
-11
-Marks: 1.00
- Not flagged
+------------------------------------------------------------------------
+
+#### Question 11
+
 In Hive, an external table has the property:
 
 Choose one answer.
@@ -138,12 +137,11 @@ Choose one answer.
 	d. It's data is not managed by Hive	
 	e. All of the answers are correct
 
------------------------------------------------------------
+------------------------------------------------------------------------
 
-12
+#### Question 12
 
-Marks: 1.00
- Not flagged
+
 In Spark Streaming, a DStream is:
 
 Choose one answer.
@@ -155,9 +153,8 @@ Choose one answer.
 
 -----------------------------------------------------------
 
-13
-Marks: 1.00
- Not flagged
+#### Question 13
+
 DataFrames have one or more of the following characteristics:
 
 Choose one answer.
@@ -169,9 +166,8 @@ Choose one answer.
 
 ---------------------------------------------------------
 
-14
-Marks: 1.00
- Not flagged
+#### Question 14
+
 Broadcast variables are used for what?
 
 Choose one answer.
@@ -183,10 +179,8 @@ Choose one answer.
 
 -----------------------------------------------------
 
-15
-15
-Marks: 1.00
- Not flagged
+#### Question 15
+
 Accumulators are used for what?
 
 Choose one answer.
@@ -196,9 +190,10 @@ Choose one answer.
 	d. Aggregate extra data across all tasks	
 	e. All answers are correct
 
-16
-Marks: 1.00
- Not flagged
+-----------------------------------------------------
+
+#### Question 16
+
 The Inverted Index computes what?
 
 Choose one answer.
@@ -208,9 +203,10 @@ Choose one answer.
 	d. Output records with words as keys and document ids and counts as values	
 	e. All of the answers are correct
 
-17
-Marks: 1.00
- Not flagged
+-----------------------------------------------------
+
+#### Question 17
+
 Which language is not supported by Spark?
 
 Choose one answer.
@@ -220,11 +216,10 @@ Choose one answer.
 	d. C	
 	e. SQL
 
-18
+-----------------------------------------------------
 
-18
-Marks: 1.00
- Not flagged
+#### Question 18
+
 The batch interval:
 
 Choose one answer.
@@ -235,10 +230,10 @@ Choose one answer.
 	e. is the size of each data "chunk" returned by a DataFrame query
 
 -----------------------------------------------------------------------------
-19
-Marks: 1.00
- Not flagged
-The DataFrame expression "persons.select($"age").where($"age" > 21)" returns:
+
+#### Question 19
+
+The DataFrame expression ``"persons.select($"age").where($"age" > 21)"`` returns:
 
 Choose one answer.
 	a. A DataFrame	
@@ -247,9 +242,10 @@ Choose one answer.
 	d. A Scala Vector[Int]	
 	e. None of the answers are correct
 
-20
-Marks: 1.00
- Not flagged
+-----------------------------------------------------------------------------
+
+#### Question 20
+
 What does RDD stand for?
 
 Choose one answer.
