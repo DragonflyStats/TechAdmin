@@ -1,12 +1,12 @@
 Accessing Hadoop Data Using Hive
 ====================================
 
-1
-Marks: 1.00
- Not flagged
+#### Question 1
+
 What is the primary purpose of Hive in the Hadoop architecture?
 
 Choose one answer.
+
 	A. To provide logging support for Hadoop jobs	
 	B. To support SQL-like queries of data stored in Hadoop in place of writing MapReduce applications	
 	C. To move data into HDFS	
@@ -14,29 +14,27 @@ Choose one answer.
 
 ------------------------------------------------------------
 
-2
-Marks: 1.00
- Not flagged
+#### Question 2
+
 The Hive CLI (Command Line Interface) allows you to:
 
 Choose one answer.
+
 	A. Perform queries, DML, and DDL	
 	B. View and manipulate table metadata	
 	C. Retrieve query explain plans (execution strategy)	
 	D. All of the above
 
 -----------------------------------
-3
-Marks: 1.00
- Not flagged
+#### Question 3
+
 Hive is SQL-92 compliant and supports row level inserts, updates, and deletes.
 
 Answer: True False
 
-----------------------------------
-4
-Marks: 1.00
- Not flagged
+-----------------------------------
+#### Question 4
+
 In a production setting, you should configure the Hive metastore as:
 
 Choose one answer.
