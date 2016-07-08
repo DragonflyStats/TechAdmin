@@ -24,6 +24,7 @@ Choose one answer.
 How can you detect overfitting:
 
 Choose one answer.
+
 	A. High accuracy on training data and low accuracy on testing data	
 	B. Low accuracy on training data and low accuracy on testing data	
 	C. Low accuracy on training data and high accuracy on testing data	
@@ -52,6 +53,7 @@ Choose one answer.
 Which of these is a data mining task:
 
 Choose at least one answer.
+
 	A. Dividing the customers of a company according to their gender	
 	B. Projecting Q4 revenue based on Q3 actual revenue growth	
 	C. Predicting the probability of customers to sign up for a deposit with the bank	
@@ -62,6 +64,7 @@ Choose at least one answer.
 Which of these is a data mining task:
 
 Choose at least one answer.
+
 	A. Dividing the customers of a company according to their gender	
 	B. Projecting Q4 revenue based on Q3 actual revenue growth	
 	C. Predicting the probability of customers to sign up for a deposit with the bank	
@@ -70,8 +73,8 @@ Choose at least one answer.
 
 #### Question 8
 What can you do with SPSS Collaboration and Deployment Services:
-
 Choose at least one answer.
+
 	A. Collaborate	
 	B. Automate	
 	C. Service	
@@ -82,6 +85,7 @@ Choose at least one answer.
 Based on customer demographic data, you are trying to predict which customers would be likely to sign up for a service with your company. You are likely to use:
 
 Choose one answer.
+
 	A. Clustering	
 	B. Decision Tree	
 	C. Linear Regression	
@@ -92,6 +96,7 @@ Choose one answer.
 Which of these nodes creates and compares a number of different models for binary outcomes (yes or no, churn or do not churn, and so on), allowing you to choose the best approach for a given analysis
 
 Choose one answer.
+
 	A. Auto Numeric Node	
 	B. Auto Classifier Node	
 	C. Auto Cluster Node	
@@ -102,6 +107,7 @@ Choose one answer.
 Overfitting occurs when:
 
 Choose one answer.
+
 	A. The model fits the data really well	
 	B. The model is not generalizable to new data	
 	C. The model has low accuracy on training data	
@@ -112,14 +118,15 @@ Choose one answer.
 True/False. Logistic regression can be used only for problems with a binary (two-class) outcome:
 
 Choose one answer.
-	True	
-	False
+*	True	
+*	False
 
 #### Question 13
 
 What is the name of the SPSS service on the IBM Bluemix platform?
 
 Choose one answer.
+
 	A. SPSS Cloud	
 	B. Predictive Deployment	
 	C. Predictive Analytics	
@@ -130,14 +137,15 @@ Choose one answer.
 True/False. Auto Data Prep ranks variables based on their predictive power.
 
 Choose one answer.
-	True	
-	False
+*	True	
+*	False
 
 #### Question 15
 
 To impute missing data and standardize variables you would use a:
 
 Choose one answer.
+
 	A. Type Node	
 	B. Analysis Node	
 	C. Data Audit Node	
@@ -146,8 +154,8 @@ Choose one answer.
 #### Question 16
 
 Based on customer demographic data, you are trying to understand what segments the customers fall into. You are likely to use:
-
 Choose one answer.
+
 	A. Clustering	
 	B. Decision Tree	
 	C. Linear Regression	
@@ -157,8 +165,8 @@ Choose one answer.
 True/False. Auto Classifier node can select from at most 3 models.
 
 Choose one answer.
-	True	
-	False
+*	True	
+*	False
 
 #### Question 18 
 True/False. A model developed by one individual can be consumed by another.
@@ -179,20 +187,22 @@ Outcome		1	177	330
 
 		0	59	590
 		
+
 Choose one answer.
+
 	A. 15%	
 	B. 66%	
 	C. 35%	
 	D. 75%
 
 
---------------------------------------------------------------------------------
 
 #### Question 20
 
 To specify field properties and identify the dependent (target) variable you would use a:
 
 Choose one answer.
+
 	A. Type Node	
 	B. Analysis Node	
 	C. Data Audit Node	
