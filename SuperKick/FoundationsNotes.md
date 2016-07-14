@@ -4,7 +4,7 @@
 The IBM BigData Platform approach is unique in the industry in the way that it integrates the processing of streaming and static data with data warehousing and an analytics & reporting zone.
 
 Answer: 
-* True 
+ ***True*** [CORRECT] 
 * False
 
 -----------------------------------------------------------------------
@@ -52,7 +52,7 @@ Answer:
 NoSQL never uses ANSI SQL as a choice for accessing data.
 
 Answer: 
-* True 
+* ***True*** [CORRECT] 
 * False
 
 -----------------------------------------------------------------------
@@ -73,7 +73,7 @@ Which of these are NOT characteristics of Big Data?
 Choose one answer.
 	a. Volume	
 	b. Variety	
-	c. Variance	
+	c. ***Variance*** [Correct]	
 	d. Velocity
 
 -----------------------------------------------------------------------
@@ -83,7 +83,7 @@ How many Gigabytes are in a Petabyte?
 
 Choose one answer.
 	a. 100,000	
-	b. One million	 YES
+	b. ***One million*** [Correct]
 	c. One billion	
 	d. One trillion
 
@@ -115,7 +115,7 @@ Which of the following is NOT one of the Streaming-Data Processing Systems discu
 Choose one answer.
 	a. InfoSphere Streams	
 	b. Storm	
-	c. Spring SD	SELECTED
+	c. ***Spring SD*** [Correct]
 	d. Apache Spark
 
 -------------------------------------------------------------
@@ -138,7 +138,7 @@ Answer:
 * False
 
 ------------------------------------------------------------------------
-
+#### Question 15
 What open-source software was developed from Google’s MapReduce concept?
 
 * A. Puppet
@@ -147,7 +147,7 @@ What open-source software was developed from Google’s MapReduce concept?
 * D. MongoDB
 
 ------------------------------------------------------------------------
-
+#### Question 16
 Splunk announced a new product to search, access and report on Hadoop data sets. 
 What is this product called?
 
@@ -155,3 +155,19 @@ What is this product called?
 * B. MongoDB
 * C. Splunk Cloud
 * D. Hunk
+
+
+Document Databases
+Instead of storing data in rows and columns in a table, data is stored in documents, and these documents are grouped together in collections. Each document can have a completely different structure. Document databases include the aforementioned CouchDB and MongoDB.
+
+Key-Value Stores
+
+Data is stored in an associative array of key-value pairs. The key is an attribute name, which is linked to a value. Well-known key value stores include Redis, Voldemort (developed by LinkedIn) and Dynamo (developed by Amazon).
+
+Graph Databases
+
+Used for data whose relations are represented well in a graph. Data is stored in graph structures with nodes (entities), properties (information about the entities) and lines (connections between the entities). Examples of this type of database include Neo4J and InfiniteGraph.
+
+Columnar (or Wide-Column) Databases
+
+Instead of ‘tables’, in columnar databases you have column families, which are containers for rows. Unlike RDBMS, you don’t need to know all of the columns up front, each row doesn’t have to have the same number of columns. Columnar databases are best suited to analysing huge datasets- big names include Cassandra and HBase.
