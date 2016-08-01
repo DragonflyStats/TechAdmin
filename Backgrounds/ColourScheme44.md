@@ -1,0 +1,9 @@
+28/07/2016 10:14:21	Maciej Dziergwa	sylwia.hamerska@stxnext.com	CEO	I am the founder and CEO of STX Next, Europe’s biggest Python software house. I started as a Python developer but always dream of being the biggest in my niche. Today I employ almost 250 people, including over 100 Python developers. I am responsible for executing the strategic direction and ongoing operations, growing business worldwide.	I've used Python a lot, for several years	EuroPython 2016: "The Journey from Python Developer to Python Company Owner"	https://pl.linkedin.com/in/maciejdziergwa	talk on company building, business approach, leadership	Why your Software House won’t grow - the magic number 27	business	"IT entrepreneurship is a very dynamic environment. Every week something hot and revolutionary happens: apps, frameworks, tools or work solution. Startups and software houses are being opened on every corner. People have a lot of great energy and funds are on the arm's length. But then... strange things happen. Some sort of magical barrier occurs and software houses stop their rapid growth, being unable to fight this mysterious enemy.
+I’m going to tell you how I fought this monster and won the battle. And why the number of the beast is, in fact, 27.
+
+***
+For organizers, not for publication:
+Maciej is going to explain the reasons why Software Houses stop growing. Mostly it is due to lack of leadership skills, lack of vision, bad business model etc.
+He is going to describe how he grew rapidly in one year after he changed his mind set and started to be a leader instead of a developer.
+He is going to give advice on what need to be done in order for the company to grow and break an unvisible barrier of 30 employees.
+"	n/a	an insight into business challenges, advice on leadership end company growth	30 Mins	First day of the conference around midday	Macbook									
