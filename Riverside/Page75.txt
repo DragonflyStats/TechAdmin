@@ -1,0 +1,13 @@
+
+
+another use of the scatter plot is the detection of outliers. An outlier is a data point that doesnt fit the pattern of the rest of the data.
+
+There can be several reasons for an outlier including mistakes made in data entyr, or simply an unusual value.
+
+Each Outlier must be investigated. The usual approach is to analyse the data including the suspect point, the redo the analysis without the point, and examine the difference in results.
+
+%-------------------------------------%
+
+\subsection*{Correlation}
+
+The first step in determining the relationship between two variables is to draw a scatterplot.
