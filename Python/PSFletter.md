@@ -18,8 +18,13 @@ Our Diversity scheme includes the distribution of free tickets to female and min
 
 ### Application
 
-We are applying for 4400 euro.
-The unit cost per ticket is 110 euro per head. We hope to distribute 40 tickets. 
+We are applying for 4000 euro.
+
+The unit cost per ticket is 116 euro per head. 
+
+We hope to distribute 40 tickets. 
+
+We are asking for 100 euro per cost of the tickets.
 
 
 ### Long Term Goals
