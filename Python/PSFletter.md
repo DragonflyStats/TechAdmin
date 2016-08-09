@@ -4,6 +4,11 @@ PyCon Ireland takes place this November in the Radisson Blu Hotel, Dublin 8.
 This year's PyConIE, takes place in the Radisson Blu Hotel in Dublin City Centre and consists of two days of talks, tutorials and workshops. 
 
 
+PyCon 2016 will provide over 30 talks and tutorials by leading local and international thought leaders from the Python open source community.  
+
+PyCon will feature an exciting track focused on the use of Python in Big Data and Data Science.
+
+
 ### Our Audience
 Last year, at the same venue, we sold out 300 tickets.
 
@@ -17,4 +22,8 @@ We are applying for 4400 euro.
 The unit cost per ticket is 110 euro per head. We hope to distribute 40 tickets. 
 
 
+### Long Term Goals
 
+
+Our intention is to bring more and more female and minority into the Python 
+community, and that these attendees would be encouraged to give talks and worksshops at future events.
