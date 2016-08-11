@@ -2,7 +2,7 @@
 ### Grant Proposal: 
 * This year's PyCon Ireland takes place in the Radisson Blu Hotel in Dublin City Centre and consists of two days of talks, tutorials and workshops.  
 * PyCon 2016 will provide over 30 talks and tutorials by leading local and international leaders from the Python open source community, and will feature an exciting track focused on the use of Python in Data Sciences. 
-* We are expecting 300 attendees this year. Typically Attendees Tech events are mostly male. We hope to increase the proportion of female and minority community members.
+* We are expecting 330 attendees this year. Typically Attendees Tech events are mostly male. We hope to increase the proportion of female and minority community members.
 * Sponsorship from the Python Software Foundation would be greatly appreciated. 
 
 ### Grant objective: 
@@ -15,13 +15,13 @@
 ### Grant size: 
 * USD $3,200.00  (i.e. €2,866.74 EUR)
 * This grant will be divided as follows:
-    $2000 approx (€1800) for 20 complementary tickets.
-    (Specifically €90 Euro towards the cost of each of the 20 tickets.)
+        $2000 approx (€1800) for 20 complementary tickets.
+        (Specifically €90 Euro towards the cost of each of the 20 tickets.)
 * $1200 approx (€1000) for financial aid.
 
 ### Details on complementary tickets 
  * The total cost per person is €114.48 (USD $128 approx).
- * This figure is based on two key costs: venue rental costs (fixed) and vatering costs (variable).
+ * This figure is based on two key costs: venue rental costs (fixed) and catering costs (variable).
  * The total rental cost is €12700 (USD $14167.28). Based on 330 attendees, this is €38.48 Euro per attendee (USD $43 approx).
  * The catering cost per attendee for two days is €76 per person (USD $85 approx).
 
