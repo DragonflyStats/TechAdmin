@@ -6,9 +6,9 @@
 * Sponsorship from the Python Software Foundation would be greatly appreciated. 
 
 ### Grant objective: 
-* Our objective is to encourage more women and members of minority groups to attend PyCon Ireland, and subequently to engage more with the Python Community. 
-* We will use this part of this grant to distribute 20 free tickets.
-* We will also use the remaining part of the grant to finance financial aid applications.
+* Our objective is to encourage more women and members of minority groups to attend PyCon Ireland, and subsequently to engage more with the Python Community. 
+* We will use part of this grant to distribute 20 complementary tickets.
+* The remaining part of the grant to finance financial aid applications
 
 ### Disclosure of Other Applications
 * We intend to make a similar application to the NumFOCUS Foundation. 
