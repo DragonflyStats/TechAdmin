@@ -1,7 +1,8 @@
 
 ### Grant Proposal: 
 * This year's PyCon Ireland takes place in the Radisson Blu Hotel in Dublin City Centre and consists of two days of talks, tutorials and workshops.  
-* PyCon 2016 will provide over 30 talks and tutorials by leading local and international leaders from the Python open source community, and will feature an exciting track focused on the use of Python in Data Sciences. We are expecting 330 attendees this year. * Typically attendees at tech events are mostly male. We hope to increase the proportion of female and minority community members.
+* PyCon 2016 will provide over 30 talks and tutorials by leading local and international leaders from the Python open source community, and will feature an exciting track focused on the use of Python in Data Sciences. We are expecting 330 attendees this year.
+* Typically attendees at tech events are mostly male. We hope to increase the proportion of female and minority community members.
 * Sponsorship from the Python Software Foundation would be greatly appreciated. 
 
 ### Grant objective: 
