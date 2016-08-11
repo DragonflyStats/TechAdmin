@@ -8,8 +8,9 @@
 * Sponsorship from the NumFocus Foundation would be greatly appreciated. 
 
 ### Grant objective: 
-* Our objective is to encourage more women and members of minority groups to attend PyCon Ireland 2016, and subequently to engage more with the Python Community. We will use this part of this grant to distribute 20 free tickets.
-* We will also use the remaining part of the grant to finance financial aid applications.
+* Our objective is to encourage more women and members of minority groups to attend PyCon Ireland 2016, and subequently to engage more with the Python Community. 
+* We will use part of this grant to distribute 20 complementary tickets.
+* The remaining part of the grant will be allocated to the Financial Aid fund.
 
 ### Disclosure of Other Applications
 * We intend to make a similar application to the Python Software Foundation. 
@@ -17,8 +18,8 @@
 ### Grant size: 
 * USD $3,200.00  (i.e. €2,866.74 EUR)
 * This grant will be divided as follows:
-        $2000 approx (€1800) for 20 complementary tickets.
-        (Specifically €90 Euro towards the cost of each of the 20 tickets.)
+        * $2000 approx (€1800) for 20 complementary tickets.
+        * (Specifically €90 Euro towards the cost of each of the 20 tickets.)
 * $1200 approx (€1000) for financial aid.
 
 ### Details on complementary tickets 
@@ -28,18 +29,18 @@
  * The catering cost per attendee for two days is €76 per person (USD $85 approx).
 
 ### Details on financial aid
- * We will be using existing funds for this scheme, in addition to any grant funds received.
+ * We will be using existing Python Ireland funds for this scheme, in addition to any grant funds received.
  * We shall allocate grants of approximately €150 to applicants from the Island of Ireland. 
  * A minimum of 50% of the financial aid budget will be spent this way.
- * We shall also allocate grants of approximately €300 to applicants from the European union. 
+ * We shall also allocate grants of approximately €300 to applicants from the European Union. 
  * Should there be any surplus funds in the financial aid scheme after the application deadline, the surplus funds would be used to fund more complementary tickets (i.e. 25 or 30 rather than 20).
 
 ### Grant beneficiaries: 
-* This scheme is aimed at career-young Data Science Professonals, and in particular women and members of minority groups.
-* This grant will facilitate their attendance at the Data Science track at PyCon Ireland 2016.
+* This scheme is aimed at career-young Data Science professonals, particularly women and members of minority groups.
+* This grant will facilitate their attendance at PyCon Ireland 2016 for PyData talks and tutorials.
 
 ### Grant follow-up: 
-* Through our social media channels, Python Ireland will advertise the complementary ticket scheme to potential applicants, acknowledging the contribution of the Python Software Foundation.
+* Through our social media channels, Python Ireland will advertise the complementary ticket scheme to potential applicants, acknowledging the contribution of the NumFOCUS Foundation.
 * NumFOCUS will be acknowledged as a contributor/sponsor in our promotional material.
 
 ### Preferred method of funds delivery: 
