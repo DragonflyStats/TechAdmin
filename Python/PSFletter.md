@@ -1,12 +1,12 @@
 
 ### Grant Proposal: 
 * This year's PyCon Ireland takes place in the Radisson Blu Hotel in Dublin City Centre and consists of two days of talks, tutorials and workshops.  
-* PyCon 2016 will provide over 30 talks and tutorials by leading local and international leaders from the Python open source community, and will feature an exciting track focused on the use of Python in Data Sciences. 
-* We are expecting 330 attendees this year. Typically Attendees Tech events are mostly male. We hope to increase the proportion of female and minority community members.
+* PyCon 2016 will provide over 30 talks and tutorials by leading local and international leaders from the Python open source community, and will feature an exciting track focused on the use of Python in Data Sciences. We are expecting 330 attendees this year. * Typically attendees at tech events are mostly male. We hope to increase the proportion of female and minority community members.
 * Sponsorship from the Python Software Foundation would be greatly appreciated. 
 
 ### Grant objective: 
-* Our objective is to encourage more women and members of minority groups to attend PyCon Ireland, and subequently to engage more with the Python Community. We will use this part of this grant to distribute 20 free tickets.
+* Our objective is to encourage more women and members of minority groups to attend PyCon Ireland, and subequently to engage more with the Python Community. 
+* We will use this part of this grant to distribute 20 free tickets.
 * We will also use the remaining part of the grant to finance financial aid applications.
 
 ### Disclosure of Other Applications
@@ -15,8 +15,8 @@
 ### Grant size: 
 * USD $3,200.00  (i.e. €2,866.74 EUR)
 * This grant will be divided as follows:
-        $2000 approx (€1800) for 20 complementary tickets.
-        (Specifically €90 Euro towards the cost of each of the 20 tickets.)
+       *  $2000 approx (€1800) for 20 complementary tickets.
+       * (Specifically €90 Euro towards the cost of each of the 20 tickets.)
 * $1200 approx (€1000) for financial aid.
 
 ### Details on complementary tickets 
