@@ -8,7 +8,7 @@
 ### Grant objective: 
 * Our objective is to encourage more women and members of minority groups to attend PyCon Ireland, and subsequently to engage more with the Python Community. 
 * We will use part of this grant to distribute 20 complementary tickets.
-* The remaining part of the grant will be allocated to the Financial Aid.
+* The remaining part of the grant will be allocated to the Financial Aid fund.
 
 ### Disclosure of Other Applications
 * We intend to make a similar application to the NumFOCUS Foundation. 
