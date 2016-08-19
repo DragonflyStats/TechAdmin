@@ -1,3 +1,15 @@
+## December
+
+Bartender Appreciation Day
+
+5th December - Ninja Day
+Friday 9th December - Techno Day
+Sunday 11th December - International Mountain Day
+16th December - Ugly XMas Sweater Day
+Wright Brothers Day
+violin Day
+
+------------------------------------
 ### January
 Tuesday 5th - Bird Day
 Wednesday 6th  - Three Kings Day
