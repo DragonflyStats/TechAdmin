@@ -1,0 +1,11 @@
+Quality
+
+25 Marks for Each Question
+
+0) Short Questions
+
+1) Descriptive Statistics
+2) Probability Distributions
+3) Inference Procedures 1 Hypothesis Tests
+4) Inference Procedures 2 ANOVA and ED
+5) Chi Square and Non-Parametrics Statistics
