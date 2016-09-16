@@ -1,11 +1,20 @@
 Quality
 
+Questions 1 and 2 are compulsory.
+
 25 Marks for Each Question
 
-0) Short Questions
+1) Short Questions
+2) Experimental Design 
 
-1) Descriptive Statistics
-2) Probability Distributions
-3) Inference Procedures 1 Hypothesis Tests
-4) Inference Procedures 2 ANOVA and ED
-5) Chi Square and Non-Parametrics Statistics
+3) Descriptive Statistics
+4) Probability Distributions
+5) Inference Procedures 1 Hypothesis Tests
+6) Inference Procedures 2 ANOVA and ED
+7) Chi Square and Non-Parametrics Statistics
+
+##################################################################
+
+Compute the mean
+Normal Probability
+chi Square - Assumptions
