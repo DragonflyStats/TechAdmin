@@ -1,0 +1,87 @@
+	Correct	Parametric tests are based on some restrictive assumptions about the _____________. 
+
+Your Answer:
+
+population
+2.
+
+Correct	________________ are not dependent upon the restrictive normality assumption of the population. 
+
+Your Answer:
+
+Non-parametric tests
+3.
+
+Incorrect	The ________________ can be defined as the sequence of identical occurrence of the elements (numbers or symbols), preceded or followed by different occurrence of the elements or by no element at all.
+
+Your Answer:
+
+Kruskal-Wallis test	
+Correct Answer:
+
+run test
+4.
+
+Incorrect	Sampling distribution of R(run) can be approximated by ________________, with defined mean and standard deviation. 
+
+Your Answer:
+
+uniform distribution	
+Correct Answer:
+
+normal distribution
+5.
+
+Incorrect	The Mann-Whitney U test is a counterpart of the ________ to compare the means of two independent populations. 
+
+Your Answer:
+
+ANOVA	
+Correct Answer:
+
+t test
+6.
+
+Correct	When n1 (number of items in sample 1) and n2 (number of items in sample 2) both are ____________, the samples are considered as large. 
+
+Your Answer:
+
+greater than 10
+7.
+
+Correct	The _________ is a non-parametric alternative to the t test for related samples. 
+
+Your Answer:
+
+Wilcoxon test
+8.
+
+Incorrect	For the__________, when sample size (number of pairs) is less than or equal to 15 (n ≤ 15), it is treated as a small sample. 
+
+Your Answer:
+
+Friedman test	
+Correct Answer:
+
+Wilcoxon test
+9.
+
+Correct	The Kruskal-Wallis test is the non-parametric alternative to the _________________. 
+
+Your Answer:
+
+one-way ANOVA
+10.
+
+Correct	The Friedman test is the non-parametric alternative to the _______________. 
+
+Your Answer:
+
+randomized block design
+11.
+
+Correct	When data are of ordinal level (ranked data), the Pearson correlation coefficient r cannot be applied. In this case _______________ can be used to determine the degree of association between two variables. 
+
+Your Answer:
+
+Spearman’s rank correlation
