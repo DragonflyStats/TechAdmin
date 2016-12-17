@@ -23,5 +23,10 @@
 
 # Part 2 - The "High Forest" Data Set
 
-# - Survey Type
-# - Yield Class
+# - Segment III - Age Class Distribution (Estate Level / BAU Level)
+# - Segment IV  - Yield Class Distribution (Estate Level / BAU Level)
+# - Segment V   - Species Distribution (Estate Level / BAU Level)
+# - Segment VI  - Survey Year Distribution (Estate Level / BAU Level)
+
+##############################################################
+
