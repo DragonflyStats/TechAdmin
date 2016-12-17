@@ -1,0 +1,27 @@
+
+##############################################################
+
+# Preliminaries
+
+# - Use SQLlite R Package to import the data as "MainData".
+# - Clean up the data, and run some anomaly checks.
+# - Run some quality control routines.
+# - Prepare the data such that it can be divided into three parts
+#   1. HFData
+#   2. PotHFData
+#   3. NonHFdata
+
+##############################################################
+
+# Part 1
+
+# - In this section, we will create Tables 1 to 4. 
+# - This data aggregates information from the data sets.
+# - Gross Land Use Report
+
+##############################################################
+
+# Part 2 - The "High Forest" Data Set
+
+# - Survey Type
+# - Yield Class
