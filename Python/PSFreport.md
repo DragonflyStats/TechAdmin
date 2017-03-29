@@ -1,14 +1,14 @@
 
 ### Overview: 
-* PyCon Ireland 2016 takes place in the Radisson Blu Hotel in Dublin City Centre and consists of two days of talks, tutorials and workshops.  
+* PyCon Ireland 2016 takes place in the Radisson Blu Hotel in Dublin City Centre and consisted of two days of talks, tutorials and workshops.  
 * Our objective was to encourage more women and members of minority groups to attend PyCon Ireland, and subsequently to engage more with the Python Community. 
-* We used part of this grant to distribute 20 complementary tickets.
-* The remaining part of the grant was allocated to the Financial Aid fund.
+* We used part of this grant to distribute 20 complementary tickets to eligible applicants.
+* The remaining part of the grant was allocated to the Financial Aid fund, to furhter assist participation.
 
 
 ### Grant Size: 
-* USD $3,200.00  (i.e. €2,866.74 EUR)
-* This grant will be divided as follows:
+* We were awarded USD $3,200.00  (i.e. €2,866.74 EUR)
+* This grant was be divided as follows:
        *  $2000 approx (€1800) for 20 complementary tickets.
        * (Specifically €90 Euro towards the cost of each of the 20 tickets.)
 * $1200 approx (€1000) for financial aid.
@@ -29,4 +29,4 @@
 ### Surplus
 There was a surplus of 600 Euro, that remains unallocated.
 
-This came about due to 4 students opting not to attend. Their tickets were re-allocated to other eligible candidates, but the financial aid component was not. Those replacing were all based in dublin, and as such didn't not require assistance with accomodation costs.
+This came about due to 4 university students opting not to attend. Their tickets were re-allocated to other eligible candidates, but the financial aid component was not. Those replacing were all based in dublin, and as such didn't not require assistance with accomodation costs.
