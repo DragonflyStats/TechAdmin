@@ -13,6 +13,12 @@
        * (Specifically €90 Euro towards the cost of each of the 20 tickets.)
 * $1200 approx (€1000) for financial aid.
 
+### Actions
+* We issued 26 complementary tickets. €2340 is the aggregate costing.
+* We disbursed €330 euros for travel costs.
+* overall we disbursed €2670 in this diversity initiative.
+* We have a surplus of €196.74.
+
 ### Details on complementary tickets 
  * The total cost per person is €114.48 (USD $128 approx).
  * This figure is based on two key costs: venue rental costs (fixed) and catering costs (variable).
@@ -26,7 +32,4 @@
  * We shall also allocate grants of approximately €300 to applicants from the European Union. 
 
 
-### Surplus
-There was a surplus of 600 Euro, that remains unallocated.
-
-This came about due to 4 university students opting not to attend. Their tickets were re-allocated to other eligible candidates, but the financial aid component was not. Those replacing were all based in dublin, and as such didn't not require assistance with accomodation costs.
+### Proposed Action on Surplus
