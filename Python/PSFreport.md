@@ -21,9 +21,12 @@
 
 ### Details on financial aid
  * We used existing funds for this scheme, in addition to any grant funds received.
- * We shall allocate grants of approximatley €150 to applicants from the Island of Ireland. 
+ * We shall allocate grants of approximately €150 to applicants from the Island of Ireland. 
  * A minimum of 50% of the financial aid budget will be spent this way.
  * We shall also allocate grants of approximately €300 to applicants from the European Union. 
- * Should there be any surplus funds in the financial aid scheme after the application deadline, the surplus funds would be used to fund more complementary tickets.
 
 
+### Surplus
+There was a surplus of 600 Euro, that remains unallocated.
+
+This came about due to 4 students opting not to attend. Their tickets were re-allocated to other eligible candidates, but the financial aid component was not. Those replacing were all based in dublin, and as such didn't not require assistance with accomodation costs.
