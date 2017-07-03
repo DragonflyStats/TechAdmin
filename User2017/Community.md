@@ -22,6 +22,13 @@ effort to make their community as inclusive as possible.
 
 * Check out the PyData community too.
 
+### online courses
+* Coursera
+* Edx
+* Datacamp
+
+Peloton effect
+
 ### Stack Overflow
 
 * Best thing ever invented
