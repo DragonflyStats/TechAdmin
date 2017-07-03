@@ -6,12 +6,13 @@ R Community
 * Short talk events for novices (10 minute a talk)
 * Knowledge Transfer
 * How much has R changed over last 4 years? Pipe operator syntax
-* Weekend workshops
-* provide Venues / Volunteer to mentor
+* Weekend workshops : worth coming a distance 
+* Provide Venues / Volunteer to Mentor
 * Coder Dojos (for adults)
 
 * Tough to organize, but organizers still need to make the
 effort to make their community as inclusive as possible.
+* Venues are a big issue.
 
 * PyData groups
 
