@@ -1,9 +1,11 @@
-R Community
+Navigating the R Community
 ===================
 
 * User Groups 
 * Meetup Communities
 * Short talk events for novices (10 minute a talk)
+
+* ERUM 2018 (Poznan?)
 
 #### Knowledge Transfer
 * How much has R changed over last 4 years? Pipe operator syntax
