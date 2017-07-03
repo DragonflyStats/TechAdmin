@@ -4,15 +4,19 @@ R Community
 * User Groups 
 * Meetup Communities
 * Short talk events for novices (10 minute a talk)
-* Knowledge Transfer
+
+#### Knowledge Transfer
 * How much has R changed over last 4 years? Pipe operator syntax
 * Weekend workshops : worth coming a distance 
 * Provide Venues / Volunteer to Mentor
 * Coder Dojos (for adults)
 
+#### being an organuzer
+
 * Tough to organize, but organizers still need to make the
 effort to make their community as inclusive as possible.
 * Venues are a big issue.
+* Worth it 
 
 * Check out the PyData community too.
 
