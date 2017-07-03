@@ -14,12 +14,16 @@ R Community
 effort to make their community as inclusive as possible.
 * Venues are a big issue.
 
-* PyData groups
+* Check out the PyData community too.
+
+### Stack Overflow
+
+* Best thing ever invented
 
 ### Twitter
 Hashtags
 * Rstats
-* Rhelp
+* Rhelp (revodavid)
 * Rugs
 * PyData
 
