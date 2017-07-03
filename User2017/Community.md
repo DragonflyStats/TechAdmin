@@ -18,7 +18,7 @@ Navigating the R Community
 * Tough to organize, but organizers still need to make the
 effort to make their community as inclusive as possible.
 * Venues are a big issue.
-* Worth it 
+* Worth the effort
 
 * Check out the PyData community too.
 
@@ -38,6 +38,6 @@ Hashtags
 
 
 ### Alterconf
-* Soeaking of signal boost
+* Speaking of signal boost
 * Edinburgh in January 2018 (next european one I think )
 * Enbytech.github.io
