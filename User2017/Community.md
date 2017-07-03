@@ -1,10 +1,32 @@
 R Community
 ===================
 
-* User Groups Meetup Communities
+* User Groups 
+* Meetup Communities
+* Short talk events for novices (10 minute a talk)
+* Knowledge Transfer
+* How much has R changed over last 4 years? Pipe operator syntax
+* Weekend workshops
+* provide Venues / Volunteer to mentor
+* Coder Dojos (for adults)
 
-Weekend worksops
-Cider Dijos for adults
-Twitter
+* Tough to organize, but organizers still need to make the
+effort to make their community as inclusive as possible.
+
+* PyData groups
+
+### Twitter
 Hashtags
- # prstars
+* Rstats
+* Rhelp
+* Rugs
+* PyData
+
+#### Signal Boosting
+* Maybe not relevant for you, but maybe for someone you know
+
+
+### Alterconf
+* Soeaking of signal boost
+* Edinburgh in January 2018 (next european one I think )
+* Enbytech.github.io
