@@ -28,8 +28,8 @@
 ### Details on financial aid
  * We used existing funds for this scheme, in addition to any grant funds received.
  * We allocated grants of approximately €150 to applicants from the Island of Ireland. 
- * As per the criteria set out in our application, A minimum of 50% of the financial aid budget was be spent this way.
-
+ * As per the criteria set out in our application, a minimum of 50% of the financial aid budget was be spent this way.
 
 
 ### Proposed Action on Surplus
+ * Use the surplus to the faciliate similar activities for Pycon 2017.
