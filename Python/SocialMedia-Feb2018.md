@@ -16,7 +16,7 @@ We have a system of pre-scheduling tweets (CFPs, Youtube videos, etc) which twee
 * In August 2017, we boosted a post about the CFP. We reached 5400 people at a cost of 17 Euro. I think this was a successful strategy, 
 and a satisfactory return on investment.
 
-***Proposed Action: ***
+***Proposed Action:***
 * Have more FB page admins. 
 * Have pre-scheduled FB posts related to Python (not Relays from Twitter).
 * More high-quality content. Suitable content on twitter does not equate to suitable content on FB.
@@ -27,11 +27,11 @@ and a satisfactory return on investment.
 * I propose to use Linkedin more for outreach and promotion.
 * It has a very impressive impression rate, but harder to automate processes.
 
-*** Proposed Action: ***
+*** Proposed Action:***
 * Volunteers to come forward to act as moderators/Admins
 
 ### Irish Tech Community Slack
 
-*** Proposed Action: ***
+*** Proposed Action:***
 * The committee all join, and be a bit more active in promoting Python Ireland.
 
