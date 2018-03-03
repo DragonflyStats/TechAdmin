@@ -3,13 +3,12 @@
 by definion, skewed.
 
 * The Boxplot is designed for symmetric distributions, and as such is an invalid 
-approach for Skewed Data. [1]
+approach for Skewed Data. [1] 
 
 >The boxplot is a very popular graphical tool for visualizing the distribution of continuous unimodal data. It shows information about the location, spread, skewness as well as the tails of the data. However, when the data are skewed, usually many points exceed the whiskers and are often erroneously declared as outliers.
 
 
-* Statistical Analyis must rely on methods that recognize the skewed nature of the data.
-These methods are less commonly encountered in scientific literature.
+* Statistical Analyis must rely on methods that recognize the skewed nature of the data. Specifically standard approaches for outlier detection in skewed data. These methods are less commonly encountered in scientific literature.
 
 ### Bowley’s seven-figure summary
 For skewed variables, Arthur Bowley proposed a set of non-parametric statistics [2], 
