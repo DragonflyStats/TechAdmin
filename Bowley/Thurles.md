@@ -32,3 +32,5 @@ https://www.sciencedirect.com/science/article/pii/S0167947307004434
 
 [2]Bowley - Elementary Manual of Statistics, 3rd ed., p.62.
 https://archive.org/stream/elementarymanual00bowluoft#page/62/mode/2up
+
+[3] http://d-scholarship.pitt.edu/7948/1/Seo.pdf
