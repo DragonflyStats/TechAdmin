@@ -1,7 +1,11 @@
-Checkk out "HubSpot Design Night"
-6pm Thu, 12th April @ HubSpot European Office, Dublin 1 
-https://www.eventbrite.com/e/hubspot-design-night-tickets-44144835391
 
+Check out the next Ember.js Dublin meetup
+7pm Tuesday 17th April in @intercom, Dublin 2. 
+https://t.co/OBJ82CIKCl
+
+"Cloud Data Warehousing and BI" with Hadoop User Group Ireland
+https://www.meetup.com/hadoop-user-group-ireland/events/249634018/
+Tuesday,1st May (8:30AM - 11:00AM)
 
 https://www.meetup.com/Google-Cloud-Developers-Group-Dublin/events/248367267/
 Friday, April 13, 2018
