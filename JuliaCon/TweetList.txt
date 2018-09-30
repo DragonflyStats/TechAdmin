@@ -67,7 +67,9 @@ https://www.youtube.com/watch?v=CD4EiDNeNg4
 ----------------------
 
 Cassette: Dynamic, Context-Specific Computer Pass Injection for Julia
-
+with Jarrett Revels MIT
+https://www.youtube.com/watch?v=_E2zEzNEy-8&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=46
+#JuliaLang
 ----------------------
 
 
@@ -76,7 +78,7 @@ Combine ML for Seamless Ensembling of Machine Learning Models
 
 ----------------------
 Complex Network Anaylsis of Political Data
-
+https://www.youtube.com/watch?v=pTZOKB10rpY&index=49&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB
 ----------------------
 
 
@@ -115,13 +117,19 @@ Extended Precision with #JuliaLang
 
 ----------------------
 
-Fast and efficient multicore processing over the cloud with Julia
+Fast and Efficient Multicore Processing over the Cloud with Julia
+Tuomas Eerola from @techilatech at JuliaCon 2018 London
+https://www.youtube.com/watch?v=rz3BL2gB_Ak&index=32&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB
+#JuliaLang
+
 ----------------------
 Fast derivative pricing in Julia
 
 
 ---------------------
 ForneyLab.jl: a Julia Toolbox for Factor Graph-based Probabilistic Programming
+https://www.youtube.com/watch?v=RS4hJ4oBr9c&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=37
+#JuliaLang
 
 ---------------------
 For Loops 2.0: Index Notation And The Future Of Tensor Compilers.
@@ -142,7 +150,7 @@ Graph Interfaces: bespoke graphs for every occasion
 GSReg.jl: High Performance Computing in Econometrics
 
 ----------------------
-How to design equiripple filters in Julia?
+How to Design Equiripple Filters in Julia?
 ----------------------
 
 How Esty handles "Peeking" in A/B Testing
@@ -165,9 +173,12 @@ Julia for Physics: Quantum Monte Carlo
 ----------------------
 
 Julia for Interactive Data Visualization: Adding Dynamic Behaviour to Static Documents
+https://www.youtube.com/watch?v=Ns09HR43zEY&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=42
+#JuliaLang
+
 ----------------------
 
-Julia as a platform for language development
+Julia as a Platform for Language Development
 ----------------------
 
 Julia apps on the App Store: Building and distributing an application written in Julia
@@ -186,8 +197,14 @@ https://www.youtube.com/watch?v=wFzkNSoKo0U&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYt
 
 Julia powered personalised mathematics homework
 
+------------------
+Interacting with Nested Data
+Presented by Andy Ferris at JuliaCon 2018 London
+https://www.youtube.com/watch?v=vWZzmV7mHiw&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=50
+#JuliaLang
 
-Interacting with nested data
+
+
 
 ###########################  K , L
 
@@ -202,6 +219,9 @@ LARLIB.jl: Solid Modelling in Julia
 ----------------------
 
 Large Scale Airborne Electromagnetic Geophysics in Julia
+https://www.youtube.com/watch?v=pxP67ElwUM4&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=29
+#JuliaLang
+
 ----------------------
 
 
@@ -290,12 +310,12 @@ Scalable Data Science with JuliaDB and OnlineStats
 https://www.youtube.com/watch?v=lyRW1XOwnsg&index=17&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB
 
 ----------------
-Show casing Julia on the Web
+Showcasing Julia on the Web
 ----------------
 Simulating global plant biodiversity
 
 ----------------
-Solving sparse linear systems with Trilinos.jl
+Solving Sparse Linear Systems with Trilinos.jl
 ----------------------
 
 Solving Partial Differential Equations with Julia
@@ -303,7 +323,11 @@ Chris Rackauckas
 
 ----------------
 
-Subtyping made friendly
+Subtyping Made Friendly
+With Francesco Zappa Nardelli
+https://www.youtube.com/watch?v=Y95fAipREHQ&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=45
+#JuliaLang
+
 ----------------------
 Taking Vector Transposes Seriously with Jiahao Chen 
 ----------------
