@@ -1,6 +1,14 @@
 ########################### A, B, C
 
+An introduction to high performance custom arrays
+----------------------
 
+10 tips on how to build better binaries
+----------------------
+
+0.1 vs 1//10: How numbers are compared
+
+------------------------
 
 An intro to Bayesian parameter estimation of differential equation models using DiffEqBayes.jl
 ----------------------
@@ -16,6 +24,10 @@ A formula for bringing data across table--matrix divide
 500K - Providing training to 500K individuals across India in AL
 ----------------------
 
+A Scalable Scheduler Plugin For Daggar on JuliaRun 
+https://www.youtube.com/watch?v=2G4ptA5J1bk&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=15
+----------------
+
 A Conversation with Gilbert Strang  
 Keynote given by Prof. Strang at JuliaCon 2018
 https://www.youtube.com/watch?v=gGYcSjrqbjc&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=5&t=0s
@@ -30,117 +42,63 @@ ARCH Models in Julia
 Atomistic simulation with Julia
 ----------------------
 
+----------------
+Atomistic Simulation with Julia 
+https://www.youtube.com/watch?v=7E83Qkc6ZDg
 
-BayesTesting.jl: Bayesian Hypothesis Testing without tears
+------------------------
+
+BayesTesting.jl: Bayesian Hypothesis Testing Without Tears
+
 ----------------------
+#Twitter : Actioned
 
-Bringing ocean, climate and ecosystem modeling to Julia
+Bringing Ocean, Climate and Ecosystem Modeling to Julia
+with Gael Forget, Research Scientist at MIT
+https://www.youtube.com/watch?v=RDxAy_zSUvg
+#JuliaLang
 ----------------------
+#Twitter : Actioned
 
-
-Building a strong foundation for geospatial innovation
+Building A Strong Foundation for Geospatial Innovation
+with Martijn Visser (@Deltares) at JuliaCon 2018
+https://www.youtube.com/watch?v=CD4EiDNeNg4
+#JuliaLang #GIS
 ----------------------
 
 Cassette: Dynamic, Context-Specific Computer Pass Injection for Julia
+
+----------------------
+
+
+
+Combine ML for Seamless Ensembling of Machine Learning Models
+
+----------------------
+Complex Network Anaylsis of Political Data
+
+----------------------
+
+
+
+
 
 
 ########################### D, E, F, G, H
 
 
-
-
-Extended Precision with #JuliaLang
-
-
-----------------------
-Fast derivative pricing in Julia
-----------------------
-
-Fast and efficient multicore processing over the cloud with Julia
-----------------------
-
-Flux: The Elegant Machine Learning Library
-Presented by Mike Innes @ JuliaCon 2018
-https://www.youtube.com/watch?v=R81pmvTP_Ik
-#JuliaLang #MachineLearning #DataScience
-
-########################### I, J, K , L
-
-
-########################## M, N, O
-Making the test-debug cycle more efficient
-Presented by Prof. Tim Holy @ JuliaCon 2018
-https://www.youtube.com/watch?v=KuM0AGaN09s
-
-
-
-----------------------
-Pkg3: The new Julia package manager 
-Presented by Stefan Karpinski at JuliaCon 2018
-https://www.youtube.com/watch?v=HgFmiT5p0zU&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=4&t=0s
-#JuliaLang
-
-
-
-
-An introduction to high performance custom arrays
-----------------------
-
-10 tips on how to build better binaries
-----------------------
-
-0.1 vs 1//10: How numbers are compared
-
-------------------------
-Memento: Logging for Systems and Applications 
-https://www.youtube.com/watch?v=Q0L-at3PyU8&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=10
-
-Parallel Prefix Polymorphism 
-https://www.youtube.com/watch?v=JCvT9Rnhyvk&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=12
-----------------
-Parallel Computing with MPI-3 RMA and Julia 
-https://www.youtube.com/watch?v=2_zSJ4wJ8tg&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=13
-----------------
-Performance of a distributed Julia simulation on an AWS Spot Fleet vs a Cray Supercomputer 
-https://www.youtube.com/watch?v=-AazDsvrcpU&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=14
-----------------
-A Scalable Scheduler Plugin For Daggar on JuliaRun 
-https://www.youtube.com/watch?v=2G4ptA5J1bk&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=15
-----------------
 How JuliaDB works 
-----------------
-Scalable Data Science with JuliaDB and OnlineStats 
-https://www.youtube.com/watch?v=lyRW1XOwnsg&index=17&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB
 
-----------------
-
-JuliaDBMeta and StatPlots: metaprogramming tools for manipulating and visualizing data 
-https://www.youtube.com/watch?v=wFzkNSoKo0U&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=18
-----------------
 Engineering Julia for Speed 
 ----------------
-Taking Vector Transposes Seriously with Jiahao Chen 
-----------------
-Julia for Space Science: An Antidote for complexity 
-----------------
-The Future of Microprocessors 
-----------------
-Atomistic simulation with Julia 
-https://www.youtube.com/watch?v=7E83Qkc6ZDg&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=20
 
-Complex Network Anaylsis of Political Data
+
+
+----------------------
+Domo + Julia: Learnings from scaling Julia up to process petabytes in production
 ----------------------
 
-Combine ML for Seamless Ensembling of Machine Learning Models
-----------------------
-
-Memento: Logging for Systems and Applications
-Presented by Eric Davies (Invenia Labs) at JuliaCon 2018
-https://www.youtube.com/watch?v=Q0L-at3PyU8&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=11&t=0s
-#JuliaLang
-----------------------
-Machine Learning with Julia: Elegance, Speed and Ease
-
+DataDeps.jl and other foundational tools for data driven research
 ----------------------
 EvolvingGraphs.jl: Working with Time Dependent Networks in Julia
 ----------------------
@@ -153,83 +111,47 @@ Engineering Julia for Speed
 ----------------------
 
 
-Domo + Julia: Learnings from scaling Julia up to process petabytes in production
+Extended Precision with #JuliaLang
+
 ----------------------
 
-DataDeps.jl and other foundational tools for data driven research
+Fast and efficient multicore processing over the cloud with Julia
 ----------------------
+Fast derivative pricing in Julia
 
 
-LightFields.jl: Fast 3D image reconstruction for VR applications
-----------------------
-
-The Bayesian Trap 
-----------------
-Implementing the NAG library with with Clang.jl 
-
-
-Understanding the real world: large-scale point cloud classification
-----------------------
-
-----------------
-Natural Language Processing workshop using Julia
-----------------
-Native Elementary Functions in Julia
 ---------------------
+ForneyLab.jl: a Julia Toolbox for Factor Graph-based Probabilistic Programming
 
-Subtyping made friendly
-----------------------
-Solving sparse linear systems with Trilinos.jl
-----------------------
-
-Solving Partial Differential Equations with Julia
-Chris Rackauckas
-----------------
-Simulating global plant biodiversity
-Show casing Julia on the Web
-----------------
-RHEOS: Making mechanical testing more accessible with Julia
-Queryverse
-----------------
-PuMaS.jl: Pharmaceutical Modeling and Simulation Engine
-Probabilistic modelling of long course sailing craft routing
-----------------
-Parameters.jl: keyword constructors and default values for types
-----------------
-Our journey through the Perils of AOT compilation
-----------------
-Optimization of a pumped-storage hydro power plant in Julia with SDDP Algorithm
-----------------
-OMEGA: Fast, causal Inference from Simple Parts
-Numerical Analysis in Julia
-----------------
-New in DataStreams.jl: Type flexibility, querying, and parallelism
-----------------
-Natural Language Processing workshop using Julia
-----------------
-Native Elementary Functions in Julia
 ---------------------
-Memento: Logging for Systems and Applications
-Presented by Eric Davies (Invenia Labs) at JuliaCon 2018
-https://www.youtube.com/watch?v=Q0L-at3PyU8&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=11&t=0s
-#JuliaLang
-----------------------
-Machine Learning with Julia: Elegance, Speed and Ease
-
-LightFields.jl: Fast 3D image reconstruction for VR applications
+For Loops 2.0: Index Notation And The Future Of Tensor Compilers.
 ----------------------
 
-Latexify.jl and how Julia's metaprogramming makes it useful
-
+Flux: The Elegant Machine Learning Library
+Presented by Mike Innes @ JuliaCon 2018
+https://www.youtube.com/watch?v=R81pmvTP_Ik
+#JuliaLang #MachineLearning #DataScience
 ----------------------
 
-LARLIB.jl: Solid Modelling in Julia
+From Deep Neural Networks to Fully Differential Programs
 ----------------------
 
-Large Scale Airborne Electromagnetic Geophysics in Julia
+
+Graph Interfaces: bespoke graphs for every occasion
+----------------------
+GSReg.jl: High Performance Computing in Econometrics
+
+----------------------
+How to design equiripple filters in Julia?
 ----------------------
 
-Julia powered personalised mathematics homework
+How Esty handles "Peeking" in A/B Testing
+
+---------------------
+Hierarchical Tensor Decompositions in Julia
+
+########################### I, J
+
 ----------------
 TWITTER : ACTIONED
 FB:  NOT ACTIONED
@@ -254,54 +176,174 @@ Julia apps on the App Store: Building and distributing an application written in
 Joulia.jl – A Package for Large-scale Open-source Electricity Sector Models
 ----------------------
 
+Julia for Space Science: An Antidote for complexity 
+
+----------------
+JuliaDBMeta and StatPlots: metaprogramming tools for manipulating and visualizing data 
+https://www.youtube.com/watch?v=wFzkNSoKo0U&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=18
+
+----------------
+
+Julia powered personalised mathematics homework
+
+
 Interacting with nested data
+
+###########################  K , L
+
+LightFields.jl: Fast 3D image reconstruction for VR applications
 ----------------------
 
-How to design equiripple filters in Julia?
-----------------------
-
-How Esty handles "Peeking" in A/B Testing
-
-Hierarchical Tensor Decompositions in Julia
-----------------------
-
-GSReg.jl: High Performance Computing in Econometrics
-Graph Interfaces: bespoke graphs for every occasion
-From Deep Neural Networks to Fully Differential Programs
-----------------------
-
-ForneyLab.jl: a Julia Toolbox for Factor Graph-based Probabilistic Programming
-
-For Loops 2.0: Index Notation And The Future Of Tensor Compilers.
-----------------------
-
-Flux: The Elegant Machine Learning Library
+Latexify.jl and how Julia's metaprogramming makes it useful
 
 ----------------------
 
-TIM: Unified Large-scale Forecasting system for Load, Gas, Solar and Wind in Julia
+LARLIB.jl: Solid Modelling in Julia
 ----------------------
 
-The Turing language for probabilistic programming
+Large Scale Airborne Electromagnetic Geophysics in Julia
 ----------------------
 
-The JuMP ecosystem for mathematical optimization
+
+
+
+
+
+
+########################## M, N, O, P
+Memento: Logging for Systems and Applications
+Presented by Eric Davies (Invenia Labs) at JuliaCon 2018
+https://www.youtube.com/watch?v=Q0L-at3PyU8&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=11&t=0s
+#JuliaLang
+
 ----------------------
 
-The JuliaGraphs ecosystem: build fast - don't break things
+Machine Learning with Julia: Elegance, Speed and Ease
+
 ----------------------
 
-Teaching Data Analysis first steps with Julia
+Making the test-debug cycle more efficient
+Presented by Prof. Tim Holy @ JuliaCon 2018
+https://www.youtube.com/watch?v=KuM0AGaN09s
+
+----------------
+Native Elementary Functions in Julia
+
+
+----------------
+Natural Language Processing workshop using Julia
+
+---------------------
+
+New in DataStreams.jl: Type flexibility, querying, and parallelism
+
+--------------------
+
+
+Natural Language Processing workshop using Julia
+
+----------------
+
+Numerical Analysis in Julia
+
+----------------
+
+###################### O, P 
+
+Our journey through the Perils of AOT compilation
+----------------
+Optimization of a pumped-storage hydro power plant in Julia with SDDP Algorithm
+----------------
+OMEGA: Fast, causal Inference from Simple Parts
+
+
+----------------
+Parameters.jl: keyword constructors and default values for types
+----------------
+
+Parallel Prefix Polymorphism 
+https://www.youtube.com/watch?v=JCvT9Rnhyvk&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=12
+----------------
+Parallel Computing with MPI-3 RMA and Julia 
+https://www.youtube.com/watch?v=2_zSJ4wJ8tg&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=13
+----------------
+Performance of a distributed Julia simulation on an AWS Spot Fleet vs a Cray Supercomputer 
+https://www.youtube.com/watch?v=-AazDsvrcpU&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=14
+----------------------
+Pkg3: The new Julia package manager 
+Presented by Stefan Karpinski at JuliaCon 2018
+https://www.youtube.com/watch?v=HgFmiT5p0zU&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=4&t=0s
+#JuliaLang
+----------------
+Probabilistic modelling of long course sailing craft routing
+With Thomas Dickson, Uni. of Southampton
+https://www.youtube.com/watch?v=H9734QKifKg
+#Julialang
+----------------
+PuMaS.jl: Pharmaceutical Modeling and Simulation Engine
+with Chris Rackauckas
+
+######################## R, S, T, U
+
+----------------
+Scalable Data Science with JuliaDB and OnlineStats 
+https://www.youtube.com/watch?v=lyRW1XOwnsg&index=17&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB
+
+----------------
+Show casing Julia on the Web
+----------------
+Simulating global plant biodiversity
+
+----------------
+Solving sparse linear systems with Trilinos.jl
 ----------------------
 
-Tame your databases: SearchLight ORM
+Solving Partial Differential Equations with Julia
+Chris Rackauckas
+
+----------------
+
+Subtyping made friendly
 ----------------------
+Taking Vector Transposes Seriously with Jiahao Chen 
+----------------
+
+The Future of Microprocessors 
+
+
+########################
+
+
+LightFields.jl: Fast 3D image reconstruction for VR applications
+----------------------
+
+The Bayesian Trap 
+----------------
+Implementing the NAG library with with Clang.jl 
+
+
+Understanding the real world: large-scale point cloud classification
+----------------------
+
+
+
+RHEOS: Making mechanical testing more accessible with Julia
+----------------------
+Queryverse
+
+
 
 
 
 ############# S,T,U,V,W,X,Y,Z
 
 ----------------------
+Teaching Data Analysis first steps with Julia
+----------------------
+
+Tame your databases: SearchLight ORM
+----------------------
+# ACTIONED
 Teaching Statistics To The Masses with Julia
 Presented by Hayden Klok at JuliaCon 2018
 https://www.youtube.com/watch?v=-_PcJGdpwb4&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=11
@@ -312,16 +354,33 @@ The Future of Microprocessors
 Keynote Talk by Sophie Wilson @ JuliaCon 2018
 https://www.youtube.com/watch?v=zX4ZNfvw1cw
 ----------------------
+The JuliaGraphs ecosystem: build fast - don't break things
+
+
+----------------------
+
+TIM: Unified Large-scale Forecasting system for Load, Gas, Solar and Wind in Julia
+----------------------
+
+The Turing Language for Probabilistic Programming
+with Hong Ge (Uni. of Cambridge)
+https://www.youtube.com/watch?v=re4ggpDgoR0
+
+----------------------
+
+The JuMP ecosystem for mathematical optimization
+----------------------
+
+
+
 Visual Studio Code Julia extension 
 Presented by David Anthoff at JuliaCon 2018
 https://www.youtube.com/watch?v=MYbl_za-x9U&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=8
 An Introduction to Julia
-----------------------
-----------------
-Why Julia is the most suitable language for science
+
 ----------------------
 
-Whale recognition using a CNN with Julia
+Whale Recognition Using a CNN with Julia
 ----------------------
 
 
