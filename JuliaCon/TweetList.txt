@@ -19,7 +19,11 @@ Algebraic Simplification Using Rewrite.jl
 A practical introduction to metaprogramming in Julia
 ----------------------
 
-A formula for bringing data across table--matrix divide
+"A formula for bringing data across table--matrix divide" 
+Dave Kleinschmidt (@kleinschmidt) presenting @ JuliaCon 2018, UCL London
+https://www.youtube.com/watch?v=HORLJrsghs4
+#JuliaCon #JuliaLang 
+
 ----------------------
 500K - Providing training to 500K individuals across India in AL
 ----------------------
@@ -40,15 +44,15 @@ ARCH Models in Julia
 ----------------------
 
 Atomistic simulation with Julia
-----------------------
 
-----------------
-Atomistic Simulation with Julia 
 https://www.youtube.com/watch?v=7E83Qkc6ZDg
 
 ------------------------
 
-BayesTesting.jl: Bayesian Hypothesis Testing Without Tears
+BayesTesting.jl: #Bayesian Hypothesis Testing Without Tears
+Presented by Jeff Mills @ JuliaCon 2018 @ UCL London
+https://www.youtube.com/watch?v=Ip8Ci5KUVRc
+#Statistics #Bayes
 
 ----------------------
 #Twitter : Actioned
@@ -102,10 +106,18 @@ Domo + Julia: Learnings from scaling Julia up to process petabytes in production
 
 DataDeps.jl and other foundational tools for data driven research
 ----------------------
-EvolvingGraphs.jl: Working with Time Dependent Networks in Julia
+EvolvingGraphs.jl: Working with Time Dependent Networks in #JuliaLang
+Presented by W Zhang @ JuliaCon 2018 UCL London 
+https://www.youtube.com/watch?v=qo25P5TURuw
+
 ----------------------
 
-Estimating Non-Linear Macroeconomic Models at the New York Fed
+Estimating Non-Linear Macroeconomic Models at the New York Fed @NYFedResearch
+Presented by M Cai at JuliaCon 2018 @ UCL London, August 2018
+https://www.youtube.com/watch?v=dFyr8U-SY2M
+
+
+
 Enhanced String handling in Julia
 ----------------------
 
@@ -128,7 +140,7 @@ Fast derivative pricing in Julia
 
 ---------------------
 ForneyLab.jl: a Julia Toolbox for Factor Graph-based Probabilistic Programming
-https://www.youtube.com/watch?v=RS4hJ4oBr9c&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=37
+https://www.youtube.com/watch?v=RS4hJ4oBr9c
 #JuliaLang
 
 ---------------------
@@ -149,6 +161,7 @@ Graph Interfaces: bespoke graphs for every occasion
 ----------------------
 GSReg.jl: High Performance Computing in Econometrics
 
+GSReg.jl: High Performance Computing in Econometrics | Ungaro & Mari
 ----------------------
 How to Design Equiripple Filters in Julia?
 ----------------------
@@ -165,7 +178,7 @@ TWITTER : ACTIONED
 FB:  NOT ACTIONED
 Julia is an R & D binding agent
 Presented by Mayeul d'Avezac (Imperial College London) at JuliaCon 2018
-https://www.youtube.com/watch?v=2yd84zMpzL8&index=26&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB
+https://www.youtube.com/watch?v=2yd84zMpzL8
 #JuliaLang
 ----------------
 
@@ -173,8 +186,9 @@ Julia for Physics: Quantum Monte Carlo
 ----------------------
 
 Julia for Interactive Data Visualization: Adding Dynamic Behaviour to Static Documents
-https://www.youtube.com/watch?v=Ns09HR43zEY&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=42
-#JuliaLang
+Presented by Yuri Vishnevsky @ JuliaCon 2018 UCL London
+http://www.youtube.com/watch?v=Ns09HR43zEY
+#JuliaLang #DataViz
 
 ----------------------
 
