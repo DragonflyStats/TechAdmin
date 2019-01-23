@@ -1,4 +1,66 @@
+https://www.eventbrite.ie/e/tech-space-tickets-55277025070?aff=ebdssbdestsearch
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+https://www.eventbrite.ie/e/tech-for-good-next-generation-tickets-54752642628?aff=ebdssbdestsearch
+Date and Time
+
+Thu, 7 February 2019
+
+18:00 – 20:00 GMT
+
+Add to Calendar
+Location
+
+AIB Bank
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+https://www.eventbrite.com/e/nordic-tech-tour-dublin-registration-54909081541?aff=ebdssbdestsearch
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+https://www.eventbrite.ie/e/mentorship-for-women-in-tech-empowering-women-tickets-50144214696?aff=ebdssbdestsearch
+31st Jan 
+Mentorship for Women in Tech - Empowering Women
+by Girls in Tech Dublin
+
+
+
+https://www.eventbrite.ie/e/gdg-dublin-january-2019-kotlin-tickets-55021083542?aff=ebdssbdestsearch
+
+https://www.eventbrite.co.uk/e/an-introduction-to-azure-and-cloud-security-tickets-55078855339
+
+https://www.eventbrite.ie/e/the-future-of-machine-learning-tickets-54520685839?aff=ebdssbdestsearch
+
+
+Tue, 19 February 2019
+
+10:00 – 17:30 GMT
+
+Add to Calendar
+Location
+
+Maryborough Hotel,
+
+Maryborough Hill
+
+Douglas
+
+T12XR12 Cork 
+
+
+https://www.eventbrite.ie/e/mentorship-for-women-in-tech-empowering-women-tickets-50144214696?aff=ebdssbdestsearch
+
+
+https://techlifeireland.com/tech-in-ireland/the-lowdown-on-pyconie-2018-irelands-python-conference/
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
 https://www.eventbrite.com/e/free-course-introduction-into-it-networks-computing-ccnaie-tickets-52664870044
 https://www.eventbrite.ie/e/introduction-to-3d-printing-with-ryan-paetzold-tickets-49934033037
 https://www.eventbrite.com/e/prof-michal-lipson-the-history-and-state-of-art-of-optics-on-a-chip-tickets-52953863431
