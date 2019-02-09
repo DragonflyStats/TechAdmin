@@ -45,3 +45,28 @@ SQL Ireland User Group presents
 ETL in #Azure made easy with Data Factory Data Flow 
 6:30 PM  Tuesday, 5th March  @ One Microsoft Place, Leopardstown
 https://www.meetup.com/SQLIreland/events/255115027/
+
+
+Limerick Software Testing Meetup 
+8pm Tuesday, 19th February @ Fennessy's pub #Limerick #devops
+https://www.meetup.com/Limerick-Software-Testing-Meetup/events/257892749/
+
+
+Check out the CorkJS March Meetup
+6:30pm Tuesday, 2nd April @Plus10org #coworking space, #Cork, Ireland
+https://www.meetup.com/Cork-JavaScript-Meetup/events/jzkfqqyzfbhb/ 
+#Devops #Javascript
+
+
+
+Helm 101: Tame the chaos of your #Kubernetes apps with #Helm charts
+with Cork Open Technology
+Tuesday, 19th February , Cork City Centre
+https://www.meetup.com/Cork-OpenTechnology/events/258491269/
+#CNCF
+
+Technology Carlow 
+Get to know each other and begin doing tech meetups 
+https://www.meetup.com/Technology-Carlow/events/258559767/
+7PM  Tuesday, 12th February @DinnriHotel
+#Carlow #Opensource
