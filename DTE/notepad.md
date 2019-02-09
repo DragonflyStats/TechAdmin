@@ -1,20 +1,7 @@
 https://www.eventbrite.ie/e/tech-space-tickets-55277025070?aff=ebdssbdestsearch
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-https://www.eventbrite.ie/e/tech-for-good-next-generation-tickets-54752642628?aff=ebdssbdestsearch
-Date and Time
-
-Thu, 7 February 2019
-
-18:00 – 20:00 GMT
-
-Add to Calendar
-Location
-
-AIB Bank
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -22,14 +9,6 @@ https://www.eventbrite.com/e/nordic-tech-tour-dublin-registration-54909081541?af
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-https://www.eventbrite.ie/e/mentorship-for-women-in-tech-empowering-women-tickets-50144214696?aff=ebdssbdestsearch
-31st Jan 
-Mentorship for Women in Tech - Empowering Women
-by Girls in Tech Dublin
-
-
-
-https://www.eventbrite.ie/e/gdg-dublin-january-2019-kotlin-tickets-55021083542?aff=ebdssbdestsearch
 
 https://www.eventbrite.co.uk/e/an-introduction-to-azure-and-cloud-security-tickets-55078855339
 
@@ -40,14 +19,7 @@ Tue, 19 February 2019
 
 10:00 – 17:30 GMT
 
-Add to Calendar
-Location
-
-Maryborough Hotel,
-
-Maryborough Hill
-
-Douglas
+Maryborough Hotel, Maryborough Hill, Douglas
 
 T12XR12 Cork 
 
@@ -56,9 +28,6 @@ https://www.eventbrite.ie/e/mentorship-for-women-in-tech-empowering-women-ticket
 
 
 https://techlifeireland.com/tech-in-ireland/the-lowdown-on-pyconie-2018-irelands-python-conference/
-
-
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
 https://www.eventbrite.com/e/free-course-introduction-into-it-networks-computing-ccnaie-tickets-52664870044
@@ -83,7 +52,6 @@ https://www.meetup.com/Docker-Dublin/events/250786409/
 
 https://www.meetup.com/CodeForIreland/events/252634056/
 
-https://www.meetup.com/Learning-Tech-Labs/events/251112642/
 
 
 https://www.meetup.com/Learning-Tech-Labs/events/252664270/
@@ -95,9 +63,4 @@ https://www.eventbrite.com/e/tech-talk-at-night-backend-engineering-tickets-4355
 https://www.eventbrite.ie/e/ucd-womencompsci-launch-international-womens-day-tickets-43304238142?aff=es2
 
 
-
-
-https://www.meetup.com/AzureDublin/events/248189201/
-Wednesday, April 25, 2018
-Get your super hero data pants on with PowerBI and Azure
 
