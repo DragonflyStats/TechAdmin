@@ -1,0 +1,47 @@
+Check out the Irish Network Operators Group (@inognet) February Meetup
+6-10pm Weds Feb 27th @DogpatchLabs IFSC Dublin 2
+https://inog.net/talk/
+#neteng
+---------------------------------------------------
+Save the date for the Galway #Devops Community February Meetup 
+18:30 Monday, 25th February @Portershed Eyre's Square #Galway 
+https://www.meetup.com/DevOps-Galway/events/257957964/ 
+---------------------------------------------------
+
+Check out the Python Ireland February Meetup
+6:30 PM  Wednesday, 13th February, 2019
+Wipro Digital Ballsbridge, Dublin 4 
+https://www.meetup.com/pythonireland/events/fnzvknyzdbrb/
+
+-------------------------------------------------
+PyLadies Dublin: Introduction to #Jupyter Notebooks & Data Analysis using #Kaggle
+Tuesday, 19th February @DogpatchLabs IFSC Dublin 2
+https://www.meetup.com/PyLadiesDublin/events/dclgvlyzdbzb/
+#DataScience #PyData
+---------------------------------------------------
+
+Tuesday 12th February
+Docker Dublin 
+DevOps Journey: From Docker and Compose to Kubernetes and Helm 
+https://www.meetup.com/Docker-Dublin/events/258474981/
+-----------------------------------------------------
+ 
+Azure Dublin Meetup presents: 
+Get to know Cognitive Services: Special Face API 
+7pm Tuesday, 26th February @Jet Offices, Dublin 2
+https://www.meetup.com/AzureDublin/events/256000877/
+#Devops 
+------------------------------------------------------
+ 
+Dublin Power BI User Group 
+Tips and tricks for testing/validating/debugging your M&M's 
+6PM Tuesday, 26th February @WeWork Dublin 2
+https://www.meetup.com/DublinPUG/events/257356087/
+#PowerBI
+
+------------------------------------------------------
+
+SQL Ireland User Group presents
+ETL in #Azure made easy with Data Factory Data Flow 
+6:30 PM  Tuesday, 5th March  @ One Microsoft Place, Leopardstown
+https://www.meetup.com/SQLIreland/events/255115027/
