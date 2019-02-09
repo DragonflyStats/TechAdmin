@@ -72,13 +72,18 @@ https://www.youtube.com/watch?v=CD4EiDNeNg4
 
 Cassette: Dynamic, Context-Specific Computer Pass Injection for Julia
 with Jarrett Revels MIT
-https://www.youtube.com/watch?v=_E2zEzNEy-8&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=46
+https://www.youtube.com/watch?v=_E2zEzNEy
+-8&list=PLP8iPy9hna6Qsq5_-zrg0NTwqDSDYtfQB&index=46
 #JuliaLang
 ----------------------
 
 
 
-Combine ML for Seamless Ensembling of Machine Learning Models
+Combine ML for Seamless Ensembling of Machine Learning Models  
+Presented by Paul Palmes (IBM Research, Ireland)
+@ JuliaCon 2018, UCL London
+youtube.com/watch?v=QBT0wq…
+#JuliaLang #MachineLearning #DataScience
 
 ----------------------
 Complex Network Anaylsis of Political Data
