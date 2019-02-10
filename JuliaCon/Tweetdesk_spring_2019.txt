@@ -1,0 +1,31 @@
+------------------------------------------------
+
+Julia apps on the App Store with Nathan Daly (@nhdaly)
+presented at #JuliaCon 2018, UCL London
+Learn how to turn your software into a portable application you can compile, distribute - and sell - anywhere! 
+https://www.youtube.com/watch?v=kSp6d3qSb3I
+
+
+Natural Language Processing workshop using Julia with Avik Sengupta 
+presented at #JuliaCon 2018, UCL London
+A hands on workshop demonstrating the use of natural language processing tools in #Julialang. 
+https://www.youtube.com/watch?v=f7RNuOLDyM8
+
+
+Visual Studio Code Julia extension with David Anthoff 
+presented at #JuliaCon 2018, UCL London
+www.youtube.com/watch?v=MYbl_za-x9U&t=441s
+The julia extension for Visual Studio Code provides a convenient coding environment for #julialang development. 
+
+Fast and efficient multicore processing over the cloud with Julia 
+with Tuomas Eerola (@tuomaseerola) VP at @techilatech
+presented at #JuliaCon 2018, UCL London
+Learn about harnessing the power of #JuliaLang's multicore features
+https://www.youtube.com/watch?v=rz3BL2gB_Ak&t=151s
+
+Engineering Julia for Speed with Lionel Zoubritzky 
+presented at #JuliaCon 2018, UCL London
+Learn how #JuliaLang's design enables efficient idiomatic code optimizations. 
+https://www.youtube.com/watch?v=XWIZ_dCO6X8
+
+------------------------------------------------
