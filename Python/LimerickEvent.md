@@ -1,21 +1,35 @@
 
-
 ### Venue
 
-* The proposed venue is Engine Limerick, Cecil St, Limerick City Centre.
-* Budget Venue Rental for Engine : 150 Euro (After Vat)
-* The venue cost is 150 euro.
+* The venue is the Strand Hotel in Limerick City Centre.
+* We will use two rooms on the 6th floor, with a capacity of 40 in each room.
+* Please be advised that the total capacity is 80 people for the inaugural conference. 
+* We will expect to sell out. We hope to return in 2020 and 2021 with an expanded capacity.
 
-### Ticket Prices
+### Program
+The program will be announced in early March, after the deadline for the CFP closes.
 
-* 40 tickets @ 15 Euros per ticket : 600 euro in revenue
-* Speakers are not required to buy tickets.
+### Tickets
+
+* Tickets are available on ti.to https://ti.to/python-ireland/pycon-limerick-2019 
+* 50 tickets @ 10 Euros per ticket : 500 euro in revenue
+* Speakers are not required to buy tickets. Tickets will be allocated to speakers separately.
 * In lieu of a grant from Python Ireland, Python ireland officiers are not required to buy tickets
 
-### Call for Proposals
 
-* Python Ireland Officiers are asked to have 20 minute talks ready.
-  (* You can use these talks at similar events in future*)
+#### Call for Proposal
+
+* There is an open call for proposals - both talks and workshops.
+* The deadline is Saturday 2nd March for submitted talks.
+
+### Invited Speakers
+
+* Invited Speakers will be announced in the near future.
+* Due to venue constraints, there will be no keynote sessions for the 2019 conference.
+
+### Sponsorships
+
+
 
 ### Schedule
 * The proposed start time is 10:00 hours
@@ -38,7 +52,6 @@ Catering for 60 People
 ### Leaving Instructions
 
 * The Event is to end at 17:00
-* The building is to be vacated at 18:00
 
 ### Public Transport
 * There are excellent transport Links to Dublin (An express bus every half hour, every hour after 8pm)
