@@ -5,6 +5,51 @@ Kotlin Limerick User Group -
 www.meetup.com/kotlinlimerick/events/258238931/
 #kotlin #android #androiddev
 
+Check out AILY: Letterkenny Artificial Intelligence, Machine Learning, and IoT Meetup.
+
+First Meetup Wednesday: 13th February @ Pramerica Offices, Letterkenny
+https://www.meetup.com/Skynet-LY/events/257557835/
+#Donegal #Letterkenny #DataScience #WestIrelandTech
+
+--------------
+
+
+Dialogflow & Cloud AI {Demos/Workshops} with GDG Galway
+7pm Tuesday, 19th February 
+Innovation Lab Mainguard Street Galway City Centre
+https://www.meetup.com/Google-Developers-Group-in-Galway-Meetup/events/258575709/
+#Galway #dialogflow #CloudAI #WestIrelandTech
+
+Ireland Girl Geek Dinners 
+How to be an Ally? Panel Discussion 
+Shutterstock Dublin 
+6:30 PM Thursday, 21st February 
+https://www.meetup.com/Ireland-Girl-Geek-Dinners/events/258591580/
+
+------------
+
+Azure Dublin Meetup presents: 
+
+XAML and C# in the browser with Uno Platform 
+
+7pm Wednesday, 20th March @Jet Offices, Dublin 2
+https://www.meetup.com/AzureDublin/events/258293244/
+#cloud #azure
+
+--------------
+
+
+Check out the Mayo Data Science & Machine Learning Community
+
+7pm Tuesday, 12th March 
+
+Bridge St Bar #Castlebar, #Mayo Ireland
+
+https://www.meetup.com/meetup-group-XdMIFPec/
+
+#DataScience #WestIrelandTech #MachineLearning
+
+
 #######################################################################
 ------------------------------------------------------
 7:00 PM 
