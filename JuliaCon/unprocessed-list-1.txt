@@ -1,0 +1,207 @@
+
+A practical introduction to metaprogramming in #JuliaLang 
+with Andy Ferris 
+presented at #JuliaCon 2018, UCL London
+https://www.youtube.com/watch?v=SeqAQHKLNj4
+
+
+
+Check out the #JuliaLang Queryverse with David Anthoff 
+presented at #JuliaCon 2018, UCL London
+This talk introduces the Queryverse family of packages, a unified datascience stack on julia.
+https://www.youtube.com/watch?v=2oXSA2w-p28
+
+
+Machine Learning with Julia: Elegance, Speed and Ease with Innes & Yuret 
+Machine Learning has become one of the hottest research and industry areas over the last few years; we believe Julia is the ...
+
+
+
+Solving Partial Differential Equations with Julia with Chris Rackauckas 
+presented at #JuliaCon 2018, UCL London
+
+-------------------------------------------------------
+"HTTP.jl Progressing library for all your Julia web needs" with Jacob Quinn
+presented at #JuliaCon 2018, UCL London 
+www.youtube.com/watch?v=S25F2WfNhMU
+#JuliaLang
+-------------------------------------------------------
+
+Numerical Analysis in Julia with Sheehan Olver 
+presented at #JuliaCon 2018, UCL London
+This workshop brings together four speakers on different topics in numerical analysis, to demonstrate the strengths of Julia's ...
+
+
+
+Pkg3 The new Julia package manager with Karpinski & Carlsson 
+
+Julia 1.0 comes with a brand new package manager, currently called Pkg3. Pkg3 was redesigned from scratch to solve a number of ...
+
+
+Why Julia is the most suitable language for science with George Datseris 
+presented at #JuliaCon 2018, UCL London
+www.youtube.com/watch?v=7y-ahkUsIrY
+
+The JuMP ecosystem for mathematical optimization with Juan Pablo Vielma 
+presented at #JuliaCon 2018, UCL London
+JuMP is an award-winning DSL for mathematical optimization that has quickly become the gold-standard for its simplicity, ...
+
+
+
+An Introduction to Julia with Herriman & Verweij 
+Are you new to Julia?! This beginners’ tutorial should be accessible to anyone with technical computing needs and some ...
+
+
+
+JuliaCon 2017 with Modern Machine Learning in Julia with TensorFlow.jl with Jonathan Malmaud 
+
+
+Visit http://julialang.org/ to download Julia.
+
+
+
+
+
+
+
+ Making the test-debug cycle more efficient with Tim Holy 
+
+ 
+
+
+2K views
+presented at #JuliaCon 2018, UCL London
+
+Julia's JIT-compilation needs to run on each restart, and the compilation delay can slow development of large projects.
+
+
+
+Teaching Statistics to the Masses with Julia 
+presented at #JuliaCon 2018, UCL London
+
+Learn about the challenges associated with teaching a course with a large cohort using Julia.
+
+
+
+
+Teaching Data Analysis first steps with Julia with Thierry Dhorne 
+presented at #JuliaCon 2018, UCL London
+
+Teaching Data Analysis first steps with Julia.
+
+
+
+
+ Atomistic simulation with Julia with Jarvist Moore Frost 
+
+ 
+
+
+583 views
+presented at #JuliaCon 2018, UCL London
+
+Abstract Atomistic simulation needs custom models, to approximate through hard O(N!) scaling of the underlying physical ...
+
+
+
+Latexify.jl and how Julia's metaprogramming makes it useful with Niklas Korsbo 
+
+presented at #JuliaCon 2018, UCL London
+
+Create and render LaTeX code from simple types, arrays and even systems of equations.
+
+
+
+
+ Keynote - Tricks and Tips in Numerical Computing with Nick Higham 
+
+ 
+
+
+3.9K views
+presented at #JuliaCon 2018, UCL London
+
+Nick Higham is Royal Society Research Professor and Richardson Professor of Applied Mathematics at the University of ...
+
+
+
+
+ Our journey through the Perils of AOT compilation with Ján Dolinský 
+
+ 
+
+
+428 views
+presented at #JuliaCon 2018, UCL London
+
+We develop TIM, a computational engine for large-scale forecasting in energy industry covering load, gas, solar and wind.
+
+
+
+
+Keynote - The Rise of the Research Software Engineer with Mike Croucher 
+presented at #JuliaCon 2018, UCL London
+
+
+
+
+
+
+10 tips on how to build better binaries with Elliot Saba 
+presented at #JuliaCon 2018, UCL London
+
+Building and serving binary dependencies for Julia has been a challenging problem in the past. With BinaryBuilder.jl and ...
+
+
+
+
+The New Circuitscape in Julia - modern, fast and scalable with Ranjan A 
+
+ 
+
+
+801 views
+presented at #JuliaCon 2018, UCL London
+
+The Circuitscape rewrite in Julia provides a 4-8x benefit in speed and scalability over the old Python package . We show the ...
+
+
+
+
+ Subtyping made friendly with Francesco Zappa Nardelli 
+
+ 
+
+
+962 views
+presented at #JuliaCon 2018, UCL London
+
+Tweet Share Have you ever wondered how Julia dispatches method calls? As an answer, have you been pointed to a mysterious ...
+
+
+
+
+ Performance of a distributed Julia simulation with Przemyslaw Szufel 
+
+ 
+
+
+833 views
+presented at #JuliaCon 2018, UCL London
+
+Title: Performance of a distributed Julia simulation on an AWS Spot Fleet vs a Cray Supercomputer 
+
+
+
+Julia for Interactive Data Visualization: Adding Dynamic Behaviour to Static Documents  
+with Yuri Vishnevsky 
+presented at #JuliaCon 2018, UCL London
+
+
+
+
+Julia as a platform for language development 
+with Jamie Brandon 
+presented at #JuliaCon 2018, UCL London
+
+Language developers are torn between the need to quickly iterate on language designs and the need to prove that those designs ...
