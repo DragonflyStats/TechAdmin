@@ -1,0 +1,769 @@
+
+
+JuliaCon 2018 | Memento: Logging for Systems and Applications | Eric Davies 
+
+
+Julia's basic Logging package is sufficient for console logging but lacks the features necessary for monitoring large, ...
+
+
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | Cassette: Dynamic, Context-Specific Compiler Pass Injection for Julia | J Revels 
+
+Cassette is a tool for injecting user-defined code transformation passes into Julia's JIT compilation cycle, enabling normal Julia ...
+
+
+-----------------------------------------------------------------------------
+
+
+JuliaCon 2018 | Scalable Data Science with JuliaDB and OnlineStats | Josh Day 
+
+JuliaDB integrates with OnlineStats to provide scalable single pass algorithms (that can run in parallel) for statistics and modeling ...
+
+-----------------------------------------------------------------------------
+
+
+JuliaCon 2018 | Show casing Julia on the Web | Alex Mellnik 
+
+You just created an awesome new Julia package – congratulations! How can you show it off to potential users (many of whom ...
+
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+JuliaCon 2018 | Large Scale Airborne Electromagnetic Geophysics in Julia | Patrick Belliveau 
+
+
+Learn how #JuliaLang can be used to solve large-scale industrial inverse problems in geophysics.
+
+-----------------------------------------------------------------------------
+
+
+JuliaCon 2018 | How JuliaDB works | Shashi Gowda 
+
+JuliaDB is a pure Julia analytical database. It makes loading large datasets and playing with them easy and fast. JuliaDB needs to ...
+
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | Julia Toolbox for Factor Graph-based Probabilistic Programming | Thijs van deLaar 
+
+
+Title: ForneyLab.jl: a Julia Toolbox for Factor Graph-based Probabilistic Programming Scientific modeling concerns a continual ...
+
+
+
+-----------------------------------------------------------------------------
+
+
+JuliaCon 2018 | PuMaS.jl: Pharmaceutical Modeling and Simulation Engine | Chris R 
+
+Drug development costs $1.2billion over 12 years. Clinical trial simulations via PKPD, PBPK, and QSP models de-risk this ...
+
+
+
+-----------------------------------------------------------------------------
+
+
+A conversation with Gilbert Strang 
+ 
+
+
+Gilbert Strang was an undergraduate at MIT and a Rhodes Scholar at Balliol College, Oxford. His Ph.D. was from UCLA and since ...
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | LightFields.jl: Fast 3D image reconstruction for VR applications | Hector Loarca 
+
+
+
+
+Virtual Reality plays the leading role on the new media revolution with Light Field reconstruction as a common technique for ...
+
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | The Turing language for probabilistic programming | Hong Ge 
+
+
+•
+840 
+
+
+We introduce recent developments in Turing.jl — a probabilistic programming language. Similar to Stan, Turing provides a black ...
+
+
+:12  
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | Solving sparse linear systems with Trilinos.jl | Bart Janssens 
+
+•
+6 
+
+
+The Trilinos library features modern iterative solvers for large linear systems. Using the Tpetra library, it can exploit hybrid ...
+ 
+-----------------------------------------------------------------------------
+
+
+11:19 
+
+
+JuliaCon 2018 | Extended Precision | Jeffrey Sarnoff 
+
+ 
+-----------------------------------------------------------------------------
+•
+307 
+
+
+This is an introduction to a new Julia package for extended precision math..
+
+
+9:35 
+
+
+JuliaCon 2018| JuliaPro post 1.0 release | Harsha Mahesh Byadarahalli 
+
+ 
+-----------------------------------------------------------------------------
+•
+2.7K 
+
+
+JuliaPro is all set for a huge makeover post Julia 1.0 release, this talk is all about revealing the new features that will be included ...
+
+
+12:50 
+
+
+JuliaCon 2018 | Julia and Geophysics: Rocking with C calls and Metaprogramming | Carlos Filho 
+
+ 
+-----------------------------------------------------------------------------
+•
+520 
+
+
+Can a shiny new language like Julia easily be added to a mature codebase? Yes it can! Come hear about my experience writing ...
+
+
+9:47 
+
+
+JuliaCon 2018 | Tame your databases: SearchLight ORM | Adrian Salceanu 
+
+ 
+-----------------------------------------------------------------------------
+•
+353 
+
+
+Some people swear by them. Other, at them. But every language has one. Python has SQLAlchemy, Java has JOOQ, .NET has ...
+
+
+11:49 
+
+
+JuliaCon 2018 | Performance of Monte Carlo pricing of Asian options using multi-threading | Kamiński 
+
+ 
+-----------------------------------------------------------------------------
+•
+334 
+
+
+Multi-threading in Julia is an excellent feature to speed up Monte Carlo simulations, e.g. for Asian option pricing. However, if you ...
+
+
+14:16 
+
+
+JuliaCon 2018 | How to design equiripple filters in Julia? | Tom Krauss 
+
+ 
+-----------------------------------------------------------------------------
+•
+404 
+
+
+Julia has great potential for signal processing, but it's DSP.jl package is missing a fundamental filter design algorithm: “remez”, ...
+
+
+14:33 
+
+
+JuliaCon 2018 | Native Elementary Functions in Julia | patrick Kofod Mogensen 
+
+ 
+-----------------------------------------------------------------------------
+•
+574 
+
+
+People doing numerical computing are greedy. They want results now and accurately, and we have been ready to accept loss of ...
+
+
+:25 
+
+
+BioJulia and Bioinformatics in Julia: Past, Present, Future | Ben Wardd 
+
+ 
+-----------------------------------------------------------------------------
+•
+676 
+
+
+In this talk I will describe the past, present and the future (in the context of recent changes to sequencing technology and genome ...
+
+
+
+10:38 
+
+
+JuliaCon 2018 | Bringing ocean, climate and ecosystem modeling to Julia | Gael Forget 
+
+ 
+-----------------------------------------------------------------------------
+•
+559 
+
+
+Earth systems are simulated using numerical models of increasing resolution that play a key role in predicting climate. This talk ...
+
+
+30:02 
+
+
+JuliaCon 2018 | TIM: Unified Large-scale Forecasting system in Julia | Ján Dolinský 
+
+ 
+-----------------------------------------------------------------------------
+•
+373 
+
+
+Title: TIM: Unified Large-scale Forecasting system for Load, Gas, Solar and Wind in Julia TIM (Tangent Information Modeller) is a ...
+
+
+12:40 
+
+
+JuliaCon 2018 | Algebraic Simplification Using Rewrite.jl | Harrison Grodin 
+
+ 
+-----------------------------------------------------------------------------
+•
+834 
+
+
+Tweet Share Term rewriting is essential to a wide variety of fields, including elementary, boolean, and abstract algebras. Because ...
+
+
+
+15:32 
+
+
+JuliaCon 2018 | Building a strong foundation for geospatial innovation | Martijn Visser 
+
+ 
+-----------------------------------------------------------------------------
+•
+551 
+
+
+This talk will showcase what is possible with the JuliaGeo related packages, with the aim to get you started if you want to do ...
+
+
+11:55 
+
+
+JuliaCon 2018 | New in DataStreams.jl: Type flexibility, querying, and parallelism | Jacob Quinn 
+
+ 
+-----------------------------------------------------------------------------
+•
+499 
+
+
+What's new in the data framework package powering some of the most popular data packages in Julia? Come learn about ...
+
+
+9:52 
+
+
+JuliaCon 2018 | Optimization of a pumped-storage hydro power plant in Julia | Vaska Dimitrova 
+
+ 
+-----------------------------------------------------------------------------
+•
+7 
+
+
+Title: Optimization of a pumped-storage hydro power plant in Julia with SDDP Algorithm We present a solution to the problem of ...
+
+
+
+26:54 
+
+
+Flux: The Elegant Machine Learning Library | Mike Innes 
+
+ 
+-----------------------------------------------------------------------------
+•
+3.7K 
+
+
+Flux is a new machine learning library that's easy and intuitive to use with state-of-the-art performance. I'll show how we achieve ...
+
+
+85
+ 
+
+The 4th annual JuliaCon 20 (Berkeley) 
+-----------------------------------------------------------------------------
+
+
+JuliaCon 20 | Celeste.jl: Petascale Computing in Julia | Prabhat, Regier & Fischer
+52:26
+JuliaCon 20 | Decision Making under Uncertainty | Mykel Kochenderfer
+37:
+View full playlist (85 videos) 
+
+25:14 
+
+
+JuliaCon 2018 | DataDeps.jl and other foundational tools for data driven research | Lyndon White 
+
+ 
+-----------------------------------------------------------------------------
+•
+378 
+
+
+The focus of this talk is DataDeps.jl – BinDeps for Data – Repeatable Data Setup for Replicable Data Science. How to manage ...
+
+
+23:50 
+
+
+JuliaCon 20 | Modern Machine Learning in Julia with TensorFlow.jl | Jonathan Malmaud 
+
+ 
+-----------------------------------------------------------------------------
+•
+4.1K 
+1 year ago
+
+Visit http://julialang.org/ to download Julia.
+
+
+
+12:32 
+
+
+JuliaCon 2018 | Julia is an R & D binding agent | Mayeul d'Avezac 
+
+ 
+-----------------------------------------------------------------------------
+•
+537 
+
+
+Research and development pulls together disparate tools and creates seamless product. Julia is an integrated R&D platform: it ...
+
+
+27:30 
+
+
+JuliaCon 2018 | Brainy Things: Brain Computer Interface meets Internet of Things | Deshpande 
+
+ 
+-----------------------------------------------------------------------------
+•
+485 
+
+
+Welcome to the exciting world of Brain Computer Interface with Internet of Things. With our project we have made an attempt to ...
+
+
+11:43 
+
+
+JuliaCon 2018 | BayesTesting.jl: Bayesian Hypothesis Testing without tears | Jeff Mills 
+
+•
+524 
+
+
+Bayestesting.jl is a Julia package that implements a new Bayesian hypothesis testing procedure that does not suffer from the ...
+ 
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | 0.1 vs 1//10: How numbers are compared | Simon Byrne 
+
+ 
+-----------------------------------------------------------------------------
+•
+6 
+
+
+I will explain how equalities and inequalities in Julia work across different numeric types.
+
+
+36:14 
+
+
+JuliaCon 2018 | Parallel Computing with MPI-3 RMA and Julia | Bart Janssens 
+
+ 
+-----------------------------------------------------------------------------
+•
+856 
+
+
+The remote memory access routines from MPI-3 are a natural fit for the Julia programming model. We show how to build a custom ...
+
+
+19:19 
+
+
+JuliaCon 2018 | JuliaDBMeta and StatPlots: metaprogramming tools in Julia | Pietro Vertechi 
+
+ 
+-----------------------------------------------------------------------------
+•
+749 
+
+
+Title: JuliaDBMeta and StatPlots: metaprogramming tools for manipulating and visualizing data JuliaDBMeta's macros provide a ...
+
+
+55:54 
+
+
+JuliaCon 20 | An Invitation to Julia: Toward Version 1.0 | David Sanders 
+
+ 
+-----------------------------------------------------------------------------
+•
+10K 
+1 year ago
+
+DAVID P. SANDERS, DEPARTMENT OF PHYSICS, FACULTY OF SCIENCES, NATIONAL UNIVERSITY OF MEXICO This is an ...
+
+
+
+15:51 
+
+
+JuliaCon 2018 | A Scalable Scheduler Plugin For Daggar on JuliaRun | Tanmay Mohapatra 
+
+ 
+-----------------------------------------------------------------------------
+•
+351 
+
+
+Computational problems can often be represented as specific types of graphs known as DAGs. That allows an execution ...
+
+
+:49 
+
+
+Ensayo de JULIA con los BAILARINES (BORN THIS WAY) | OT 2018 
+
+ 
+Operación Triunfo Oficial
+ 
+
+263K 
+4 months ago
+
+Tienes toda la información sobre OT 2018 en RTVE.ES http://www.rtve.es/television/ot/ Y también en el resto de nuestras redes ...
+
+
+
+9:34 
+
+
+JuliaCon 2018 | Combine ML for Seamless Ensembling of Machine Learning Models | Palmes 
+
+ 
+-----------------------------------------------------------------------------
+•
+319 
+
+
+CombineML main feature is to provide a framework for seamless ensembling of existing machine learning implementations from ...
+
+
+
+46:36 
+
+
+Stefan Karpinski (Keynote): Julia for Data Analysis and Beyond 
+
+ 
+
+
+www.pydata.org PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python ...
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | LARLIB.jl: Solid Modelling in Julia | Giulio Martella 
+
+ 
+-----------------------------------------------------------------------------
+•
+761 
+
+
+Big data mass in fields like Bioengineering needs fast computations and simplified operations on complex geometric models.
+
+
+-----------------------------------------------------------------------------
+
+An Introduction to Julia (Beginner Level) | SciPy 2018 Tutorial | Jane Herriman, Sacha Verweij 
+
+
+
+This introductory workshop assumes no prior exposure to Julia. 
+
+-----------------------------------------------------------------------------
+
+JuliaCon 2018 | Julia for Space Science: An Antidote for complexity | Helge Eichhorn 
+
+Julia might be a secret weapon for the next chapter of the New Space revolution.
+-----------------------------------------------------------------------------
+•
+633 
+
+
+ This talk will present the roadmap for the ...
+
+
+24:41 
+
+
+JuliaCon 2018 | Graph Interfaces: bespoke graphs for every occasion | James Fairbanks 
+
+ 
+-----------------------------------------------------------------------------
+•
+413 
+
+
+LightGraphs defines abstractions to implement for any graph or network. Instead of re-inventing the wheel, we can share existing ...
+
+
+10:43 
+
+
+JuliaCon 2018 | RHEOS: Making mechanical testing more accessible with Julia | Jonathan Kaplan 
+
+
+
+
+Analyzing mechanical testing data can be tricky, especially for those conducting interdisciplinary research (e.g. biomechanics) ...
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+JuliaCon 2018 | An intro to Bayesian parameter estimation using DiffEqBayes.jl | Vaibhav Kumar 
+
+
+
+
+Title: An intro to Bayesian parameter estimation of differential equation models using DiffEqBayes.jl Parameter estimation is the ...
+
+
+ 
+ 
+-----------------------------------------------------------------------------
+
+
+JuliaCon 2018 | How Esty handles "Peeking" in A/B Testing | Kelly Shen 
+
+ Etsy relies heavily on experimentation to improve our decision-making process. In this talk, I will present how Etsy handles data ...
+
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+JuliaCon 2018 | Probabilistic modelling of long course sailing craft routing | Thomas Dickson 
+
+ 
+-----------------------------------------------------------------------------
+•
+305 
+
+
+Sailing craft experience a range of environmental conditions in their voyages across the seas. I show how Julia can be used to ...
+
+
+32: 
+
+
+Low Level Systems Programming in High Level Julia | Todd Green 
+
+ 
+-----------------------------------------------------------------------------
+•
+1.9K 
+
+
+In designing a new language for technical computing, we believe the designers of Julia have accidentally created a great ...
+
+
+9: 
+
+
+JuliaCon 2018 | Understanding the real world: large-scale point cloud classification | Josh Christie 
+
+ 
+-----------------------------------------------------------------------------
+
+
+Fugro Roames provides automated extraction of geointelligence at scale. I'll discuss how we are using Julia in our machine ...
+
+
+33: 
+
+
+JuliaCon 20 | The State of the Type System | Jeff Bezanson 
+
+ 
+-----------------------------------------------------------------------------
+
+
+Visit http://julialang.org/ to download Julia.
+
+
+28:32 
+
+
+JuliaCon 20 | Mixed-Mode Automatic Differentiation in Julia | Jarrett Revels 
+
+ 
+-----------------------------------------------------------------------------
+•
+1.8K 
+1 year ago
+
+Visit http://julialang.org/ to download Julia.
+
+
+
+
+JULIA con sus FAMILIARES | OT 2018 
+
+ 
+Operación Triunfo Oficial
+ 
+
+16K 
+1 month ago
+
+Tienes toda la información sobre OT 2018 en RTVE.ES http://www.rtve.es/television/ot/ Y también en el resto de nuestras redes ...
+
+
+32:24 
+
+
+JuliaCon 2018 | Parallel Prefix Polymorphism | Jiahao Chen 
+
+ 
+-----------------------------------------------------------------------------
+•
+845 
+
+
+Julia's multiple dispatch and generic functions lets you reuse code, not just for computing results, but also to visualize how the ...
+
+
+12:57 
+
+
+JuliaCon 2018 | Parameters.jl: keyword constructors and default values for types | Mauro Werder 
+
+ 
+-----------------------------------------------------------------------------
+•
+498 
+
+
+Parameters.jl provides a macro to decorate type-definitions which adds keyword constructors and default values. When working ...
+
+
+
+5:37 
+
+
+How to get started with Julia 1.0's package manager 
+
+ 
+-----------------------------------------------------------------------------
+•
+5.6K 
+5 months ago
+
+This video will show you the basics of working with Pkg, the Julia 1.0 package manager. For more advanced usage, refer to the ...
+
+
+34:19 
+
+ 
+
+JuliaCon 2018 | A formula for bringing data across table--matrix divide | Dave Kleinschmidt 
+
+ 
+-----------------------------------------------------------------------------
+•
+253 
+
+
+Real-world data comes to you in tables full of strings, dates, numbers, etc. To analyze this data you often need to wrangle it into a ...
+
+
+:53 
+
+
+JuliaCon 20 | Julia: The Type of Language for Mathematical Programming | Madeleine Udell 
+
+ 
+-----------------------------------------------------------------------------
+•
+5.3K 
+1 year ago
+
+Visit http://julialang.org/ to download Julia.
+
