@@ -295,7 +295,14 @@ This talk will showcase what is possible with the JuliaGeo related packages, wit
 
 JuliaCon 2018 | New in DataStreams.jl: Type flexibility, querying, and parallelism | Jacob Quinn 
 
- 
+*************************************************************************************** 
+"How JuliaDB works"  
+Shashi Gowda @ JuliaCon 2018, UCL London 2018
+JuliaDB is a pure Julia analytical database that makes loading large datasets and playing with them easy and fast.
+
+https://www.youtube.com/watch?v=pVNOf5kgpE4
+
+#Julialang #computerscience #datascience #machinelearning 
 -----------------------------------------------------------------------------
 •
 499 
