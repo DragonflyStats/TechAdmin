@@ -1,0 +1,84 @@
+
+"Brain Tumour Classification with #JuliaLang" with Amita Varma 
+
+Livestreamed here: https://www.youtube.com/watch?v=JsVSHeGAwGY
+Abstract: https://pretalx.com/juliacon2019/talk/HBBG8N/
+#JuliaCon #MachineLearning
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+"Mining Imbalanced Big Data with #JuliaLang" 
+with Dewan Md. Farid & Swakkhar Shatabda
+
+Livestreamed here: https://www.youtube.com/watch?v=8wsPzS-wY28
+Abstract: https://pretalx.com/juliacon2019/talk/U9XTE7/
+#JuliaCon #MachineLearning #BigData
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Slow images, fast numbers: Using Julia in biomedical imaging and beyond"
+presented by  Virginia Spanoudaki @ #JuliaCon 2019
+ 
+Livestream: https://www.youtube.com/watch?v=RcdzunYjgpI
+Abstract: https://pretalx.com/juliacon2019/talk/3JUN8D/
+#JuliaLang
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Guaranteed constrained and unconstrained global optimisation in #JuliaLang 
+presented by David P. Sanders  @ #JuliaCon 2019
+Livestream: https://www.youtube.com/watch?v=29dGlzzC6SI
+Abstract: https://pretalx.com/juliacon2019/talk/3JUN8D/
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Heterogeneous Agent DSGE Models in #JuliaLang at the Federal Reserve Bank of New York
+presented by Rebecca Sarfati @ #JuliaCon 2019
+Livestream: https://www.youtube.com/watch?v=Et-5AncK8TU
+Abstract: https://pretalx.com/juliacon2019/talk/K9BBNX/
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Pyodide: The scientific Python stack compiled to WebAssembly"
+presented by Michael Droettboom @ #JuliaCon 2019
+ 
+Livestream: https://www.youtube.com/watch?v=NB_XjatEWyw
+Abstract: https://pretalx.com/juliacon2019/talk/LHU9UM/
+#JuliaLang
+
+ 
+ 
+"Julia for Battery Model Parameter Estimation"	
+W.L. Fredericks, V. Viswanathan, S. Sripad, M. Guttenberg	
+Livestream: https://www.youtube.com/watch?v=kT1pTnqQebI	 
+Abstract: https://pretalx.com/juliacon2019/talk/JYLQ8H/
+#JuliaLang
+ 
+ 
+"SemanticModels.jl: not just another modeling framework" 	
+presented by James Fairbanks & Christine R Herlihy	
+Livestream: https://www.youtube.com/watch?v=WJneK7OjqMQ
+Abstract: https://pretalx.com/juliacon2019/talk/QFEHQS/
+#JuliaCon #JuliaLang
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"DataKnots.jl - an extensible, practical and coherent algebra of query combinators"	
+Clark C. Evans	
+Livestream: https://www.youtube.com/watch?v=zr4D3-rf-jg
+Abstract: https://pretalx.com/juliacon2019/talk/HLLDQT/
+#JuliaCon #JuliaLang
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"OmniSci.jl: Bringing the open-source, GPU-accelerated relational database to #JuliaLang"	
+presented by Randy Zwitch	
+Livestream: https://www.youtube.com/watch?v=fzy7yNfJVBo
+Abstract: https://pretalx.com/juliacon2019/talk/MHUAX7/
+#JuliaCon #JuliaLang
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Queryverse - Under the Hood"	
+presented by David Anthoff 	
+Livestream: https://www.youtube.com/watch?v=SWE-weSlAj8
+Abstract: https://pretalx.com/juliacon2019/talk/QYG3BZ/
+#JuliaCon #JuliaLang
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"“Online” Estimation of Macroeconomic Models"
+presented by Ethan Matlin	
+Livestream: https://www.youtube.com/watch?v=LMWefEzsbOk
+Abstract: https://pretalx.com/juliacon2019/talk/N3BKPS/
+#JuliaCon #JuliaLang 
