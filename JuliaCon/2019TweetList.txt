@@ -82,3 +82,54 @@ presented by Ethan Matlin
 Livestream: https://www.youtube.com/watch?v=LMWefEzsbOk
 Abstract: https://pretalx.com/juliacon2019/talk/N3BKPS/
 #JuliaCon #JuliaLang 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+ 
+ 
+ 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%	
+"Polynomial and Moment Optimization in #JuliaLang and JuMP "	
+Tillmann Weisser, Benoît Legat, Chris Coey, Lea Kapelevich, Juan Pablo Vielma	
+Livestream: https://www.youtube.com/watch?v=cTmqmPcroFo
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Raising Diversity & Inclusion among #JuliaLang users"	
+Kevin S Bonham, Elwin van 't Wout, Anna Harris	
+Livestream: https://www.youtube.com/watch?v=9cedY6zyo8I
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Differentiate All The Things! "	
+with Mike Innes	
+Livestream: https://www.youtube.com/watch?v=OcUXjk7DFvU
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Differentiable Rendering and its Applications in Deep Learning"	
+Avik Pal	
+Livestream: https://www.youtube.com/watch?v=cdwLJCb45Kk
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Neural Ordinary Differential Equations with DiffEqFlux "
+Jesse Bettencourt	
+Livestream: https://www.youtube.com/watch?v=5ZgEp36E71Y
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Fitting Neural Ordinary Differential Equations with DiffeqFlux.jl"	
+Elisabeth Roesch	
+Livestream: https://www.youtube.com/watch?v=Z1ikOmEuM8w
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Randomized Sketching for Approximate Gradients : Applications to PDE Constrained Optimization "	
+Ramchandran Muthukumar	
+Livestream: https://www.youtube.com/watch?v=AzVnUlrZqNs
+Abstract: https://pretalx.com/juliacon2019/talk/ZDRQQA/
+#JuliaLang #JuliaCon #DeepLearning
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Neural Network states and unsupervised learning for Open Quantum Systems	
+Presented by Filippo Vicentini	
+Livestream: https://www.youtube.com/watch?v=C08Sbe9aeVM
+Abstract: https://pretalx.com/juliacon2019/talk/AVDWLV/
+#JuliaLang #JuliaCon 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Machine Learning for Social Good"
+Dhairya Gandhi	
+Livestream: https://www.youtube.com/watch?v=nXBZZ0bxIwY
+Abstract: https://pretalx.com/juliacon2019/talk/KJ9SGA/
+#JuliaLang #JuliaCon  #MachineLearning #Data4Good
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
