@@ -1,0 +1,41 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																				
+"A case study of migrating Timelineapp.co to the Julia language" 	
+Presented by Bogumił Kamiński								
+Livestream: https://www.youtube.com/watch?v=EbJuaF3A9Kw
+Abstract: https://pretalx.com/juliacon2019/talk/YPGRDD/
+#JuliaLang	#JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%															
+"Computational topology and Boolean operations with Juliasparse arrays" 	
+Prsented by Alberto Paoluzzi 		
+Livestream: https://www.youtube.com/watch?v=N7YHAcv8DEk
+Abstract: https://pretalx.com/juliacon2019/talk/3BKGNU/
+#JuliaLang #JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																						
+"Differential Programming Tensor Networks"	
+Presented by JinGuo Liu
+Livestream: https://www.youtube.com/watch?v=f-CaQMTqjPk
+Abstract: https://pretalx.com/juliacon2019/talk/XH89CV/	
+#JuliaLang #JuliaCon																			
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Keynote	Dr Steven Lee	
+Livestream: https://www.youtube.com/watch?v=MF6K5ihilZc		
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+If Runtime isn't Funtime: Controlling Compile-time Execution 	
+Presented by Nathan Daly						
+Livestream: https://www.youtube.com/watch?v=JCFej--XER0
+Abstract: https://pretalx.com/juliacon2019/talk/QXF9AM/	
+#JuliaLang #JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																	
+Mimi.jl – Next Generation Climate Economics Modeling 	
+Presented by David Anthoff, Lisa Rennels, Cora Kingdon		
+
+Livestream: https://www.youtube.com/watch?v=NM2jhQm5Adk
+Abstract: https://pretalx.com/juliacon2019/talk/ZE9AVH/
+
+#JuliaCon #JuliaLang #ClimateScience #ClimateChange
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+"Writing maintainable Julia code" 	
+Presented by Scott Haney	
+Livestream: https://www.youtube.com/watch?v=tldyDnjLozo	
+Abstract: https://pretalx.com/juliacon2019/talk/J779CB/
+#JuliaLang #JuliaCon
