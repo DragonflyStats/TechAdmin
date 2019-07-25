@@ -1,0 +1,64 @@
+The Julia Language 1.0 Ephemeris and Physical Constants Reader for Solar System Bodies
+Presented by Renee Spear 
+Livestream: https://www.youtube.com/watch?v=QdGrR0inYj8
+Abstract: https://pretalx.com/juliacon2019/talk/EKTAAY/
+#JuliaCon #JuliaCon2019 #JuliaLang #astronomy
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+																						
+Transducers: data-oriented abstraction for sequential and parallel algorithms on containers 	
+Presented by Takafumi Arakaki					
+Livestream: https://www.youtube.com/watch?v=wxN4lKR3kFw
+Abstract: https://pretalx.com/juliacon2019/talk/UUC9UJ/
+#JuliaLang  #JuliaCon	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																			
+The Climate Machine: A New Earth System Model in #JuliaLang	
+Presented by Simon Byrne & Charlie Kawczynski	
+Livestream: https://www.youtube.com/watch?v=gD5U_U9kZk8
+Abstract: https://pretalx.com/juliacon2019/talk/FXBCLP/
+#JuliaCon #ClimateScience #ClimateChange
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																							
+"How We Wrote a Textbook using #JuliaLang"	
+Presented by Tim Wheeler 	
+Livestream: https://www.youtube.com/watch?v=ofWy5kaZU3g			
+Abstract: https://pretalx.com/juliacon2019/talk/WFVWES/
+#JuliaCon																				
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+"Efficient Stiff Ordinary Differential Equation Solvers for Quantitative Systems Pharmacology (QsP)" 	
+Presented by Yingbo Ma 			
+Livestream: https://www.youtube.com/watch?v=OMBda8jjXT0
+Abstract: https://pretalx.com/juliacon2019/talk/J39LVP/
+#JuliaCon	
+#JuliaLang 
+#DrugDiscovery
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+Symbolic Manipulation in #JuliaLang	
+Presented by Harrison Grodin 
+Livestream: https://www.youtube.com/watch?v=bGYSae90hA0
+Abstract: https://pretalx.com/juliacon2019/talk/9R9A7M/				
+#JuliaCon	#JuliaLang					
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																			
+Turing: Probabilistic Programming in #JuliaLang	
+Presented by Cameron Pfiffer	
+Livestream: https://www.youtube.com/watch?v=Jr6HcyHK_Q4		
+Abstract: https://pretalx.com/juliacon2019/talk/MA9N8R/
+#JuliaCon	
+#JuliaLang
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																				
+Simulation and estimation of Nonlinear Mixed Effects Models with PuMaS.jl 
+Presented by Vaibhav Dixit 	
+Livestream: https://www.youtube.com/watch?v=i8LGmT0mKnE
+Abstract: https://pretalx.com/juliacon2019/talk/38EHTQ/	
+#JuliaLang #Statistics #DrugDiscovery #JuliaCon			
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%/%%%%%%%%%%%%%%%%%%%																				
+Building a Debugger with Cassette 	
+presented byLyndon White (@oxinabox)
+Livestream: https://www.youtube.com/watch?v=lTR6IPjDPlo
+Abstract: https://pretalx.com/juliacon2019/talk/Y9B87L/
+ #JuliaLang #JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+"Gaussian Process Probabilistic Programming with Stheno.jl "	
+Presented by Will Tebbutt 	
+Livestream: https://www.youtube.com/watch?v=OO3BBkGEMV8		
+Abstract: https://pretalx.com/juliacon2019/talk/GEJT9H/ 
+#JuliaLang #JuliaCon 
