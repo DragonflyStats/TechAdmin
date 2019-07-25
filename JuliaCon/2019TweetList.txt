@@ -1,4 +1,79 @@
+Professor Heather Miller's Keynote at #JuliaCon 2019 is about to start
+Livestream: https://www.youtube.com/watch?v=b_743P8XuvA		
+Abstract: https://pretalx.com/juliacon2019/talk/JUZUDM/
+#JuliaCon #JuliaLang #ScalaLang
+	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																				
+"What's Bad About #JuliaLang"	
+Presented by Jeff Bezanson	
+Livestream: https://www.youtube.com/watch?v=TPuJsgyu87U	
+Abstract: https://pretalx.com/juliacon2019/talk/ZFQHDS/
+#JuliaCon #JuliaCon2019	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																						
+Special Thanks for University of Maryland Baltimore (@UMBaltimore) for hosting #JuliaCon this week.
+They have been fantastic hosts.
 
+Livestream: https://www.youtube.com/watch?v=15xJg13wTbE			
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																				
+																								
+#JuliaLang + #JavaScript = <3	
+Shashi Gowda		
+Livestream : https://www.youtube.com/watch?v=A3_vpuFqb-0
+Abstract: https://pretalx.com/juliacon2019/talk/7SDCJU/
+#JuliaCon
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																						
+"Interval methods for scientific computing in #JuliaLang"	
+Presented by David P. Sanders
+Livestream: https://www.youtube.com/watch?v=jj8Iy7FFMeM
+Abstract: https://pretalx.com/juliacon2019/talk/KDBXKD/
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																							
+"The Unreasonable Effectiveness of Multiple Dispatch"	
+Presented by Stefan Karpinski	
+Livestream: https://www.youtube.com/watch?v=kc9HwsxE1OY		
+Abstract: https://pretalx.com/juliacon2019/talk/BCYWZJ/
+#JuliaCon #JuliaCon2019	#JuliaLang 
+%%%%%%%w%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+"Julia Web Servers Deployment"	
+presented by Amgad Naiem & Mohammed El-Beltagy		
+Livestream: https://www.youtube.com/watch?v=p--assaV64g
+Abstract: https://pretalx.com/juliacon2019/talk/L983HR/	
+#JuliaCon #JuliaCon2019				
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																
+"Implicit Geometry with Multi-Dimensional Bisection Method"
+Presented by Daniel Bachrathy		
+Livestream: https://www.youtube.com/watch?v=2Cd4T0EzYKQ
+Abstract: https://pretalx.com/juliacon2019/talk/7S9BDD/
+#JuliaCon #JuliaCon2019	#JuliaLang
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																						
+Julia's Killer App(s): Implementing State Machines Simply using Multiple Dispatch 	
+Presented by Joshua Ballanco	
+Livestream: https://www.youtube.com/watch?v=WGT9_cEImAk		
+Abstract: https://pretalx.com/juliacon2019/talk/JVUMQJ/
+#JuliaCon #JuliaLang
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																								
+The Julia Language 1.0 Ephemeris and Physical Constants Reader for Solar System Bodies	
+Presented by Renee Spear 	
+Livestream: https://www.youtube.com/watch?v=QdGrR0inYj8
+Abstract: https://pretalx.com/juliacon2019/talk/EKTAAY/
+#JuliaCon #JuliaCon2019	#JuliaLang #Astro
+							
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%														
+"Geometric algebra in Julia with Grassmann.jl"	
+Presented by Michael Reed	
+Livestream: https://www.youtube.com/watch?v=eQjDN0JQ6-s
+Abstract: https://pretalx.com/juliacon2019/talk/CES8P9/	
+#JuliaLang	#JuliaCon
+https://github.com/chakravala/Grassmann.jl	
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																				
+"JuliaCN: A community driven localization group for #JuliaLang in China" 	
+Presented by Roger Luo 	
+
+Livestream: https://www.youtube.com/watch?v=MaSEGFsLW-c		
+Abstract: https://pretalx.com/juliacon2019/talk/D7NVW8/
+#JuliaCon	
 "Brain Tumour Classification with #JuliaLang" with Amita Varma 
 
 Livestreamed here: https://www.youtube.com/watch?v=JsVSHeGAwGY
