@@ -1,0 +1,41 @@
+
+			
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																		
+MendelIHT.jl: How to fit Generalized Linear Models for High Dimensional Genetics (GWAS) Data 	
+Presented by Benjamin chu 			
+Livestream: https://www.youtube.com/watch?v=7z2_1GdFtL0
+Abstract: https://pretalx.com/juliacon2019/talk/DLQMQU/
+#JuliaLang 
+#JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+Gen: a general-purpose probabilistic programming system with programmable inference built on #JuliaLang	
+Presented by Marco Cusumano-Towner 	
+Livestream: https://www.youtube.com/watch?v=B7mc1wXPZR8	
+Abstract: https://pretalx.com/juliacon2019/talk/GVYCEL/
+#JuliaLang 
+#JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																						
+"Electrifying Transportation with #JuliaLang"	
+Presented by Alec Bills 	
+Livestream: https://www.youtube.com/watch?v=4mZmlSNnsrI
+Abstract: https://pretalx.com/juliacon2019/talk/NF9XC7/
+#JuliaLang 
+#JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																							
+"PackageCompiler" Presented by Simon Danisch 	
+Livestream: https://www.youtube.com/watch?v=oxIsFUfaOqU
+Abstract: https://pretalx.com/juliacon2019/talk/RMNXL7/
+#JuliaLang 
+#JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																							
+"A probabilistic programming language for switching Kalman filters" 	
+presented by Cédric St-Jean-Leblanc 	
+Livestream: https://www.youtube.com/watch?v=IE39JoVIaEw																							
+Abstract: https://pretalx.com/juliacon2019/talk/BD9EBF/
+#JuliaLang 
+#JuliaCon
+					
