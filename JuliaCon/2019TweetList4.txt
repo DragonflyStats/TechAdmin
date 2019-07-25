@@ -9,7 +9,51 @@ Livestream: https://www.youtube.com/watch?v=7z2_1GdFtL0
 Abstract: https://pretalx.com/juliacon2019/talk/DLQMQU/
 #JuliaLang 
 #JuliaCon
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%													
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
+IVIVC.jl: In vitro – in vivo correlation module as part of an integrated pharmaceutical modeling and simulation platform 	
+Presented by Shubham Maddhashiya 									
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%															
+Concolic Fuzzing -- Or how to run a theorem prover on your code	
+Presented by Valentin Churavy 		
+Livestream: https://www.youtube.com/watch?v=gSiQpKHZk7I
+Abstract: https://pretalx.com/juliacon2019/talk/RVXF7L/
+#JuliaLang 
+#JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																						
+GigaSOM.jl: Huge-scale, high-performance flow cytometry clustering in #JuliaLang	
+Presented by Laurent Heirendt & Vasco Verissimo
+		
+Livestream: https://www.youtube.com/watch?v=UPIKafShwFw
+Abstract: https://pretalx.com/juliacon2019/talk/9UWDLY/
+
+#JuliaCon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																		
+An advanced electrodialysis process model in the #JuliaLang ecosystem 	
+Bram De Jaegher 	
+Not recorded																							
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Static walks through dynamic programs -- a conversation with type-inference.	
+Presented by Valentin Churavy 	
+Livestream: https://www.youtube.com/watch?v=qf9oA09wxXY
+Abstract: https://pretalx.com/juliacon2019/talk/WJZJXS/								
+#JuliaLang #JuliaCon
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%															
+Soss.jl: Probabilistic Metaprogramming in #JuliaLang	
+Presented by Chad Scherrer 	
+Livestream: https://www.youtube.com/watch?v=H-Oof2wS-0A		
+Abstract: https://pretalx.com/juliacon2019/talk/GBWC9F/
+#JuliaCon 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                            "																								
+Analyzing and updating code with JuliaInterpreter and Revise 	
+Presented by Tim Holy 
+
+Livestream: https://www.youtube.com/watch?v=gXDI4DSp04c
+Abstract: https://pretalx.com/juliacon2019/talk/RH78UW/
+#JuliaLang 
+#JuliaCon
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%																					
 Gen: a general-purpose probabilistic programming system with programmable inference built on #JuliaLang	
