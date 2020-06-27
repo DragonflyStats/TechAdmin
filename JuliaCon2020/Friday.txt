@@ -1,0 +1,21 @@
+
+
+Track 1
+------------------------------
+
+JuliaCats: Applied Category Theory in Julia
+James Fairbanks & Micah Halter
+Friday 29th July @ 16:20–16:50 UTC
+https://pretalx.com/juliacon2020/talk/GALAX8/
+
+
+Whole-brain systems neuroscience with Julia 
+Vilim Štih 
+Friday 29th July @ 17:20–17:30 UTC
+https://pretalx.com/juliacon2020/talk/CUMDLK/
+
+
+Loop Analysis in Julia
+Chris Elrod
+Friday 29th July @ 18:00–18:30 UTC
+https://pretalx.com/juliacon2020/talk/JQLXBK/
