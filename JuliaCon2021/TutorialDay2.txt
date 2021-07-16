@@ -1,0 +1,9 @@
+
+Chck out the #JuliaCon tutorials happening later today
+Wednesday 21st July 2:00 PM - 5pm (180min)
+
+Quantum Computing with Julia
+* https://pretalx.com/juliacon2021/talk/V3N73B/
+
+Statistics with Julia from the ground up
+* https://pretalx.com/juliacon2021/talk/A9KZCY/
