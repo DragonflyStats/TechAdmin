@@ -1,0 +1,8 @@
+Check out the #JuliaCon tutorials happening later today
+Thursday 22nd July 2:00 PM - 5pm (180min)
+
+A mathematical look at electronic structure theory 
+* https://pretalx.com/juliacon2021/talk/KK9KS7/
+
+Game development in Julia with GameZero.jl 
+* https://pretalx.com/juliacon2021/talk/RS9B7Q/
