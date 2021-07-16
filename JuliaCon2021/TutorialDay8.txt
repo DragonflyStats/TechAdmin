@@ -1,0 +1,10 @@
+
+Check out the #JuliaCon tutorials happening later today
+Tuesday 27th July 2:00 PM - 5pm (180min)
+
+Diffractor: Next-Gen AD for Julia
+* https://pretalx.com/juliacon2021/talk/7SQHJH/
+
+Introduction to metaprogramming in Julia 
+* https://pretalx.com/juliacon2021/talk/DWEMBV/
+
