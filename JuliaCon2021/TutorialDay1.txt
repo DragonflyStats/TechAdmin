@@ -1,0 +1,8 @@
+Chck out the first #JuliaCon tutorials happening later today
+Tuesday 20th July 2:00 PM - 5pm (180min)
+
+GPU programming in Julia
+* https://pretalx.com/juliacon2021/talk/VK87Q3/
+
+DataFrames.jl 1.2 tutorial
+* https://pretalx.com/juliacon2021/talk/FXZXMB/
