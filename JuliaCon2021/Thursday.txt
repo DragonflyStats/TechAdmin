@@ -1,0 +1,729 @@
+Thursday 29. July
+12:30 PM
+12:30
+PM
+30min
+The Design of the MiniZinc Modelling Language
+Gleb Belov
+In this talk, we discuss the design of MiniZinc, a leading Constraint modelling language.
+JuMP Track
+12:30
+PM
+30min
+SmartTensors: Unsupervised Machine Learning
+Velimir Vesselinov
+Demonstrate SmartTensors (http://tensors.lanl.gov; https://github.com/SmartTensors): a toolbox for unsupervised machine learning based on matrix/tensor factorization constrained by penalties enforcing robustness and interpretability (e.g., nonnegativity; physics and mathematical constraints; etc.). SmartTensors has been applied to analyze diverse datasets related to a wide range of problems: from COVID-19 to wildfires and climate.
+Green
+12:30
+PM
+10min
+DataSets.jl: A bridge between code and data
+Chris Foster
+In technical computing, getting data into and out of your code can be a pain. Data comes in all shapes, sizes and formats, with many different locations and storage access mechanisms. DataSets.jl is a new package for describing data declaratively and mapping it neatly into your programs. We aim to make your code portable between data environments and remove the cruft of local paths and data access wrappers which litter technical analysis code.
+Purple
+12:30
+PM
+30min
+Scalable Power System Modeling and Analaysis
+Dheepak Krishnamurthy, Clayton Barrows
+The [Scalable Integrated Infrastructure Planning (SIIP) initiative at NREL](https://www.nrel.gov/analysis/siip.html) has developed a set of high-performance power system simulation capabilities with PowerSystems.jl and PowerSimulations.jl. This talk will demonstrate these capabilities with interactive examples using large realistic datasets, and provide theoretical background for software design choices.
+Red
+12:30
+PM
+30min
+CUDA.jl 3.0
+Tim Besard
+An overview and demonstration of the new features in CUDA.jl 3.0, most notably support for concurrent GPU programming.
+Blue
+12:30
+PM
+90min
+Live Coding: Outreach and Beyond
+Jacob Zelko
+The goal of this session is to gather people interested in streaming their programming sessions. Streaming code is a particular exercise, we want to foster the exchange of best practices, tips and thoughts. In particular, we would like to see to which extent Julia streamers have managed to reach an audience beyond the Julia community, used streams as a teaching medium and how we can improve the formats to make it more accessible to newcomers. The BoF is not limited to streamers, people watching
+BoF/Mini Track
+12:40 PM
+12:40
+PM
+10min
+Systems Biology in ModelingToolkit
+Anand Jain, Shahriar Iravanian, Paul Lang
+Systems Biology Markup Language (SBML) and CellML are extensible markup languages (XML) widely used throughout the biological modeling community. In this talk we showcase new packages (SBML.jl and CellMLToolkit.jl) for importing models from these languages to the ModelingToolkit.jl format for the full suite of SciML tools to simulate and analyze!
+Purple
+12:50 PM
+12:50
+PM
+10min
+Single-cell resolved cell-cell communication modeling in Julia
+Megan Franke
+We develop multiscale models that couple cell-cell communication with cell-internal gene regulatory network dynamics to study cell fate decision-making from a dynamical systems perspective. In JuliaLang, we model cell-cell communication as a Poisson process, and cell-internal dynamics with nonlinear ordinary differential equations, taking advantage of the power of DifferentialEquations.jl. We show that subtle changes in cell-cell communication lead to dramatic changes in cell fate distributions.
+Purple
+1:00 PM
+1:00
+PM
+30min
+Finding an Effective Strategy for AutoML Pipeline Optimization
+Paulito Palmes, PhD
+One of the main problems in AutoML implementation is finding the best strategy to search the most optimal pipeline in prediction or classification tasks. This problem is commonly known as CASH (Combined Algorithm Selection and Hyperparameter Optimization). This talk will show competitive results with significantly shorter computation time by just focusing the search in the model selection and structure of the pipeline without the need of hyperparameter optimization.
+Green
+1:00
+PM
+30min
+ConstraintSolver.jl - First constraint solver written in Julia
+Ole Kröger
+In this talk we discuss ConstraintSolver.jl, a new Julia package to tackle the problem of solving constraint programming problems purely in Julia.
+JuMP Track
+1:00
+PM
+10min
+Scaling of Oceananigans.jl on multi GPU and CPU systems
+Valentin Churavy, Ali Ramadhan, Chris Hill, Francis Poulin, Gregory Wagner
+This talk will present scaling and performance of the Oceananigans.jl ocean model on CPU and GPU systems. Oceananigans.jl is an all Julia code that is designed to study geophysical fluids problems ranging from idealized turbulence to planetary scale circulation. It uses the KernelAbstractions.jl package to support CPU and GPU single address space parallelism. It uses MPI.jl, to support multi-node and multi-GPU parallelism. MPI.jl is used both directly and through PencilArrays.jl.
+Blue
+1:00
+PM
+10min
+FlowAtlas.jl: interactive exploration of phenotypes in cytometry
+Gregory Szep
+I will present an interactive web app for exploring phenotypes in flow cytometry data. In particular a multi-tissue, high-dimensional, immune cell dataset. This tool bridges computational methods in GigaSOM.jl and the popular FlowJo, used to annotate cells with gating strategies. By leveraging the geospatial mapping library OpenLayers to render, annotate and analyze cells, immunologists can now efficiently navigate the phenotype space of Human Cell Atlas datasets.
+Purple
+1:00
+PM
+10min
+Unbalanced Power Flow Optimization with PowerModelsDistribution
+David M Fobes
+With the recent advancements in power distribution, e.g., higher penetration of distributed energy resources (DERs), there is a significant demand for optimization tools to solve a variety of complex operational and planning problems, such as optimal dispatch, load shedding, and on-load tap changing. We have developed an optimization-focused approach to phase unbalanced power distribution modeling called PowerModelsDistribution, the design and usage of which we will introduce in this talk.
+Red
+1:10 PM
+1:10
+PM
+10min
+Calculating a million stationary points in a second on the GPU
+David P. Sanders, Valentin Churavy
+We will show how Julia allows us to implement spatial branch-and-bound-type methods using interval arithmetic in parallel on GPUs, in a relatively painless way. As a test case, we calculate and verify existence and uniqueness of over one million stationary points of the transcendental Griewank function of two variables in one second on a recent GPU. We are not aware of any other system that is able to do this.
+Blue
+1:10
+PM
+10min
+Designing ecologically optimized vaccines
+Kusti Skytén
+Designing vaccines is an expensive and time consuming process. This talk demonstrates how we can exploit automatic differentiation of ODEs, parallelization, stochastic search and Bayesian optimization to minimize post-vaccination invasive pneumococcal disease and antibiotic resistant strains in a bacteria population using a novel computational model of the bacterial population dynamics that integrates epidemiological and genomic data.
+Purple
+1:10
+PM
+10min
+PowerModelsDistributionStateEstimation.jl
+Marta
+This talk is about a registered Julia package: PowerModelsDistributionStateEstimation.jl, that allows easy benchmark and design of state estimation models for power distribution systems. The goal is to accelerate the use of this technique in research and real-life settings. State estimation is formulated as a mathematical optimization problem using JuMP.jl and can be solved with off-the-shelf solvers. Different modeling options are featured, and the package is designed to be easily extensible.
+Red
+1:20 PM
+1:20
+PM
+10min
+LatticeQCD.jl: Simulation of quantum gauge fields
+Akio Tomiya, Yuki Nagai
+We present our code (LatticeQCD.jl) for quantum chromo-dynamics (QCD), which describes microscopic world inside of nucleons. QCD calculation has been implemented by Fortran and C++ on supercomputers or GPU clusters because it requires huge numerical resource, i.g. Monte-Carlo with inversions of matrices with 10^16 x 10^16, and has been succeeded to calculate crucial numbers used in experiments. We implemented a code for QCD in Julia, which achieves compatible speed with a Fortran code.
+Red
+1:20
+PM
+10min
+PRS.jl: Fast Polygenic Risk Scores
+Annika Faucon
+Determining one’s risk of developing various diseases throughout one’s lifetime is important for pursuing good health. An emerging method for performing this calculation is the Polygenic Risk Score, or PRS. A PRS method allows one to construct a model of risk of acquiring a certain disease given one’s own genome and provides a simple numerical result representing that risk. We will describe how we ported a widely used PRS program to Julia and the performance and usability that we gained.
+Purple
+1:20
+PM
+10min
+ZXCalculus.jl: A Julia package for the ZX-calculus
+Chen Zhao
+The ZX-calculus is a graphical language for representing and reasoning about quantum information. ZXCalculus.jl is a high-performance package for creating, manipulating, and visualizing ZX-diagrams in Julia. Comparing with a previous Python implementation PyZX, ZXCalculus.jl has 6-50x speed-ups on various tasks of simplifying ZX-diagrams. Moreover, this package is integrated with YaoCompiler.jl and works as a circuit simplification pass in the quantum compiler.
+Blue
+1:30 PM
+1:30
+PM
+30min
+ExaTron.jl: a scalable GPU-MPI-based batch solver for small NLPs
+Youngdae Kim
+We introduce ExaTron.jl which is a scalable GPU-MPI-based batch solver for many small nonlinear programming problems. We present ExaTron.jl's architecture, its kernel design principles, and implementation details with experimental results comparing different design choices. We demonstrate a linear scaling of parallel computational performance of ExaTron.jl on Summit at Oak Ridge National Laboratory.
+Blue
+1:30
+PM
+30min
+JuliaSPICE: A Composable ML Accelerated Analog Circuit Simulator
+Glen Hertz, Pepijn de Vos
+Analog circuit simulation is widely used to design and verify analog circuits before they are manufactured. We present a novel, composable SPICE simulator written entirely in Julia, called JuliaSPICE.
+Red
+1:30
+PM
+30min
+ConstraintProgrammingExtensions.jl
+Thibaut Cuvelier
+ConstraintProgrammingExtensions.jl is a project bringing constraint programming to JuMP. Its main part is a large series of constraints that aim at providing a common interface for constraint-programming solvers. It also consists of a series of bridges that define relationships between those sets (including between high-level constraints such as knapsacks and mathematical-programming formulations) and of a FlatZinc reader-writer to import and export models in that common format.
+JuMP Track
+1:30
+PM
+10min
+Physics-Informed ML Simulator for Wildfire Propagation
+Francesco Calisto, Simone Azeglio, Valerio Pagliarino, Luca Bottero
+The aim of this work is to evaluate the feasibility of re-implementing some key parts of the widely used Weather Research and Forecasting WRF-SFIRE simulator by replacing its core differential equations numerical solvers with state-of-the-art physics-informed machine learning techniques to solve ODEs and PDEs implemented in Julia, in order to transform it into a real-time simulator for wildfire spread prediction.
+Green
+1:30
+PM
+10min
+PhyloNetworks: a Julia package for phylogenetic networks
+Claudia Solis-Lemus
+Evolutionary relationships among organisms are depicted by a binary tree. However, not all species follow the paradigm of vertical inheritance of genes and thus, estimation of phylogenetic networks becomes necessary. PhyloNetworks is the first Julia package for the inference, manipulation, visualization, and use of phylogenetic networks. The package documentation has a full tutorial including upstream analyses, network estimation, bootstrap analysis, and downstream analyses for trait evolution.
+Purple
+1:40 PM
+1:40
+PM
+10min
+Bias Audit and Mitigation in Julia
+Ashrya Agrawal
+This talk introduces [Fairness.jl](https://github.com/ashryaagr/Fairness.jl), a toolkit to audit and mitigate bias in decision support tools. We shall also discuss how we are using Fairness.jl and Julia's ecosystem for our research to understand why debiasing algorithms fail to generalize out-of-sample.
+Green
+1:40
+PM
+10min
+Solving Pokemon Go Battles using Julia
+Ian Slagle
+RandomBattles.jl is a Julia package for the efficient simulation of individual and team Player-vs-Player Battles in Pokemon Go, the AR mobile game by Niantic. This package can compute Monte Carlo simulations, as well as game theoretic solutions to perfect information games. Using the game’s structure and Nash equilibria, the algorithm computes optimal play strategies for an arbitrary number of moves. These simulations derived strategies that are highly similar to those employed by human players.
+Purple
+1:50 PM
+1:50
+PM
+10min
+Julia for data analysis in High Energy Physics
+Mikhail Mikhasenko
+The talk presents the first data analysis in the LHCb experiment performed in Julia. The analysis includes data selection, building and combining complex PDFs (`AlgebraPDF.jl`), likelihood fitting, angular analysis (`FourVectors.jl`, `ThreeBodyDecay.jl`, `PartialWaveFunctions.jl`), hypotheses testing, and running pseudo experiments. New packages enrich Julia ecosystem fostering the adoption of the language in the High Energy Physics community.
+Purple
+1:50
+PM
+10min
+Data driven insight into fish behaviour for aquaculture
+Paulito Palmes, PhD, Fearghal O'Donncha
+Aquaculture, or the farmed production of fish and shellfish, has grown rapidly, from supplying just 7% of fish for human consumption in 1974 to more than half in 2016. Sustaining this rapid expansion requires data-driven management of the production process and environmental impacts. This talk presents a machine-learning-based exploration of environmental and fish behaviour datasets collected at three salmon farms in Norway, Scotland, and Canada using AutoML tools in Julia.
+Green
+2:30 PM
+2:30
+PM
+45min
+Keynote (Xiaoye (Sherry) Li)
+Keynote
+Green
+3:15 PM
+3:15
+PM
+45min
+State of Julia
+Stefan Karpinski
+Placeholder for State of Julia talk.
+Green
+4:30 PM
+4:30
+PM
+45min
+Julia in High-Performance Computing
+Valentin Churavy, Simon Byrne, Michael Schlottke-Lakemper
+The JuliaHPC community as a group maintains the infrastructure for using Julia in high-performance computing. In this BoF we invite newcomers, application developers, and maintainers to join us for an informal discussion around the state of Julia in HPC.
+BoF/Mini Track
+4:30
+PM
+30min
+Nonlinear programming on the GPU
+François Pacaud
+So far, most nonlinear optimization modelers and solvers have primarily targeted CPU architectures. However, with the emergence of heterogeneous computing architectures, leveraging massively parallel accelerators in nonlinear optimization has become crucial for performance. As part of the Exascale Computing Project ExaSGD, we are studying how to efficiently run nonlinear optimization algorithms at exascale using GPU accelerators.
+JuMP Track
+4:30
+PM
+3min
+Processing Light-Sheet Microscopy Data Using Julia
+Mark Kittisopikul, Ph.D.
+Light-sheet microscopy is a technique that volumetrically scans fluorescently tagged biological specimens efficiently at high rates of speed. This data consists of three dimensional data collected over time across color channels and multiple views and results in a data flow of tens of gigabytes per second. I will discuss using Julia to meet the near acquisition demands of handling such data including 1) unpacking 12-bit integers, 2) compression, 3) chunking into subvolumes, and 4) storage.
+Purple
+4:30
+PM
+30min
+InvertibleNetworks.jl - Memory efficient deep learning in Julia
+Philipp A. Witte, Mathias Louboutin, Ali Siahkoohi, Felix J. Herrmann, Gabrio Rizzuti, Bas Peters
+We present InvertibleNetworks.jl, an open-source package for invertible neural networks and normalizing flows using memory-efficient backpropagation. InvertibleNetworks.jl uses manually implement gradients to take advantage of the invertibility of building blocks, which allows for scaling to large-scale problem sizes. We present the architecture and features of the library and demonstrate its application to a variety of problems ranging from loop unrolling to uncertainty quantification.
+Green
+4:30
+PM
+10min
+Designing Spacecraft Trajectories with Julia
+Dan Padilha
+This talk briefly presents OrbitalTrajectories.jl, a library providing tools for the analysis of orbital trajectories for space mission design. Making use of the Julia scientific modeling ecosystem to easily define and extend high-fidelity simulations of spacecraft motion, we demonstrate how key techniques including meta-programming, symbolic computation, non-linear optimisation, and automatic differentiation work towards generating, analysing, and stabilising orbital trajectories.
+Red
+4:30
+PM
+3min
+Applications of Julia for Network Science Text Analysis
+Mira Tellegen
+I will discuss my experience using Julia to perform semantic text processing on short texts, which was a lot of firsts for me: my first time using Julia, and first project tracked through Github. I will talk through how we used Julia specifically to perform the text analysis, my experience trying to troubleshoot and find Julia documentation online (which can be difficult yet rewarding!), and in particular, the ways in which Julia allowed us to vary our use of methods and display of our results.
+Purple
+4:30
+PM
+10min
+Julia and deploying complex graphical applications for laypeople
+Vexatos, Cruor
+Applications written in Julia targeted at a nonprofessional audience are still uncommon, even though libraries for designing such applications have existed for years. For software to be easy to use by laypeople, a simple installation process and an intuitive GUI are essential. We have been developing and deploying such an application for over three years. This talk will focus on our experiences during that time, how the situation has improved since Julia 0.6, and what it looks like today.
+Blue
+4:35 PM
+4:35
+PM
+3min
+Awesome Computer Vision Done Quick
+Bishmer Sekaran
+AI researcher Bishmer Sekaran demonstrates how Julia is: * easy * fast * powerful when performing sophisticated Computer Vision image classification tasks using the [SSDMNV2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775036/) masked/unmasked image dataset.
+Purple
+4:40 PM
+4:40
+PM
+10min
+AtomicSets.jl
+Mia Kramer
+We present `AtomicSets.jl`, a Julian framework for structured convex optimization. Algorithms for structured optimization build up a solution from a set of prescribed _atoms_ that represent simple structures. The atoms that participate in the final solution often represent key explanatory components of a model. We use Julia's dispatch system to implement a calculus of convex sets and their functional representations that compiles to efficient machine code.
+Red
+4:40
+PM
+10min
+Towards an increased code-creativity harmony in Javis
+Arsh Sharma
+Javis.jl is a graphical animation/visualization package for the Julia Language which is inspired by Grant Sanderson's (aka, famous Math educator and YouTuber, 3blue1brown) Python based animation engine, Manim. This talk is about the work I have been doing this summer to make Javis more friendly and feature rich for creators
+Blue
+4:40
+PM
+3min
+Bootstrapping Data Science and Diversity
+Matthew A Tillman-Hart, Sam Urmy
+The JuliaLang Survey results highlighted lack of Black representation in the Julia community. Learning Data Science on your own can be intimidating, especially coming from a nontraditional career path, and formal tutoring is expensive. Luckily, Julia’s community is willing to help! We are a mentor and mentee who met on Julia Discourse in 2018 and have been working together since. Our experience shows the value of mentorship when bootstrapping your data science career—and how fun and rewarding it
+Purple
+4:40
+PM
+3min
+Sonification: Exploring streaming data using live music coding
+Nicki Cartlidge
+Hooks is a new package exploring Sonification (representing data as audio) using Julia and Pluto integrated with SuperCollider, processing streaming data to create music using live music coding techniques. The presentation also includes brief observations as a first-time Julia coder.
+Purple
+4:45 PM
+4:45
+PM
+3min
+Case Study: Server Side Julia for COVID-19 Patient Workflows
+Jeffrey Varner
+In this talk we will discuss lessons learned from developing and deploying Julia-based server side tools to automate COVID-19 patient workflows in the Raleigh-Durham area of North Carolina. Aspirar Medical Labs is a small family owned medical testing business based in the Raleigh-Durham area. Aspirar developed several Julia solutions (running on Amazon Web Services EC2 instances) to automate the registration, testing, and patient notification of COVID-19 results.
+Purple
+4:50 PM
+4:50
+PM
+3min
+Disrupting Esoteric Language Microbenchmarks with an 80-line JIT
+Seth Chapman
+When Julia 1.6 is released, a concerned Hacker News commenter wonders if Julia's performance claims are overblown, citing a series of microbenchmarks that measure the speed with which a language can interpret the esoteric programming language Brainfuck. Using powerful metaprogramming utilities, 80 lines of Julia are enough to transpile Brainfuck to a native Julia function instead, resulting in performance times that outpace every other language in the test suite.
+Purple
+4:50
+PM
+10min
+PGFPlotsX.jl - Plotting with LaTeX, directly from Julia
+Kristoffer Carlsson
+PGFPlots is a plotting package for LaTeX that produces plots with vector graphics and interfaces with the math typesetting of LaTeX. `PGFPlotsX.jl` is a Julia plotting package that provides an interface to PGFPlots by transpiling Julia objects to LaTeX code. Furthermore, the figures generated by `PGFPlotsX.jl` are directly rendered in IPython notebooks, Pluto and VSCode which allows for rapid plot prototyping. It also serves as one of the backends to the popular `Plots.jl` package.
+Blue
+4:50
+PM
+10min
+Julia Admittance: A Toolbox for Admittance Extraction
+Lingling Fan
+For power grid operators, wind farms and solar farms are black boxes since details of inverter technologies, the main component of renewables, are proprietary info. Then, how can a grid operator assess a power grid's stability? We aim to design a toolbox to address this challenge. Julia Admittance will process experiment data and come up with admittance models for wind, solar, etc. With admittance models available, eigenvalues of the system will be computed to assess system stability.
+Red
+4:55 PM
+4:55
+PM
+3min
+Fitting Plate-reader Curves with Julia
+Thomas A. Poulsen
+PlateReaderCore and PlateReaderCurves are Julia packages for fitting and visualizing results from optical plate-readers and similar equipment. The presentation will introduce these packages and describe my experience developing and deploying them.
+Purple
+5:00 PM
+5:00
+PM
+10min
+Composable Bayesian Modeling with Soss.jl
+Chad Scherrer
+Soss is a probabilistic programming language (PPL) with first-class composable models. Through dynamic code generation, Soss can achieve speedup of several orders of magnitude in some models, for example using symbolic simplification of the log-density. In this talk, we'll discuss the goals and design choices in Soss that distinguish it from other PPLs, followed by an overview of upcoming work.
+Green
+5:00
+PM
+10min
+MadNLP.jl: A Mad Nonlinear Programming Solver.
+Sungho Shin
+We present a native-Julia nonlinear programming (NLP) solver MadNLP.jl. This solver implements the filter line-search interior-point method for constrained NLPs; to the best of our knowledge, MadNLP is currently the only native-Julia solver that is capable of handling general nonlinear equality/inequality-constrained optimization problems. MadNLP is interfaced with the algebraic modeling language JuMP.jl, the graph-based modeling language Plasmo.jl, and the NLP data structure NLPModels.jl.
+JuMP Track
+5:00
+PM
+30min
+JuliaFolds: Structured parallelism for Julia
+Takafumi Arakaki
+JuliaFolds ecosystem supports structured parallelism for Julia with the packages such as Transducers.jl, Folds.jl, and FLoops.jl. It aims at providing parallelism that is easy-to-use, composable,and extensible. Furthermore, it provides a unified interface to different execution mechanisms such as multi-threading, GPU, and distributed parallelisms. In this talk, I discuss the composable design principle of the JuliaFolds packages.
+Red
+5:00
+PM
+3min
+High Performance Tsunami Forecasting
+Tuomas Koskela
+We are developing a particle filter data assimilation package in Julia. The primary use case is forecasting tsunamis using data from a sparse set of observations and a numerical model. The application is designed to run in parallel on multiple nodes of HPC clusters and interface with third-party numerical models. Using Julia has benefited us in many ways, including high performance, fast development, testing, and leveraging open-source libraries.
+Purple
+5:00
+PM
+30min
+Javis.jl - Julia Animations and Visualizations
+Jacob Zelko, Ole Kröger
+Javis.jl is a general purpose animation library which builds on top of the Luxor.jl graphics library. It fills a gap in the Julia ecosystem by providing functionality to create object based animations to communicate complex ideas through simple means. Furthermore, Javis provides the flexibility for users to extend Javis’s visualizations to a variety of applications. Users are already expressing complicated ideas through winsome domain specific visuals such as planetary motion or brain mapping.
+Blue
+5:00
+PM
+3min
+Strengths and Challenges of Julia for learning Linear Algebra
+John Woolverton
+Julia notebooks seem like the perfect foundation for learning and teaching linear algebra, but the feature sets of the competition (python, Matlab) are deep, and as the concepts get more involved, the functionality involved challenges the capabilities of Julia and its ecosystem of modules and visualizations. The strengths however shine through, making this a platform worth fighting for.
+Purple
+5:05 PM
+5:05
+PM
+3min
+Julia & Healthcare Technology Assessment Analytics
+Erik J Dasbach
+Healthcare technology assessment plays a key role in shaping healthcare policy decisions with respect to granting access to new healthcare programs. Analytics are critical for informing these decisions. Julia’s performance offers significant advantages especially for complex health economic models. This talk will highlight opportunities for bridging fields and forming a Julia community of data scientists for the advancement of healthcare technology assessment analytics.
+Purple
+5:10 PM
+5:10
+PM
+10min
+Nonconvex.jl
+Mohamed Tarek
+Nonconvex.jl is a package that aims to interface all the major nonlinear and mixed integer nonlinear programming packages in Julia using a function-based API. Zygote.jl is used for automatic differentiation (AD) and ChainRules.jl can be used to define analytic gradients or custom adjoint rules for functions. Ipopt.jl, NLopt.jl, Percival.jl and Juniper.jl are some of the packages wrapped in Nonconvex.jl as of the writing of this abstract.
+JuMP Track
+5:10
+PM
+10min
+Chaotic time series predictions with ReservoirComputing.jl
+Francesco Martinuzzi
+Are you interested in how machine learning can be used to predict the behavior of the "unpredictable" chaotic systems? This talk will be a deep dive into ReservoirComputing.jl, a package in the SciML ecosystem focused on a class of stabilized machine learning specialized for handling learning these difficult dynamical systems.
+Green
+5:10
+PM
+3min
+Julia as a framework for a Theoretical Physics PhD
+Alejandro R. Urzúa
+I started used Julia as a backup language, soon became my first and unique programming language for doing my numerical checks of my theoretical findings. My theoretical physics PhD gone easy after I known about Julia and their wonderfulness.
+Purple
+5:15 PM
+5:15
+PM
+45min
+GPU programming in Julia BoF
+Valentin Churavy, Tim Besard, Julian P Samaroo
+This is a BoF to talk about the various GPU programming packages in Julia: - CUDA.jl - AMDGPU.jl - oneAPI.jl - KernelAbstractions.jl - GPUArrays.jl - GPUCompiler.jl - ... If you have any thoughts or questions about these packages, or other approaches to GPU programming in Julia, please join this BoF to chat about it!
+BoF/Mini Track
+5:15
+PM
+3min
+Julia for end to end financial analysis
+Mohamed Zahran
+This session will give a quick demo of how we used Julia for our workflow of a financial analysis application. The application itself performs multi-objective optimization on historical stock data to create a pareto frontier of optimal risk - return combinations. We will talk about Julia's optimization packages such as JuMP and MultiJuMP, as well as its easy to use reporting and visualization packages such as Weave and Plots that help us communicate and visualize results.
+Purple
+5:20 PM
+5:20
+PM
+3min
+Jumping into the Julia Community via Advent Of Code
+Jasmine Hughes
+Learning a new language is a lot of fun when it comes with reindeer and peer support! Every December, thousands of developers take part in Advent of Code (AoC), a free, elf-themed series of 25 daily programming puzzles. These challenges ramp up in difficulty over the month, making it a great opportunity to try out Julia. The most valuable resource for learning and for developing confidence is the Julia AoC community on Twitter and Zulip, a welcoming space to explore the richness of the language.
+Purple
+5:20
+PM
+10min
+NOMAD.jl
+Ludovic Salomon
+The NOMAD software is a derivative-free solver which implements the mesh adaptive direct search algorithm. Its purpose is to solve constrained problems where the objective and the functions defining the constraints correspond to the outputs of a program seen as a blackbox. This talk aims at presenting the NOMAD.jl interface to Julia, linked to the JuMP modeling language. Some applications will also be exposed.
+JuMP Track
+5:20
+PM
+10min
+Airborne Magnetic Navigation Enhanced with Neural Networks
+Albert Gnadt
+Using the earth’s magnetic field for navigation of aircraft has shown promise as a viable alternative to GPS. An airborne magnetic navigation system collects magnetic field data and uses predetermined magnetic maps to estimate location. A challenge arises when the measured data contains magnetic signals from both the (desired) earth field and (undesired) aircraft field. This work explores several approaches for obtaining a clean magnetic signal that is usable for navigation.
+Green
+5:25 PM
+5:25
+PM
+3min
+The wonderfully helpful Julia community
+Kim Paolo Laberinto
+This short session will share the wonderful experience I've had engaging with the Julia community as a new Julia learner. Overall, I want to share these experiences as a way to celebrate it but also to encourage other new Julia learners to connect and engage with this friendly community. Topics include what one can expect on the various platforms as well as how I got help on some of my projects like getting help to accelerate my Julia image processing code that I use to make art.
+Purple
+5:25
+PM
+3min
+Learning during the pandemic
+Krithika Natarajan
+Learning Julia takes time. Unfortunately, as a high schooler balancing school and extracurriculars, time is a hard resource to find. Combining learning Julia and chemistry/calculus with Pluto notebooks works around that constraint. At first, the programs were basic but as time passed, the notebooks became more advanced through packages like Catalyst.jl and DifferentialEquations.jl. The next step is to learn more specifics about these packages as I learn more chemistry/calculus.
+Purple
+5:30 PM
+5:30
+PM
+30min
+Teaching parallelism to the Julia compiler
+Takafumi Arakaki
+How we currently implement the task parallel API in Julia introduces a couple of obstacles for supporting high-performance parallel programs. In particular, the compiler cannot analyze and optimize the child tasks in the context of the surrounding code. In this talk, I discuss our work on using Tapir (Schardl et al., 2019) to add parallelism to Julia that can be optimized by the compiler.
+Red
+5:30
+PM
+30min
+Linearly Constrained Separable Optimization
+Ellis Brown
+Many optimization problems involve minimizing a sum of univariate functions, each with a different variable, subject to coupling constraints. We present [PiecewiseQuadratics.jl](https://github.com/JuliaFirstOrder/PiecewiseQuadratics.jl) and [LCSO.jl](https://github.com/JuliaFirstOrder/LCSO.jl), two Julia packages for solving such problems when these univariate functions in the objective are piecewise-quadratic.
+JuMP Track
+5:30
+PM
+3min
+Yawipa: a comprehensive and extensible Wiktionary parser
+Winston Wu
+Wiktionary is a large, free multilingual dictionary with a wealth of information. Yawipa is designed to be easily extensible and comprehensive, and (of course) it is written in Julia. It can extract numerous types information from Wiktionary, including pronunciations, part ofspeech, translations, etymology, and a wide range of word relations, and normalize it into an easy-to-process tabular format. Yawipa is available at https://github.com/wswu/yawipa, and we welcome your contributions.
+Purple
+5:30
+PM
+30min
+A deep dive into MakieLayout
+Julius Krumbiegel
+Makie.jl is a plotting package for high-performance interactive and publication-quality static data visualizations. MakieLayout, a former extension delivering flexible layouts and interactive widgets, has recently been integrated into the base package, and is now part of the default workflow. This talk will take a detailed look at the new syntax and the architecture behind the layout system, as well as highlight features that make creating complex multi-plot figures a breeze.
+Blue
+5:35 PM
+5:35
+PM
+3min
+Theory is (nearly) implementation with julia types
+Gregor Kappler
+Data paradigms are metaphors we think with. This talk describes how julia re-united a psychometrician's probability theoretical and technical thinking in "data". I have thought in terms of boxes, registers and memory adresses, value bundles with C structures and Pascal records, objects with inheritance in C++ and java, vectors and data frames in R. All useful but oblique. Finally julia types liberated from tediously translating theory to implemetation. More clarity, less mistakes.
+Purple
+5:35
+PM
+3min
+Speeding up cosmological data analysis with Julia
+Marco Bonici
+In the next few years, upcoming cosmological survey are going to produce a large amount of data. In order to extract as much information as possible, we need adequate software tools to analyze data. I translated my Python3 code, that I use to predict cosmological observable, in Julia. After a month of work, with no previous Julia exposure, I obtained a speed up of about 20. Now I am looking further to extend my Julia code and to apply extensively it in my research.
+Purple
+5:40 PM
+5:40
+PM
+3min
+Simulation of additive manufacturing processes in Julia
+Luca Lubeto
+Illustrated on the example of a heat transfer problem (Additive manufcaturing process simulation) where individual voxels are actived over time, we review the porting from MATLAB Code to Julia. Furthermore, we investigate the resulting increase of performance, emerging challenges, GPU usage and newly created opportunities.
+Purple
+5:40
+PM
+10min
+Generative Models with Latent Differential Equations in Julia
+Germán Abrevaya
+Scientific Machine Learning (SciML) is the branch of scientific computing that combines domain-aware and interpretable models with robust machine learning techniques. The Julia language has been a key enabler of this burgeoning field, thanks to its unique SciML ecosystem. However, there are no ready-to-use implementations of generative models with latent differential equations. Here, we present an addition to the DiffEqFlux.jl package that offers easy and flexible access to this class of models.
+Green
+5:45 PM
+5:45
+PM
+3min
+Probabilistic K-Nearest Neighbours
+Gerardo Duran-Martin
+In this presentation, I talk about my experience creating the Pknn.jl library for modelling probabilistic K-nearest neighbours and how Julia solved running a sampling an algorithm in Python for hours to only a couple of minutes.
+Purple
+5:50 PM
+5:50
+PM
+3min
+Musical Julia
+Radhika Ivaturi
+Why would a 6th grader like myself learn about Julia? I had heard of a language called Julia and started programming in Julia with the help of an amazing book called the "Little Book of Julia Algorithms". Programming in Julia was great fun and made me perceive things from a coding point of view and I want to share my experiences as I begin my journey in Julia with my first project-A Musical Note Convertor.
+Purple
+5:50
+PM
+10min
+CompositionalNetworks.jl: a scaling glass-box neural network
+Khalil CHRIT
+Interpretable Compositional Networks (ICN), a variant of neural networks, that allows the user to get interpretable results, unlike regular artificial neural networks. An ICN is a glass-box producing functions composition that scale with the size of the input, allowing a learning phase on relatively small spaces. This presentation covers the different Julia packages and paradigms involved, a set of use-case, current limitations, future developments, and hopefully possible collaborations.
+Green
+7:00 PM
+7:00
+PM
+30min
+NExOS.jl for Nonconvex Exterior-point Operator Splitting
+Shuvomoy Das Gupta
+NExOS.jl is a Julia package that implements the Nonconvex Exterior-point Operator Splitting (NExOS) algorithm (https://arxiv.org/pdf/2011.04552.pdf). The package is tailored for minimizing a convex cost function over a nonconvex constraint set, where projection onto the constraint set is single-valued around local minima.
+JuMP Track
+7:00
+PM
+30min
+Monads 2.0, aka Algebraic Effects: ExtensibleEffects.jl
+Stephan Sahm
+While Monads make it easy to hide one context nicely in your code, with Extensible Effects you can combine multiple contexts and let them seamlessly interact with each other. TLDR: If you want to abstract and hide away some computational context, prefer Extensible Effects to Monads.
+Purple
+7:00
+PM
+30min
+Package latency and what developers can do to reduce it
+Tim Holy
+Package latency remains one of the chief complaints among Julia users. While recent improvements in Julia have reduced the problem, the opportunity for additional progress is large. In this talk I'll analyze latency from a package developer's standpoint, describing some of the factors that affect latency and how improvements in package design can reduce it. I will briefly exhibit tools that can help identify opportunities for improvement.
+Blue
+7:00
+PM
+30min
+Modeling the Economy During the Pandemic
+Shlok Goyal, Alissa Johnson
+Macroeconomic modeling during the COVID-19 pandemic, and the switch to a new monetary policy framework, has required rapid adjustments to the DSGE.jl package, made possible by Julia’s flexible typing and efficient matrix computations. We review the new features in DSGE.jl that allow users to model periods of large economic shifts and uncertainty. As an illustration, we also explain how the Federal Reserve Bank of New York solved and estimated a model with these features during the recession.
+Green
+7:00
+PM
+30min
+Release management - lessons learned in JuliaData ecosystem
+Bogumił Kamiński
+Registering a new release for your package is always a great moment. However, there are several challenges related with release management. In this talk, using the experience from JuliaData ecosystem, I will discuss the major things to consider if you want to keep your users happy.
+Red
+7:00
+PM
+90min
+Julia in Private Organizations
+Curtis Vogt
+Using Julia code within private organizations can encounter challenges not faced in the open-source community. In this BoF, we'll be discussing the unique aspects of using Julia in private organizations and cover topics such as: production deployments, tooling/ techniques for teams coding in Julia, and answering questions regarding transition/adopting Julia within an organization.
+BoF/Mini Track
+7:30 PM
+7:30
+PM
+30min
+Shaped Data with Acsets
+Owen Lynch
+Acsets are a novel infrastructure for handling data of different shapes, based on category theory and implemented in Catlab.jl. Acsets generalize both graphs and dataframes, and allow a much more general approach to data manipulation than was previously available. We will discuss both the mathematics of acsets and some of the metaprogramming techniques we used to implement them in Julia. Finally, we will give examples of how acsets have been key in developing many projects in AlgebraicJulia.
+Red
+7:30
+PM
+10min
+HighFrequencyCovariance: Estimating Covariance Matrices in Julia
+Stuart Baumann
+High frequency data typically exhibit asynchronous trading and microstructure noise, which can bias the covariances estimated by standard estimators. While a number of specialised estimators have been developed, they have had limited availability in open source software. HighFrequencyCovariance is the first Julia package which implements specialised estimators for volatility, correlation and covariance using high frequency financial data.
+Green
+7:30
+PM
+30min
+Roadmap to Julia BLAS and LinearAlgebra
+Chris Elrod
+BLAS & LAPACK are an integral component of many numerical algorithms. Due to their importance, a lot of effort has gone into optimizing ASM/C/Fortran implementations. Nonetheless, early work demonstrated Julia implementations were often faster than competitors, while laying groundwork for new routines specialized for new problems. We discuss a roadmap toward providing Julia BLAS and LAPACK libraries, from optimizations in LoopVectorization to libraries like Octavian and RecursiveFactorization.
+Purple
+7:30
+PM
+30min
+Global constrained nonlinear optimisation with interval methods
+David P. Sanders
+We will present recent work in progress on guaranteed methods for inequality-constrained *global* nonlinear optimization in Julia. Using methods based on interval arithmetic allows us to guarantee (prove) that we return the true global minimum and minimizers for inequality-constrained optimization problems in low dimensions.
+JuMP Track
+7:30
+PM
+10min
+Creating a Shared Library Bundle with Package Compiler
+Kristoffer Carlsson, Simon Byrne, Kevin Squire
+[`PackageCompiler.jl`](https://julialang.github.io/PackageCompiler.jl/dev/) has become the de facto method for creating standalone Julia applications. In this talk, we will demonstrate the use of `PackageCompiler.jl` to produce shared library bundles. This functionality was added recently and allows the easy creation of location-independent dynamic libraries which can be linked to and called from C, C++, Rust, or other languages which can link to and use C libraries.
+Blue
+7:40 PM
+7:40
+PM
+10min
+Using Julia to study economic inequality and taxation
+Johannes Fleck
+In this talk, I illustrate a Julia workflow to study economic inequality and taxation in the United States. My workflow centers around Taxsim.jl which allows to answer a large number of research questions related to the US tax system. First, I import a widely used survey dataset to show how high and low before-tax incomes evolved since 1960. Next, using Taxsim.jl, I impute taxes paid to compare the evolution of after-tax incomes and to measure the redistributive effect of the tax system.
+Green
+7:40
+PM
+10min
+Semantically Releasing Julia Packages
+Joris Kraak
+The Julia community has embraced semantic versioning from a very early stage (if not from the get-go). The Julia package release flow has also been put through its paces and is easy to get started with. This is a great foundation and may be sufficient for most. However, some may require a more structured approach to release preparation, incorporating it into their day-to-day operations. This talk will show how to use the 'semantic release' framework for Julia packages to accomplish this.
+Blue
+7:50 PM
+7:50
+PM
+10min
+Runtime-switchable BLAS/LAPACK backends via libblastrampoline
+Elliot Saba, Mosè Giordano
+Julia has historically been built against a single backing BLAS/LAPACK library, and switching to a different library has required a recompilation of Julia. This was compounded by issues with loading 3rd party binaries that linked against incompatible BLAS backends. This talk will showcase a new low-overhead compatibility layer in Julia v1.7 named libblastrampoline that allows for runtime switching of BLAS/LAPACK libraries, as well as allowing loading of multiple BLAS/LAPACK ABIs at once.
+Blue
+7:50
+PM
+10min
+Dissemination of Julia in the French-speaking Community
+Thierry LEPOINT
+This talk summarizes the reasons that led to the translation of the open-source book "ThinkJulia" into its French version ("Penser en Julia"). This book focuses on teaching to program with Julia as the first programming language. This is the second book in French about Julia. The goal of this translation is to spread the use of Julia in the French-speaking community where, except a few countries, the level of knowledge of English ranges from medium to low (English Proficiency Index).
+Green
+8:00 PM
+8:00
+PM
+30min
+Deep Dive: Creating Shared Libraries with PackageCompiler.jl
+Kristoffer Carlsson, Simon Byrne, Kevin Squire, Nikhil Mitra
+The ability to create shared library bundles was recently added to `PackageCompiler.jl`. In this talk, we will discuss the technical details of the implementation and give in-depth examples of using the resulting shared library bundles from C and Rust.
+Blue
+8:00
+PM
+10min
+SuiteSparseGraphBLAS.jl
+William Kimmerer
+Graphs are a ubiquitous and versatile data structure, which allow representation of problems and systems across a vast array of domains, from infrastructure networks and molecules to language and social interactions. [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) casts graph computations as generalized linear algebra on sparse matrices. Support for ChainRules AD frameworks, and the wider ecosystem is a core feature of v1.0, releasing around JuliaCon.
+Purple
+8:00
+PM
+10min
+Diversity and Inclusion in the Julia community
+Logan Kilpatrick
+It takes the entire community to promote diversity and inclusion. This talk will focus on the current plans underway to promote diversity and inclusion in the Julia Community as well as give an updated look at the state of diversity and inclusion in our community.
+Green
+8:00
+PM
+10min
+Types from JSON
+Mary McGrath
+Tired of writing artisanally crafted types to match the JSON file or API you're consuming? Learn about type providers and how to have types created from your JSON.
+Red
+8:10 PM
+8:10
+PM
+10min
+Improving Gender Diversity in the Julia Community
+Xuan (Tan Zhi Xuan), Kim Louisa Auth
+The Julia community aims to be welcoming, diverse, inclusive towards people from all backgrounds. However, the 2020 Julia User & Developer Survey found that only 3% of respondents were women, and reported no respondents who were non-binary or another gender. We, Julia Gender Inclusive, believe this needs to change. In this talk, we will share our ideas and initiatives for improving gender diversity among Julia users and developers, including outreach, community building, and mutual support.
+Green
+8:10
+PM
+10min
+MutableArithmetics: An API for mutable operations
+Benoît Legat
+The definition of the arithmetic operations defined in Julia assume that the arguments are not modified. However, in many situations, a variable represents an accumulator that can be modified to contain the result, e.g., when summing the elements of an array. Moreover, many types can be mutated and mutating the element may have significant performance benefit. This talk presents an interface that allows algorithms to exploit a possible mutability while still being completely generic.
+Purple
+8:10
+PM
+10min
+PrettyPrinting: optimal layout for code and data
+Kyrylo Simonov
+*PrettyPrinting* is a library for formatting composite data structures. PrettyPrinting optimizes the layout of the data to make it fit the screen width. Out of the box, PrettyPrinting can format Julia code and standard Julia containers. It can be easily extended to format custom data types.
+Red
+8:20 PM
+8:20
+PM
+10min
+ExprTools: Metaprogramming from reflection
+Lyndon White
+Have you ever had a list of `Method`s, e.g. from the output of `methodswith`, and thought _”I just want to implement all of these, it would be great to use metaprogramming for that”_? ExprTools.jl has the parts to let you extract the info out of the method table, manipulate it, and then generate the AST you want for the new method you want to define. Does this access undocumented Julia internals? Absolutely! Is this well tested? Comprehensively! Is this a good idea? Who knows!
+Purple
+8:20
+PM
+10min
+Julia Developer Survey Results
+Viral B. Shah
+Results from the annual Julia Developer survey will be shared.
+Green
+
