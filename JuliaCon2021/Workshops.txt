@@ -1,0 +1,128 @@
+Tuesday 20. July
+2:00 PM
+2:00
+PM
+180min
+GPU programming in Julia
+Valentin Churavy, Tim Besard, Julian P Samaroo
+In this workshop, we will demonstrate three major packages for programming GPUs in Julia (CUDA.jl, AMDGPU.jl, oneAPI.jl), and the different programming models, tools and APIs that these packages support.
+Green
+2:00
+PM
+180min
+DataFrames.jl 1.2 tutorial
+Bogumił Kamiński
+In this workshop an introduction to DataFrames.jl 1.2 will be presented. You will learn how to load, transform and visualize your data using the DataFrames.jl package. The tutorial assumes that you have some experience in working with data frames in e.g. R or Python. All the materials used are available for download at https://github.com/bkamins/JuliaCon2021-DataFrames-Tutorial.
+Red
+Wednesday 21. July
+2:00 PM
+2:00
+PM
+180min
+Statistics with Julia from the ground up
+Yoni Nazarathy
+This workshop provides an introduction to the Julia language for data-scientists and statisticians. No prior experience with Julia is assumed. The workshop starts with a few Julia basics and then progresses through basic probability and statistics examples, usage of dataframes, elementary statistical inference, regression, and more advanced methods. At the end of this workshop, attendees will have solid entry point for using Julia as their preferred data analysis tool.
+Red
+2:00
+PM
+180min
+Quantum Computing with Julia
+Katharine Hyatt, Saravana Kumar
+Quantum computing is an emerging area of the technology industry with applicability to many different fields. But it’s not obvious how to get started with quantum hardware or quantum algorithms. In this workshop, we’ll use Julia to introduce attendees to quantum computing, creating state of the art quantum machine learning models and solving real-world optimization problems on a real quantum device or a quantum circuit simulators using Amazon Braket.
+Green
+Thursday 22. July
+2:00 PM
+2:00
+PM
+180min
+A mathematical look at electronic structure theory
+Michael F. Herbst
+Electronic structure theory is a fascinating interdisciplinary field. Physics, chemistry, materials science, mathematics, high-performance computing ... they're all in it. Rooted at the quantum-mechanical description of electrons it is the backbone for quite a few simulation methods in the chemical and physical sciences. Here we'll focus on the numerical tools required to solve standard problems in the field like density-functional theory, which --- as we will see --- is challenging in itself.
+Green
+2:00
+PM
+180min
+Game development in Julia with GameZero.jl
+Ahan Sengupta, Avik Sengupta
+A game development workshop where participants will create two simple games, inspired by classic games from the early days of computing. We will start with a pong game, and end with a a snake game. This workshop is suitable for beginner programmers, or for experienced coders hoping to teach programming to younger people. Or for anyone wanting to have some fun while programming.
+Red
+Friday 23. July
+2:00 PM
+2:00
+PM
+180min
+Solving differential equations in parallel on GPUs
+Ludovic Räss, Mauro Werder, Samuel Omlin
+Why to wait hours for computations to complete, when it could take only a few seconds? Tired of prototyping code in an interactive, high-level language and rewriting it in a lower-level language to get high-performance code? Or simply curious about parallel and GPU computing being game changers.
+Green
+2:00
+PM
+180min
+Package development in VSCode
+David Anthoff, Sebastian Pfitzner
+The [Julia extension for VSCode](https://www.julia-vscode.org/) provides a multitude of tools and commands to make package development and interactive coding easy. We'll provide an overview on how to develop a Julia package from scratch and show how to use the debugger and profiler efficiently to find and fix faulty logic or performance issues.
+Red
+Saturday 24. July
+2:00 PM
+2:00
+PM
+180min
+Simulating Big Models in Julia with ModelingToolkit
+Chris Rackauckas
+It can be hard to build and solve million equation models. Making them high performance, stable, and parallel? Introducing ModelingToolkit.jl! The modeling auto-optimizer for all of your performance needs! We will show many use cases on differential equations and beyond (optimization, nonlinear solving, etc.).
+Green
+2:00
+PM
+180min
+Package development: improving engineering quality & latency
+Tim Holy, Shuhei Kadowaki
+Julia holds immense promise for a composable package ecosystem. Potential obstacles to achieving this promise include missing methods for unanticipated types, unwitting type-piracy, poor performance due to inference failures, method ambiguities, and latency due to long compilation times and/or invalidation of previously-compiled code. This workshop will tutor developers on the use of some recently-developed tools for detecting, diagnosing, and fixing such problems.
+Red
+Sunday 25. July
+2:00 PM
+2:00
+PM
+180min
+Modeling Marine Ecosystems At Multiple Scales Using Julia
+Gael Forget, Benoit Pasquier, Zhen Wu
+Life in the oceans is strongly connected to our climate. In this workshop, you will learn to use packages from the JuliaOcean and JuliaClimate organizations that provide a foundation for studying marine ecosystems across a wide range of scales. We will first run agent-based models to explore individual microbes and processes that drive species interactions. On the other end of the model hierarchy, we will simulate planetary-scale transports that control ocean biogeography and climate change.
+Red
+2:00
+PM
+180min
+Parse and broker (log) messages with CombinedParsers(.EBNF)
+Gregor Kappler
+Parsers are programs to break apart strings that match a grammar in order to transform into structured representations. I demonstrate composing regular expressions, EBNF grammars and CombinedParsers.jl constructors to build a slick message broker system inspired by Apache Kafka: Log lines and other messages are parsed to julia types. Parsed instances are brokered by julia's multiple dispatch into different data sinks (git managed CSV, SearchLight.jl).
+Green
+Monday 26. July
+2:00 PM
+2:00
+PM
+180min
+Introduction to Bayesian Data Analysis
+Kusti Skytén
+This workshop will introduce the recommended workflow for applied Bayesian data analysis by working through an example analysis together. We will start with the simplest non-trivial model and use increasingly sophisticated models to explain the properties of our data set based on model diagnostics. We will also give an overview of the different probabilistic programming packages in Julia and show where we have advantages over other languages such as Stan and Python.
+Red
+2:00
+PM
+180min
+It's all Set: A hands-on introduction to JuliaReach
+Marcelo Forets, Christian Schilling
+JuliaReach is among the best-of-breed software addressing the fundamental problem of reachability analysis: computing the set of states that are reachable by a dynamical system from all initial states and for all admissible inputs and parameters. We explain the role of Julia's multiple dispatch to gain an unprecedented level of flexibility and expressiveness in this area. We explore diverse applications including differential equations, hybrid systems and neural network controlled systems.
+Green
+Tuesday 27. July
+2:00 PM
+2:00
+PM
+180min
+Diffractor: Next-Gen AD for Julia
+Keno Fischer
+Diffractor.jl is Julia's next-gen package for automatic differentiation, built upon significant improvements to the Julia compiler as well as refinements to our understanding of the structural properties of AD-transformed code, particularly at higher orders. This workshop will feature a deep-dive of Diffractor, the Julia language features that were developed to support it, as well as the theoretical considerations that underpin the package through a mixture of lecture and interactive exploration
+Green
+2:00
+PM
+180min
+Introduction to metaprogramming in Julia
+David P. Sanders
+Metaprogramming is a key technique that intermediate to advanced Julia users *sometimes* need -- although not as often as they think! This will be a tutorial introduction to metaprogramming, analyzing, from the bottom up, key topics such as the structure of Julia expressions, how and when to use (and not use) generated functions and macros, and touching on more recent techniques like use of Symbolics.jl and MLStyle.jl.
+Red
