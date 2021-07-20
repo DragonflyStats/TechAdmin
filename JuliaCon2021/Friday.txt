@@ -1,0 +1,1037 @@
+Friday 30. July
+12:30 PM
+12:30
+PM
+30min
+Adaptive and extendable numerical simulations with Trixi.jl
+Michael Schlottke-Lakemper, Hendrik Ranocha
+Trixi.jl is a numerical simulation framework for adaptive, high-order discretizations of conservation laws. It has a modular architecture that allows users to easily extend its functionality and was designed to be useful to experienced researchers and new users alike. In this talk, we will give an overview of Trixi’s current features, present a typical workflow for creating and running a simulation, and show how to add new capabilities for your own research projects.
+Purple
+12:30
+PM
+30min
+JET.jl: The next generation of code checker for Julia
+Shuhei Kadowaki
+Julia's extreme expressiveness and composability come from its dynamism – at the cost of that, a static type check of Julia code has been remained as a longstanding problem. JET.jl is a fresh approach to static analysis of such a dynamic language; it can detect type-level errors given a pure Julia script within a practical speed. In this talk we will first give an overview of its features and basic usages, and then move to a discussion of its internals, current limitations and future works.
+Blue
+12:30
+PM
+10min
+Modelling Australia's National Electricity Market with JuMP
+James D Foster
+I will discuss challenges, techniques and design choices in developing a flexible JuMP-based modelling workflow as a decision tool for a major Australian transmission network operator's development planning across diverse scenarios.
+JuMP Track
+12:30
+PM
+90min
+Julia for Biologists
+Elisabeth Roesch
+This session is tailored to anyone with a general interest in Julia for Biologists. Join us to meet like minded people, exchange thoughts and develop ideas on Julia and its application in the biological sciences. The session has 3 parts: 1. Who is in the room? ~ 15 min 2. Presentation “A perspective: Julia for Biologists” by E. Roesch ~ 25 min 3. Discussion ~ 50 min A recorded version of 2. will be made available afterwards but the session itself will NOT be recorded.
+BoF/Mini Track
+12:30
+PM
+30min
+Symbolics.jl - fast and flexible symbolic programming
+Shashi Gowda, Yingbo Ma
+Symbolics.jl is a fast, yet flexible symbolic manipulation package. It can generate serial or multi-threaded Julia code; or even C, Stan or MATLAB code from symbolic expressions. This talk is an overview of the features and the organization of the Symbolics.jl package, and the design decisions that make it fast and extendable.
+Red
+12:30
+PM
+30min
+Calibration analysis of probabilistic models in Julia
+David Widmann
+Calibrated probabilistic models ensure that predictions are consistent with empirically observed outcomes, and hence such models provide reliable uncertainty estimates for decision-making. This is particularly important in safety-critical applications. We present Julia packages for analyzing calibration of general probabilistic predictive models, beyond commonly studied classification models. Additionally, our framework allows to perform statistical hypothesis testing of calibration.
+Green
+12:40 PM
+12:40
+PM
+10min
+AnyMOD.jl: A Julia package for creating energy system models
+Leonard Göke
+AnyMOD.jl is a Julia framework for creating large-scale energy system models. It applies a novel graph-based approach that was developed to address the challenges in modeling high levels of intermittent generation and sectoral integration. To enable modelers to work more efficiently, the framework provides features that help to visualize results, streamline the read-in of input data, and rescale optimization problems to increase solver performance.
+JuMP Track
+12:50 PM
+12:50
+PM
+10min
+Power Market Tool (POMATO)
+Richard Weinhold
+In this talk, we present the open-source Power Market Tool (POMATO), which has been designed to study capacity allocation and congestion management policies of zonal electricity markets, especially flow-based market coupling.
+JuMP Track
+1:00 PM
+1:00
+PM
+10min
+3.6x speedup on A64FX by squeezing ShallowWaters.jl into Float16
+Milan Klöwer
+[ShallowWaters.jl](https://github.com/milankl/ShallowWaters.jl), a fluid circulation model that was written with a focus on 16-bit arithmetics, runs on A64FX 3.6x faster in Float16 compared to Float64 without a significant model degradation. Calculations were systematically rescaled to fit into the very limited range of Float16 guided by Sherlogs.jl. ShallowWaters.jl shows that 16-bit calculations on A64FX are indeed a competitive way to accelerate Earth-system simulations on available hardware.
+Purple
+1:00
+PM
+30min
+JuliaSim: Machine Learning Accelerated Modeling and Simulation
+Chris Rackauckas
+Julia is known for its speed, but how can you keep making things faster after all of the standard code optimization tricks run out? The answer is machine learning reduced or approximate models. JuliaSim is an extension to the Julia SciML ecosystem for automatically generating machine learning surrogates which accurately reproduce model behavior.
+Green
+1:00
+PM
+30min
+Unleashing Algebraic Metaprogramming in Julia with Metatheory.jl
+Alessandro Cheli, Philip Zucker
+A novel data structure and technique from theorem provers, a pattern matching system and classical term rewriting. Mix it with dynamism and the homoiconic metaprogramming system of Julia. Add algebraic composability. Shake well before using. What could go wrong? Composable compiler transforms, numerical code optimizers, interpreters and compilers, computer algebra systems, categorical theorem provers and much more to come. Come experiment with us and the Metatheory.jl package!
+Red
+1:00
+PM
+30min
+Easy, Featureful Parallelism with Dagger.jl
+Julian P Samaroo
+Parallelizing codes with Distributed.jl is simple and can provide an appreciable speed-up; but for complicated problems or when scaling to large problem sizes, the APIs are somewhat lacking. Dagger.jl takes parallelism to the next level, with support for GPU execution, fault tolerance, and more. Dagger's scheduler exploits every bit of parallelism it can find, and uses all the resources you can give it. In this talk, I'll build an application with Dagger to highlight what Dagger can do for you!
+Blue
+1:00
+PM
+30min
+A Brief Introduction to InfrastructureModels
+Carleton Coffrin
+The design, operation and resilience of critical infrastructure networks plays a foundational role in modern society. One open question is how artificial intelligence can provide decision support to maintain and adapt critical infrastructures to a changing world. This talk provides an overview of InfrastructureModels, a software foundation developed at Los Alamos National Laboratory for critical infrastructures analysis and optimization to help explore this question.
+JuMP Track
+1:10 PM
+1:10
+PM
+10min
+WaterLily.jl: Real-time fluid simulation in pure Julia
+Gabriel Weymouth
+WaterLily.jl is a new fluid dynamics simulation package written in pure Julia to take advantage of its speed and its active modelling, linear algebra, and machine learning communities. This talk will give an overview of the simulation approach, detail some of the Julia-specific aspects of the code (CartesianIndices for multidimensional algorithms and JuliaDiff for distance-function-based geometries), present a few examples, and discuss the future goals for the package.
+Purple
+1:20 PM
+1:20
+PM
+10min
+New tools to solve PDEs in Julia with Gridap.jl
+Francesc Verdugo, Eric Neiva, Oriol Colomes, Santiago Badia
+In this talk, we explore the novel capabilities of Gridap to solve Partial Differential Equations (PDEs) in Julia. This includes new features like a high-level API to write the PDE weak form with a syntax almost identical to the math notation, support for automatic differentiation, and simulation of PDEs on manifolds and domains of mixed geometrical dimensions. We will showcase these techniques with representative applications and performance comparisons against codes implemented in C/C++.
+Purple
+1:30 PM
+1:30
+PM
+10min
+Towards a symbolic integrator with Rubin.jl
+Miguel Raz Guzmán Macedo
+Rubin.jl will be a 100% Julia implementation of an integration term-rewriting system. The rule catalogue is taken from RUBI, a Mathematica-based integration engine that uses binary searches in a tree of mutually exclusive rewriting rules, which nets RUBI an order of magnitude speed improvement over Mathematica over an immense test suite. Rubin.jl hosts 99.5+% of RUBI's rules, and 99.9% of the test suite in a JSON format, spanning more than 72,000 single variable integration unit tests.
+Red
+1:30
+PM
+30min
+What's new in ITensors.jl
+Matthew Fishman
+Tensor networks encapsulate a large class of low rank decompositions of very high order -- potentially infinite order -- tensors. They have found a wide variety of uses in physics, chemistry, and data science. ITensors.jl is a high performance Julia library with a unique memory independent interface that makes it easy to use and develop tensor network algorithms. In this talk, I will give an overview of the library and new features that have been added since its release last year.
+Purple
+1:30
+PM
+10min
+Actors.jl: Concurrent Computing with the Actor Model
+Paul Bayer
+`Actors` implements the Actor Model of concurrent computation. Actors - interact via messages, - represent computations and - can create other actors. Programmers can use actors to - model computational concepts: e.g. atomic blocks, event handlers, state machines, - implement concurrent objects such as servers, supervisors, firewalls and to - compose them into an application. Actors allows to write fault-tolerant Julia applications and make concurrency easier to understand.
+Blue
+1:30
+PM
+30min
+UnitCommitment.jl: Security-Constrained Unit Commitment in JuMP
+Alinson Santos Xavier
+In this talk, we introduce UnitCommitment.jl, an open-source Julia/JuMP optimization package which aims to eliminate some of the roadblocks researchers typically face when developing and evaluating new solution methods for the Security-Constrained Unit Commitment (SCUC) problem.
+JuMP Track
+1:30
+PM
+10min
+Multilingual Natural Language Processing using Julia
+Gajendra Deshpande
+Natural Language Processing(NLP) is an interesting and challenging field. In this talk, I will discuss techniques and methods that will help perform NLP tasks on multi-source and multilingual information.
+Green
+1:40 PM
+1:40
+PM
+10min
+SciML for Structures: Predicting Bridge Behavior
+Axel Larsson
+We study the utility of a scientific machine learning (SciML) model for predicting structural responses such as bridge deflections and stresses. The SciML model is compared with a data-driven neural network model for a synthetic and a real world case.In both cases, we rely on the Julia algorithmic differentiation ecosystem to efficiently fit the models. Our preliminary results indicate the superiority of the SciML mode over the data-driven one in interpolation and extrapolation as well.
+Green
+1:40
+PM
+10min
+BPFnative.jl: eBPF programming in Julia
+Julian P Samaroo
+eBPF is a virtual machine that can run user-defined code in the Linux kernel. The ability to generate eBPF bytecode from Julia would allow our Linux users to introspect, manipulate, and explore the core of their operating system from the comfort of a high-level language. In this talk, I will explain the basics of eBPF, how it's integrated and used in the Linux kernel, and how we can use "eBPF superpowers" from Julia.
+Blue
+1:40
+PM
+10min
+AlgebraicDynamics: Compositional dynamical systems
+James Fairbanks, Sophie Libkind
+[AlgebraicDynamics](https://github.com/AlgebraicJulia/AlgebraicDynamics.jl) is a new library in the [AlgebraicJulia](https://www.algebraicjulia.org/) ecosystem for specifying and solving dynamical systems with compositional and hierarchical structure. This modular approach to constructing and analyzing dynamical systems is grounded in the mathematics of applied category theory.
+Red
+1:50 PM
+1:50
+PM
+10min
+Atomic fields: the new primitives on the block
+Jameson Nash
+Atomic accessors support have recently been expanded to provide more efficient build-blocks for working with threads. Dealing effectively with multi-core programs requires a vocabulary for communicating intent, both to humans and machines. Here I'll talk about what atomics are, why we needed them, and how to use them!
+Blue
+1:50
+PM
+10min
+Simulating a public transportation system with OpenStreetMapX.jl
+Przemysław Szufel
+We will show how to perform modeling and of an urban network using the OpenStreetMapX.jl package. With actual Toronto data we will show how the library can be used for commuter routing including sidewalks and public transportation. We represent the city’s urban space as a LightGraphs.jl strongly connected, directed graph where vertices are located at geographic coordinates. Additionally, we will also demonstrate a simulation model explaining the role of public transportation in virus widespread.
+Green
+1:50
+PM
+10min
+The OSCAR Computer Algebra System
+Max Horn, Claus Fieker
+We present OSCAR, an **O**pen **S**ource **C**omputer **A**lgebra **R**esearch system for abstract algebra, algebraic geometry, group theory, number theory, and more. It joins existing world class systems under a common Julia interface in the Oscar.jl package. Applications exist well beyond pure mathematics (e.g. in coding theory, cryptography, robotics, ...). We give an overview of existing and planned capabilities. We also discuss what sets us apart from Symbolics.jl.
+Red
+2:30 PM
+2:30
+PM
+45min
+Keynote (Soumith Chintala)
+Keynote
+Green
+3:15 PM
+3:15
+PM
+15min
+The state of DataFrames.jl
+Bogumił Kamiński
+In this talk I discuss what has recently changed in DataFrames.jl, what is the current state of the package, and what are our plans for the future.
+Green
+3:30 PM
+3:30
+PM
+15min
+Sponsor talk - JuliaComputing
+Sponsor talk - JuliaComputing
+Green
+3:45 PM
+3:45
+PM
+10min
+Sponsor talk - RelationalAI
+Sponsor talk - RelationalAI
+Green
+3:55 PM
+3:55
+PM
+5min
+Closing remarks
+Closing remarks
+Green
+4:30 PM
+4:30
+PM
+3min
+1-D Finite element tool for gyroscopic systems
+Lysandros Anastasopoulos
+Satellite reaction wheels, laboratory centrifuges, kinetic energy storage et.c. all rely on mechanical design of rotating systems of varying complexity. The current tool written in Julia, offers students and engineers a visual environment for designing their own, custom machine based on a blueprint file and obtain the resulting finite element matrices. In this way, one can analyse performance metrics such as unbalance response, critical speeds, bearing reaction forces and static deformations.
+BoF/Mini Track
+4:35 PM
+4:35
+PM
+3min
+Non-parametric Methods for Mixed-Effects Models of EEG Data
+Phillip Alday
+Permutation-based testing has become exceptionally popular in the analysis of neuroimaging data, but so far has depended on two-stage analyses to handle repeated measures data in order to be computationally tractable. We introduce MixedModelsPermutations to perform fast permutation-based inference on mixed models. Using mixed models instead of a two-stage approach enables properly representing crossed and nested designs, explicitly modelling multiple sources of variability and unbalanced designs
+BoF/Mini Track
+4:35
+PM
+3min
+A Tool for Julia Bloggers
+Mike Klepper
+A tool is demonstrated that generates static web pages from a Jupyter notebook. The web page is both higher in fidelity and smaller in character count than that produced by Jupyter's "export" function. The resulting static page is used to create blog posts for the "Red White and Julia" blog on Blogger.com.
+BoF/Mini Track
+4:40 PM
+4:40
+PM
+3min
+COBREXA.jl: COnstraint-Based Reconstruction & EXa-scale Analysis
+Miroslav Kratochvíl
+COBREXA.jl is a Julia package for high-performance huge-scale constraint-based reconstruction and analysis of biological models at the exa-scale. This package allows billions of individual genome-scale metabolic models to be constructed simultaneously, and makes analysis of the resulting trillions of reactions straightforward and efficient. We will show the functionality of COBREXA.jl on biological datasets, demonstrate the user interface, and highlight where and how COBREXA.jl addresses current
+BoF/Mini Track
+4:40
+PM
+3min
+Optimal control problems in Chemical Engineering with Julia
+Oswaldo A.M
+I would like to show how Julia/JuMP can be used to solve nonlinear (large-scale) optimal control problems in chemical processes by applying a direct method. The problem is solved as an NLP after applying orthogonal collocation on constant or moving finite elements with control parametrization. Collocation points and Butcher tableau are generated with Jacobi.jl. NLP problems are solved in JuMP with Ipopt and MA27 solvers. An ilustrative example is shown and future directions are discussed.
+BoF/Mini Track
+4:40
+PM
+3min
+A new OpenStreetMap interface: LightOSM.jl
+Jack Chan
+LightOSM.jl is a package for downloading, processing and analysing OpenStreetMap geospatial data. This talk explores its key features and how it can be used for transport simulation, route finding, map querying and map visualisation. We discuss how LightOSM.jl is differentiated from other packages by its fast path-finding, custom edge weighting, turn restriction implementation, improved user interface, kd-tree implementation for querying nearest nodes and ability to download building polygons.
+BoF/Mini Track
+4:40
+PM
+3min
+Building the BestX Event Risk Model using HawkesProcesses.jl
+Dean Markwick
+At BestX we provide analytics for traders to make better decisions in financial markets. We have built an event risk model that measures the level of distress in markets and predicts the probability of further distress. The model is built using a Hawkes process and this talk will demonstrate how we use my HawkesProcesses.jl package to fit, validate and interpret the parameters for these types of models.
+BoF/Mini Track
+4:45 PM
+4:45
+PM
+3min
+Modeling species co-occurrence with Turing.jl
+Juan M Requena-Mullor
+Modeling the co-occurrence of multiple species is a commonly used tool in biodiversity conservation. We present a Julia-based version of an existing multispecies occupancy model. Benchmark results show a substantial reduction in running time when fitting the co-occurrence of four carnivore species using Turing.jl compared with the one yielded by Stan. We encourage ecologists to use Julia for probabilistic models in order to improve the scalability of ecological science.
+BoF/Mini Track
+4:45
+PM
+3min
+Multiplying monochrome images as matrices: A*B and softmax
+Mishka (Michael Bukatin)
+We can interpret monochrome images as matrices KxM and MxN and combine them via matrix multiplication. It turns out that results are often visually interesting, especially if we normalize rows of the left-hand-side matrix and columns of the right-hand-side matrix with softmax before taking the product.
+BoF/Mini Track
+4:45
+PM
+3min
+A quick dive into Julia's type inference algorithm
+Shuhei Kadowaki
+This poster will introduce the abstract interpretation algorithm proposed by "Mohnen, M., 2002, April. A graph-free approach to data-flow analysis", that Julia's type inference routine is based on, along with a sample Julia implementation of it. We will also explain how the original algorithm is partially wrong as well as how it can be fixed, and also hopefully present the corrected proofs of the algorithm's termination and correctness.
+BoF/Mini Track
+4:50 PM
+4:50
+PM
+3min
+Julia and Tensor Networks for Statistical Physics
+Afonso Rufino
+In this project we use Julia to solve lattice models of magnetic materials in Statistical Physics. A method based on Tensor Netorks was used - Corner Transfer Matrix Renormalisation Group. In the first part of the project, we focused on the 2d Ising Antiferromagnet in a square lattice. Thermodynamic averages of physical quantities such as the magnetisation and free energy were obtained. The same method was employed to the case of the 2d Ising Antiferromagnet in a Triangular lattice.
+BoF/Mini Track
+4:50
+PM
+3min
+Algorithmic Variants of Nested Sampling
+Saranjeet Kaur Bhogal
+Nesting sampling is a methodology for computing the evidence (a high-dimensional integration of the likelihood over the prior density), and the posteriors simultaneously. Implementation in Julia of three algorithmic variants of nested sampling: Random Staggering, Slicing, and Random Slicing, are discussed in this work. Much of this work was inspired by the Python package, dynesty, and its modular approach to nested sampling which Julia’s multiple dispatch made even more effective.
+BoF/Mini Track
+4:50
+PM
+3min
+Gift orders of magnitude of speed up to random strangers
+Johann-Tobias Schäg
+Certain mathematical problems have a structure that makes them easy to solver compared to the base problem. A rigid body mechanics problem given in a generic interface for differential equations is transformed into an easier problem which can be solved many orders of magnitude faster.
+BoF/Mini Track
+4:50
+PM
+3min
+ProtoSyn: a Julia based platform for molecular modelling
+José Pereira
+ProtoSyn aims to be a simple and intuitive package for molecular manipulation with an emphasis on peptide design and simulation. The main goal of ProtoSyn is to be a basis on top of which new tools and protocols can be experimented and prototyped. Taking advantage of Julia’s environment, ProtoSyn has been built with emergent technologies in mind, such as distributed computing, GPU and SIMD acceleration and machine learning models usage. Version 1.0 is scheduled to be released in the end of 2021.
+BoF/Mini Track
+4:50
+PM
+3min
+Soft Realtime Control of an Exoplanet Imaging Instrument
+William Thompson
+To photograph nearby systems of exoplanets, astronomical instruments require the use of advanced real time control techniques to counteract the shimmering turbulence of the Earth’s atmosphere. We will show how we are using Julia in our lab to record and process images from high speed cameras, send control signals hundreds of times per second, and present a rich graphical interface with live telemetry. We will discuss technical considerations on using Julia in this domain.
+BoF/Mini Track
+4:55 PM
+4:55
+PM
+3min
+ML for GL, Machine Learning for General Ledger using Julia
+Amit Shukla
+Machine learning for General Ledger provide a complete Data Science framework for Finance Data Analytics. Scope of this package includes Finance General Ledger, sub-ledgers, accounting entries analytics and complex Data Science operations using The Julia language. This package/presentation is meant for ERP consultants, IT Developers, Finance, Supply chain, HR & CRM managers, executive leaders, or anyone curious to implement data science concepts in ERP apps for small, medium & large Org.
+BoF/Mini Track
+4:55
+PM
+3min
+Graph Machine Learning with GraphKernels.jl
+Simon Schoelly
+Graph kernels are similarity functions between graphs. With these kernel functions, graphs can be used as input features for various machine learning algorithms such as Support Vector Machines, Principal Component Analysis or Kernel Ridge Regression. This lightning talk will introduce GraphKernels.jl, a package that allows one to efficiently calculate graph kernels and will explain how these kernels fit into the rest of the Julia ecosystem.
+BoF/Mini Track
+4:55
+PM
+3min
+Arrhenius.jl: A Differentiable Combustion Simulation Package
+Weiqi Ji
+In this talk, I will present an open-source Julia package called Arrhenius.jl. It bridges classical physics-based combustion models with Julia's scientific machine learning ecosystems, such as DifferentialEquations.jl, ForwardDiff.jl, and Flux.jl. I will present its applications in combustion model reduction, uncertainty quantification, and chemical kinetic model discovery.
+BoF/Mini Track
+4:55
+PM
+3min
+Makie showcases and future
+Simon Danisch
+This talk will show off some noteworthy examples demonstrating Makie's capabilities for publications, interactive visualizations in the web and desktop apps using OpenGL. The talk will also outline, what one can expect from Makie in the future and how we plan to make dependency less Recipes work.
+BoF/Mini Track
+4:55
+PM
+3min
+Probabilistic Numerics for Differential Equations
+Nathanael Bosch
+The field of Probabilistic Numerics aims to quantify numerical uncertainty arising from finite computational resources. By treating the solution of an ordinary differential equation (ODE) as a problem of Bayesian inference, probabilistic numerical ODE solvers return a posterior probability distribution over ODE solutions. This poster presents ProbNumDiffEq.jl, a package for probabilistic numerical solvers for ODEs, built on OrdinaryDiffEq.jl.
+BoF/Mini Track
+5:00 PM
+5:00
+PM
+3min
+MitosisStochasticDiffEq.jl - Filtering & Guiding for SDEs
+Frank Schäfer (@frankschae)
+Stochastic differential equations (SDEs) arise naturally in many scientific and industrial disciplines, e.g., due to the interaction of a system with some environment. Inverse problems such as the inference of the model parameters of an SDE are of paramount importance. I describe the Backward Filtering Forward Guiding paradigm, capable of solving this task based on trajectories observed according to some observation scheme, suitable for neural SDEs, and scalable to high-dimensional systems.
+BoF/Mini Track
+5:00
+PM
+3min
+IndexFunArrays.jl | Fun with indices (and functions on them)
+Felix Wechsler, Rainer Heintzmann
+[IndexFunArrays.jl](https://github.com/bionanoimaging/IndexFunArrays.jl) provides a convenient way to work with index dependent functions. In signal processing it often occurs that an array needs to processed (e.g. applying a window functions) depending on the indices. One could write for loops processing the data in-place. However, a different technique is to create arrays which do not allocate memory but instead generate the desired value when accessed.
+BoF/Mini Track
+5:00
+PM
+3min
+HssMatrices.jl
+Boris Bonev
+Hierarchically semi-separable (HSS) matrices are a type of structured matrix that arise in a range of scientific computing and engineering problems. Most notably, they have been used to develop novel direct and approximate high-performance solvers for linear systems. HssMatrices.jl provides HSS compression algorithms, arithmetic and visualisation tools. This allows Julia users to easily experiment with HSS matrices and corresponding algorithms.
+BoF/Mini Track
+5:00
+PM
+3min
+Reproducibility, Julia, and Renku
+Chandrasekhar Ramakrishnan
+*Reproducibility* should be a central consideration for data science processes, but it requires some support to achieve. In this talk, we present the **Renku** reproducibility platform and how to take advantage of it from **Julia** focusing two examples: 1. Using Renku to build reproducible workflows in Julia and 2. Facilitating the teaching of Julia-based courses with Renku.
+BoF/Mini Track
+5:00
+PM
+3min
+Auto-Parallelization at Cloud Scale with Banyan
+Caleb Winston
+Running Julia code at scale can be quite difficult. First, running at scale typically requires rewriting a significant amount of code to use libraries such as MPI.jl, Dagger.jl, Spark.jl, etc. Second, it requires developing a strategy for deploying a cluster either on-premise or in the cloud. In our talk, we discuss how the Banyan suite of libraries enables instant offload of existing code to multi-node clusters in the cloud with maximal utilization of RAM and CPU cache.
+BoF/Mini Track
+5:00
+PM
+3min
+OceanRobots.jl -- Ocean Robots Simulation And Data Ingestion
+Gael Forget
+This package simulates data collected by autonomous, remotely operated, or manned vehicles in the Ocean. The simulated robots readily have three-dimensional navigation (e.g. isopycnal) and flexible sampling (e.g. profiles) capabilities. The package can also ingest real data collected by such means, which enables effective model-data combination workflows (e.g. model training, state estimation, UQ).
+BoF/Mini Track
+5:00
+PM
+3min
+Lale in Julia: A package for semi-automated data science
+Paulito Palmes, PhD, Kiran Kate
+Lale.jl is a Julia wrapper of lale Python library for semi-automated data science. Lale.jl offers scikit-learn compatible AutoML with algorithm selection and hyper-parameter tuning. Lale.jl provides a consistent high-level interface to existing AutoML optimizer backends such as Hyperopt, GridSearchCV, and SMAC. It has a standard search space specification with out of the box search space for 180 operators from scikit-learn, imblearn, AIF360, SnapML and more.
+BoF/Mini Track
+5:05 PM
+5:05
+PM
+3min
+Decomposition Physics-Informed Neural Networks (PINNs)
+Kirill Zubov
+Physics-Informed Neural Networks is a method for solving PDE based on train neural networks, which give an approximate solution for nonlinear partial differential equations (PDEs). Using one huge neural network to solve a whole problem has its limitations and difficulty for obtaining prediction. One way to overcome this, to split the problem into subtasks. The purpose of the report is to demonstrate the methods implemented in NeuralPDE for separating the learning process of PDE into subtasks.
+BoF/Mini Track
+5:05
+PM
+3min
+Gasmodels,jl: Optimization for Natural Gas Systems in Julia
+Russell Bent
+We discuss GasModels.jl , a Julia package for Steady-State and Transient Gas Network Optimization. It is designed to enable computational evaluation of emerging gas network formulations and algorithms in a common platform. The code decouples problem specifications (e.g. gas flow, expansion planning, economic objectives, etc.) from network formulations. We discuss different formulations, computational performance, and how such models are used to address such problems.
+BoF/Mini Track
+5:05
+PM
+3min
+Bayesian network regression with applications to microbiome data
+Samuel Ozminkowski
+Microbial communities are among the main driving forces of human, soil and plant health. To understand the connection between microbial interaction networks and human or plant features, we have translated into Julia a Bayesian network regression model originally developed on brain connectome data. We aim to create a Julia package to extend this model to the microbiome, to identify relationships between the overall network structure of the microbiome and human, soil or plant response variables.
+BoF/Mini Track
+5:05
+PM
+3min
+GeoThermalCloud: Fusion of Big Data and Multi-Physics Models
+Velimir Vesselinov
+GeoThermalCloud is an open-source machine-learning framework for geothermal exploration. It has been applied for the discovery, exploration, and development of Hidden Geothermal Resources.
+BoF/Mini Track
+5:05
+PM
+3min
+Fermi.jl: A modern design for quantum chemistry
+Gustavo Aroeira
+Fermi.jl is a quantum chemistry package for computation of many-electron wave functions for molecules. Many traditional packages written in C or Fortran exists, but the difficulty of inserting new implementations hinders the development of new methods. Fermi.jl is written completely in Julia and it is designed to be simple to read and maintain. Fermi.jl is aimed to serve as an efficient platform for methods development allowing the application of these on a wide variety of systems.
+BoF/Mini Track
+5:05
+PM
+3min
+Build your own fast, multi-user Jupyter and Pluto server
+Bart Janssens
+The Jupyter and Julia communities provide all the tools required to set up a custom multi-user notebook server, configured exactly as needed for e.g. students to do coursework in Julia without the hassle of maintaining their own individual installations. In this short tutorial you will learn how to set up such a server, building up from a clean Debian installation towards a fully configured JupyterHub capable of running Jupyter and Pluto notebooks with a custom system image for speed.
+BoF/Mini Track
+5:10 PM
+5:10
+PM
+3min
+BioProfiling.jl: Profiling for high-content cell imaging
+Loan Vulliard
+We present BioProfiling.jl, which provides an end-to-end and efficient solution for assembling and curating informative cellular morphological profiles in Julia. This contains all the necessary data structures to curate morphological measurements, helpers functions to transform, normalize and visualize profiles as well as ways to quantify the statistical significance of the morphological changes observed. The Julia package is freely and openly [available on GitHub](https://bit.ly/318opt4).
+BoF/Mini Track
+5:10
+PM
+3min
+My experience trying to reinvent the FluxML website
+Liliana Badillo Sanchez
+In this Virtual Poster session, I talk about my experience during the Google Season of Docs program to reinvent the FluxML website and documentation. Also, I discuss the challenges I'm facing as I continue to contribute to Flux documentation.
+BoF/Mini Track
+5:10
+PM
+3min
+DoctorDocstrings.jl - an interactive docstrings worfklow tool
+Miguel Raz Guzmán Macedo
+Copy-pasting docstrings formatting from your REPL is repetitive, error-prone and fickle - which is why I created a tool for copy pasting from your previous REPL history entries straight into the source code of your target function. This development tools eases contributions for beginners and facilitates package maintenance for veterans.
+BoF/Mini Track
+5:10
+PM
+3min
+GerryChain.jl: detecting gerrymandering with Markov chains
+Parker J. Rule, Bhushan Suwal, Matthew Sun
+Markov chain-based sampling is an increasingly popular method for detecting gerrymandering of voting districts. GerryChain.jl implements optimized versions of the flip chain and the ReCom chain (DeFord, Duchin, Solomon 2019) for sampling large ensembles of districting plans that satisfy legal criteria. The package also provides a suite of tools for preprocessing geospatial data and computing statistics over ensembles of districting plans.
+BoF/Mini Track
+5:10
+PM
+3min
+In-Situ Inference for Exascale Simulations with Julia
+Ayan Biswas, Earl Lawrence
+Exascale simulations, like those of interest to the Department of Energy, will produce more data than can be stored for post hoc statistical analysis. To address this, we are using Julia as an HPC-embedded language to develop workflows for statistical analysis inside simulations as they run. Our project, PRISM, is being developed to fit Bayesian hierarchical models to answer scientific questions using the high resolution data that will be produced on the next generation of supercomputers.
+BoF/Mini Track
+5:10
+PM
+3min
+Detection of tear film breakup using Julia
+Toby Driscoll
+Tear film breakup (TBU) is thought to be a major contributor to dry eye syndrome, which afflicts millions worldwide. Although clinicians can easily conduct fluorescence imaging during patient visits and observe what appears to be TBU, there are no widely accepted objective characterizations of TBU, let alone software that can automatically detect it. Julia is being used to detect the corneal region in fluorescence videos, collect regional intensity, and cluster regions based on TBU likelihood.
+BoF/Mini Track
+5:15 PM
+5:15
+PM
+3min
+Training deep learners and other iterative models with MLJ
+Anthony Blaom
+MLJ.jl (Machine Learning in Julia) is a is a toolbox written in Julia providing meta-algorithms for selecting, tuning, evaluating, composing and comparing over 150 machine learning models written in Julia and other languages. We describe new developments enabling a user to wrap iterative models , such as a gradient tree booster or a Flux neural network, in a "control strategy". Wrapping hyper-parameter tuning in a control strategy is a particularly powerful possibility discussed.
+BoF/Mini Track
+5:15
+PM
+3min
+BellScenario.jl - Computing Quantum Nonlocalty
+Brian Doolittle
+Quantum nonlocality is a puzzling phenomenon of the physical world that has technological advantages in distributed information processing and security. BellScenario.jl is an open-source package designed to help understand nonlocality and its advantages. It combines Polyhedra.jl and Convex.jl with state of the art polyhedral decomposition and optimization techniques. This poster will cover how Julia is leveraged to solve the computational problems behind nonlocality.
+BoF/Mini Track
+5:15
+PM
+3min
+HoJBot: a community-driven Discord bot
+Tom Kwong
+Discord is a popular online chat platform that initially appeals to gamers and younger generations but has grown in scope significantly recently. The Humans-of-Julia is a Discord community server founded during the fall last year. The community started building a chatbot called HoJBot in March 2021. This poster will cover some background information, our motivation and the bot’s functionalities
+BoF/Mini Track
+5:15
+PM
+3min
+Optimization-based gap finding and filling in Julia
+Peter Zhiping Zhang
+Metabolic reconstructions are widely used to study metabolism of biological systems. The application of network curation tools is currently hampered by the scalability of algorithms and the availability of software supports. GapFindFill.jl is a high-level and open-source implementation of an optimization-based gap finding and filling algorithm in Julia that overcomes those issues.
+BoF/Mini Track
+5:15
+PM
+3min
+ROS.jl beta release: The C++ Robot Operating System wrapper
+George Stavrinos
+ROS.jl is a full-featured wrapper of the Robot Operating System C++ client. It was recently released in a non-stable (beta) state. The beta offers all C++ client features (and simplifies on them), but not the required stability due to lack of tests in real-life robot scenarios. This talk includes a brief introduction to the Robot Operating System and its advantages, addresses all features included in the current ROS.jl release and finally invites the Julia community to use and test the package.
+BoF/Mini Track
+5:15
+PM
+3min
+Bounding the Moments of Polynomial Jump-Diffusion Processes
+Flemming Holtorf
+We present MarkovBounds.jl -- A meta-package composing several existing packages from the Julia ecosystem to enable the computation of hard, theoretically guaranteed bounds on the stationary and transient moments of jump-diffusion Markov processes with polynomial data from high-level, practitioner-friendly user inputs.
+BoF/Mini Track
+5:15
+PM
+3min
+Surrogate Models of Multiscale Dynamical Systems
+Ranjan Anantharaman
+We present a general data-driven method, continuous time echo state networks, to produce surrogates of nonlinear multiscale systems, which can then be used to accelerate simulation, design, control and optimization. We showcase the ability to handle highly stiff systems, which have been shown to cause failures in other common machine learning methods, and then showcase the ability to embed these surrogates in ModelingToolkit for control, design and optimization.
+BoF/Mini Track
+5:15
+PM
+3min
+Fast Simulation-Based Power Analyses for Mixed-Effects Models
+Phillip Alday
+Simulation is the gold standard for power analysis of mixed-effects models. Traditionally, realistic simulations have been both hard to set up and computationally intractable. Here we present a Julia-based workflow for fast and easy power analysis of mixed-effects models. With MixedModelsSim.jl, we can easily simulate realistic datasets, which we can then quickly analyze with MixedModels.jl. Combined with Pluto.jl, users can explore the impact on power of design decisions interactively.
+BoF/Mini Track
+5:20 PM
+5:20
+PM
+3min
+Towards MDP.jl: The Julia Library of MD Potentials
+Emmanuel Lujan
+MDP.jl, the Julia library of Molecular Dynamics (MD) potentials, is being developed to provide fast and accurate potentials for classical MD simulations on exascale supercomputers. Its goals include coupling empirical and machine learning (ML) potentials and quantifying uncertainties in trained ML potentials. This talk presents the latest developments in MDP.jl regarding descriptors and force field computation.
+BoF/Mini Track
+5:20
+PM
+3min
+Julia for Charge Transport in Condensed Matter
+Jürgen Fuhrmann
+Charge transport and reactions in electrochemical and semiconductor devices are described by systems of nonlinear PDEs for the electric field and the diffusive and convective movement of charged particles. A finite volume discretization approach turns these into a system of nonlinear algebraic equations. The Julia package VoronoiFVM.jl provides an infrastructure or this discretization approach and uses forward mode AD to set up the sparse Jacobi matrices for the solution with Newton's method.
+BoF/Mini Track
+5:20
+PM
+3min
+Sampling Live Visualizations with Turkie and TuringCallbacks
+Théo Galy-Fajou
+Markov Chain Monte Carlo methods are like cooking milk you better watch what's happening! In order to do this we propose two complementary approaches: Turkie.jl based on Makie.jl and TuringCallbacks.jl based on Tensorboard. Both package allow you to finely pick which variables and which statistics to watch for and display the results in real time while sampling.
+BoF/Mini Track
+5:20
+PM
+3min
+DeferredAcceptance: Solving and analyzing school-choice problems
+Max Kapur
+I introduce DeferredAcceptance, a Julia package that solves both discrete and nonatomic school-choice problems using a variety of modern algorithms.
+BoF/Mini Track
+5:25 PM
+5:25
+PM
+3min
+Monads in Julia: TypeClasses.jl and DataTypesBasic.jl
+Stephan Sahm
+Functional programming has a lot of benefits. Within julia many know about immutability, however who has used monads? Monads capsulate context or side-effects and are one of the corner stones of classical functional programming. Take a look what monads are and how DataTypesBasic.jl and TypeClasses.jl implemented them in Julia.
+BoF/Mini Track
+5:25
+PM
+3min
+Transpilers.jl - Transpile all the things
+Kusti Skytén
+Have you ever wished some NumPy/jax/PyTorch/TensorFlow code was written in Julia instead? Have you ever translated ODEs written in Matlab to Julia by hand? Would you like to use sparse arrays or GPU computation in a legacy Stan model? Transpilers.jl is a common interface for translating numerical code into Julia. Currently it has backends for R and Python. Matlab and Stan backends are in development.
+BoF/Mini Track
+5:25
+PM
+3min
+Introducing QXGraphDecompositions
+John Brennan
+QXGraphDecomposition is a Julia package for analysing graph structures describing a tensor network. Tensor networks provide efficient representations of data in high dimensional spaces with applications in areas ranging from quantum simulation to neural network compression. QXGraphDecompositions provides functions for solving graph theoretic problems which can be used to find an efficient method to contract a tensor network, a task which can easily become intractable if not done efficiently.
+BoF/Mini Track
+5:25
+PM
+3min
+Julia managed sensor - actuator network for Antarctic studies
+Mauricio Montanares, Krzysztof Herman
+Our work presents a technological part of an interdisciplinary study carried out in cooperation with plant physiologists, which investigates Antarctic plants' response to the ongoing climate change. The project involves an active thermal system, which simulates the future growing conditions of the plants. The systems consist of more than 100 temperature/humidity sensors and 30 thermal actuators distributed in the field (vicinity of the “H. Arctowski Station, King George Island) as a CAN network.
+BoF/Mini Track
+5:25
+PM
+3min
+ML4Geo: Machine Learning for Geosciences
+Velimir Vesselinov
+ML4Geo is an open-source machine-learning framework designed for various types of analyses of geoscience data. ML4Geo has been already applied to investigate diverse datasets related to Earth sciences, including climatic, geologic, geophysics, geothermal, carbon storage, oil/gas, and wildfire applications
+BoF/Mini Track
+5:25
+PM
+3min
+GADM.jl : Julia Package for Polygon Provision from GADM Dataset
+Shivay Lamba
+This package provides polygons/multipolygons for all countries and their sub-divisions from the GADM dataset. It fetches the data dynamically from the officially hosted database using DataDeps.jl and provides a minimal wrapper API to get the coordinates of the requested geometries.
+BoF/Mini Track
+5:25
+PM
+3min
+Learn about Blockchain Development in Julia
+Logan Kilpatrick
+Most people have heard about how Blockchain is going to "change the world" and such, but what does that really mean? This talk aims to shed light on this via carefully constructed learning materials built to showcase the concepts of the blockchain using Julia.
+BoF/Mini Track
+5:25
+PM
+3min
+ParameterHandling.jl
+Will Tebbutt
+Any time you want to fit a model you have to figure out how to manage its parameters, and how to work with standard optimisation and inference interfaces. This becomes complicated for all but the most trivial models. [ParameterHandling.jl](https://github.com/invenia/ParameterHandling.jl/) provides an API and tooling to help you manage this complexity in a scalable way. We'll show how you might use ParameterHandling.jl, how to extend it, and how it relates to other tools.
+BoF/Mini Track
+5:30 PM
+5:30
+PM
+3min
+Distributed Quantum Circuit Simulation
+Niall Moran
+In this talk we present a framework called [QuantEx](https://github.com/JuliaQX/QXSim.jl). This framework is designed to make it easy to perform simulations of quantum circuits on large distributed compute clusters. It users tensor network approaches and makes use of the excellent OMEinsum.jl, TensorOperations.jl and ITensors.jl packages along with MPI.jl to distribute the work across large numbers of distributed nodes.
+BoF/Mini Track
+5:30
+PM
+3min
+Parameter Identifiability in Ordinary Differential Equations
+Ilia Ilmer
+Ordinary differential equations are a ubiquitous tool for modeling real-world phenomena. To ensure the best quality of a model, one tends to focus on the ability to discover model parameters from experiment. Property of structural parameter identifiability can help solving this problem. I will show examples of parameter identifiability types, talk about some existing solutions and their Julia Language implementations, and discuss what I am working on during this year's Summer of Code.
+BoF/Mini Track
+5:30
+PM
+3min
+Feasible nonlinear optimization with LFP-SQP
+Kevin Silmore
+We introduce a Julia package for nonlinear optimization that guarantees feasibility with respect to the imposed primal equality and inequality constraints at each step. The code is based on the theory of optimization on Riemannian manifolds and takes advantage of Julia's ability to perform fast numerical linear algebra and automatic differentiation (including mixed-mode automatic differentiation for Hessian-vector products).
+BoF/Mini Track
+5:30
+PM
+3min
+SpaceLiDAR.jl: Processing ICESat-2 & GEDI satellite LiDAR data
+Maarten Pronk
+We present the first toolbox for both [ICESat-2](https://icesat-2.gsfc.nasa.gov/) and [GEDI](https://gedi.umd.edu/) satellite LiDAR data as a Julia package. ICESat-2 and GEDI are two NASA missions launched at the end of 2018. The GEDI full waveform LiDAR is attached to the ISS and investigates vertical forest structure. ICESat-2's ATLAS instrument is a discrete LiDAR system in a polar orbit and investigates ice sheets.
+BoF/Mini Track
+5:30
+PM
+3min
+Three mini-utilities to manage computing resources
+Colin Beckingham
+Julia is quite greedy for computing resources: processor cores, physical memory and time. When using all three intensively, for example in Machine Learning, it is useful to be able to implement fine control. Watch core temperatures, memory availability and task completion as heavy computation proceeds calling on Linux utilities: free, watch, sensors and flite. Please see https://github.com/colbec/juliacon2021poster for working detail.
+BoF/Mini Track
+5:30
+PM
+3min
+TypeDBClient.jl - interface to a strongly-typed database
+Mark Schulze
+The TypeDBClient.jl provides an interface to a novel type of database called TypeDB. TypeDB is a strongly-typed database, with a rich and logical type system. TypeDB empowers you to solve complex problems, using TypeQL as its query language. It offers a higher abstraction of the entity relation model known in SQL.
+BoF/Mini Track
+5:35 PM
+5:35
+PM
+3min
+Deploying Julia on a Brand New Supercomputer at NERSC
+Johannes Blaschke
+NERSC’s new “Perlmutter” supercomputer was brought online in April 2021. We have identified a set of applications from our user community (eg. https://github.com/marius311/CMBLensing.jl). Of particular interest are applications that make use of multiple GPUs per node. We report the performance of these applications at scale. We hope that our findings will inspire more users to embrace Julia to develop extreme-scale simulation codes.
+BoF/Mini Track
+5:35
+PM
+3min
+EllipticalSliceSampling.jl: MCMC with Gaussian priors
+David Widmann
+EllipticalSliceSampling.jl is a package for elliptical slice sampling (ESS), a simple Markov chain Monte Carlo method for models with Gaussian priors. Models can be specified with an arbitrary Julia function of the log-likelihood and a Gaussian prior that follows a simple interface (Distributions.jl works out of the box). Features such as progress logging and parallel sampling are provided automatically by AbstractMCMC.jl. Turing.jl supports ESS, also within Gibbs, through this package.
+BoF/Mini Track
+5:35
+PM
+3min
+Use of Julia Language in the Forest Inventory
+Claiton Nardini
+The present work aims to develop a package with the sampling processes existing in the Forest Inventory in Julia Programming Language, intending to provide didactic materials, facilitating the process of data processing, teaching, and learning for students and professionals in the field.
+BoF/Mini Track
+5:35
+PM
+3min
+Faster scripts in Julia with DaemonMode.jl
+Daniel Molina
+One of the main perceved
+BoF/Mini Track
+5:35
+PM
+3min
+Standardize your predictors with StandardizedPredictors.jl
+Dave Kleinschmidt
+Before fitting statistical or machine learning models, it's common to standardize predictor variables to eliminate fixed offsets and differences in scale. While these procedures are often easy to implement manually, they can introduce subtle bugs and add bookkeeping overhead. StandardizedPredctors.jl builds on StatsModels.jl to provide tools to conveniently and reproducibly standardize numeric predictors.
+BoF/Mini Track
+5:40 PM
+5:40
+PM
+3min
+Using Julia to simulate non-linearity in photon counters
+Dino Butron
+I'll be showing how Julia and it's libraries can be used to simulate non-linearity in photon counting detectors used in LiDAR
+BoF/Mini Track
+5:40
+PM
+3min
+Scalable Material Simulations in a Julia Infrastructure
+Jeremiah DeGreeff
+We describe a materials design project where we unify Julia packages such as DFTK.jl and NBodySimulator.jl in order to create an infrastructure for what will ultimately be a large parallel simulation. It is our hypothesis that rebuilding this infrastructure from the ground up in Julia, will be more competitive than existing codes from the national labs because of the simplicity, maintainability, and composability available in the Julia Language.
+BoF/Mini Track
+5:40
+PM
+3min
+Pebble games - Time and space to differentiate a program
+JinGuo Liu
+The trade-off between time and space is a central issue in reverse mode automatic differentiation. The optimal checkpointing allows people to access computational states in a reversed order with only logarithmic overheads in time and space. Bennett's reversible computing scheme also allows efficient time and space trade-offs. This talk is about the pros and cons of two time and space trade-off schemes within the simple pebble game setup that even a gorilla can understand.
+BoF/Mini Track
+5:40
+PM
+3min
+To the Moon and Beyond with Julia
+Helge Eichhorn
+Commercial space is taking off and new programs developed by the space agencies such as NASA's Commercial Lunar Payload Services (CLPS) are encouraging private companies to venture beyond Low Earth Orbit. Telespazio Germany aims to support NewSpace companies taking to the skies by providing the necessary infrastructure on the ground. We believe that Julia could play an instrumental part in this and we want to show what we have been working on and what we have planned for the future!
+BoF/Mini Track
+5:40
+PM
+3min
+Early adopters jumping the adoption chasm in a company
+Jorge Alberto Vieyra Salas
+Follow up on "The ups and downs of convincing to switch to Julia in a company" talk from JuliaCon 2020. Ramping up from early adopters and trying to jump the early adopters to wider adoption chasm. Will be a summary of the last year attracting people inside ASML, convincing managers, fighting against infrastructure needs and informally training people. I am aiming of having a combined with other people to give their own perspective.
+BoF/Mini Track
+5:40
+PM
+3min
+View5D.jl
+Rainer Heintzmann
+Visualizing multiple-dimensional (ND) datasets (AbstractArrays) is important for data research and debugging of ND algorithms. `View5D.jl` (https://github.com/RainerHeintzmann/View5D.jl) is a Java-based viewer for up to 5-dimensional data (including `Complex`). It supports three mutually linked orthogonal slicing displays for XYZ coordinates, arbitrary numbers of colors (4th `element` dimension) which can also be used to display spectral curves and a time slider for the 5th dimension.
+BoF/Mini Track
+5:40
+PM
+3min
+DesignByContract.jl: Enforcing interfaces between functions
+Guilherme Gomes Haetinger
+The Julia programming language has been evolving in many complex scientific fields. The rising adhesion of the language is a great opportunity to make Julia production-suitable. As an additional endeavor, I present a Design By Contract interface built entirely in Julia using its many features for Metaprogramming. My work takes the praised method of defining contracts to enforce interfacing between methods from Eiffel and hopes to extend it to different structures available in Julia.
+BoF/Mini Track
+5:45 PM
+5:45
+PM
+3min
+Composite Interfaces for Bioinformatics
+Daniel Kool
+There are plenty of user interface elements for bioinformatics available on the web, but most of them are dispersed and written in JavaScript. With Julia, we can adapt and augment these elements to make interfaces that are more relevant to user projects, have denser information, can be run/tweaked locally, and create new connections between data.
+BoF/Mini Track
+5:45
+PM
+3min
+Constrained Control with Neural Feedback Policies in DiffEqFlux
+Ilya Orson Sandoval
+We explore the neural ODE approach to solve nonlinear optimal feedback control problems with constraints using DiffEqFlux. The original controls of the problem definition are substituted by the output of a neural network feedback policy whose parameters become the new control variables. Constraint satisfaction is enforced on the states with barrier methods, while constraints in controls are enforced by saturation from the last activation of the neural controller.
+BoF/Mini Track
+5:45
+PM
+3min
+Vine-Copula package for the analysis of non-Gaussian processes
+Andrei Sarychev
+The literature on vine-copula constructions provides applied statisticians with tools for the exact inference on non-Gaussian distributions. The few existing R packages that provide copula-related functionality are suited for the analysis of i.i.d. multivariate specifications but not the dynamic stochastic processes.  My package Copulas provides a sparse implementation for R-vine arrays, which scales up very well in typical parsimonious specifications, such as 1st order Markov processes.
+BoF/Mini Track
+5:50 PM
+5:50
+PM
+3min
+PeriDyn: A Peridynamics Package
+Ravinder Bhattoo
+PeriDyn is an implementation of peridynamics, an integral reformulation of continuum equations of motion. PeriDyn uses DifferentialEquations_jl for solvers, i.e., integrate equations of motion and provides helper functions to stage simulations. It provides an easy implementation of custom material and contact models, allowing the simulation of complex systems. It also writes particle trajectory (similar to MD trajectory in LAMMPS), which can be visualized using software like Ovito.
+BoF/Mini Track
+5:50
+PM
+3min
+Visualization storytelling
+Dr.Aftab Ara
+As evidenced by the Covid19 epidemic, big data and data science are becoming critical sciences in a variety of application contexts, owing primarily to the abundance of big data collections from which valuable patterns of information can be mined.Data pre-processing and analytics phases account for approximately 70% and 20% of the total data analytics operation, respectively,
+BoF/Mini Track
+5:55 PM
+5:55
+PM
+3min
+Watching earth at night
+Ayush Patnaik
+Hundreds of researchers use nighttime lights as a measure of economic activity. While NOAA and NASA release the data, there is a lack of open-source implementations and a lack of efficient computing frameworks through which this data can be utilised at modest levels of computational budgets. In our open-source Julia package, we have pushed the frontier on statistical methods for cleaning this data, making these techniques, alongside traditional methods, available to researchers.
+BoF/Mini Track
+5:55
+PM
+3min
+ComposableCommunities.jl: Evolving Julia package communities
+Jeremiah Lewis
+Open source software communities depend on diverse groups of maintainers, contributors, and users working together to develop tools. In this talk, I introduce the idea of a ComposableCommunities dataset, discuss key incentives issues in further developing the package community.
+BoF/Mini Track
+5:55
+PM
+3min
+Distributed Computing using AWSClusterManagers.jl
+Matt Brzezinski
+Distributed computing is a common approach to accessing large amounts of resources. The AWSClusterManagers.jl package allows users to leverage AWS to run scaled computing environments with Docker, Elastic Container Service (ECS), or Batch.
+BoF/Mini Track
+7:00 PM
+7:00
+PM
+30min
+Introducing Chemellia: Machine Learning, with Atoms!
+Rachel Kurchin
+In this talk, I introduce Chemellia: a machine learning ecosystem (built on Flux.jl) designed for chemistry and materials science problems involving molecules, crystals, surfaces, etc. I will focus on two packages I have developed: first, ChemistryFeaturization, which allows customizable and invertible featurization of atomic systems. The second, AtomicGraphNets, implements graph neural network models tailored to atomic graphs, and substantially outperforms comparable Python packages.
+Green
+7:00
+PM
+30min
+A Short History of AstroTime.jl
+Helge Eichhorn
+Time is...complicated. It seems simple enough when you are close to the surface of the Earth and you have a device in your pocket that is constantly connected to atomic clocks. But go to outer space and things get uncomfortable pretty quickly. This talk explores how [AstroTime.jl](https://github.com/JuliaAstro/AstroTime.jl) has evolved and how it can help you deal with the intricacies of time such as leap seconds and different time scales. Even if you are neither an astronomer nor an astronaut!
+Blue
+7:00
+PM
+30min
+Applied Measure Theory for Probabilistic Modeling
+Chad Scherrer
+We'll give an overview of MeasureTheory.jl, describing some of the advantages relative to Distributions.jl and some applications in probabilistic modeling.
+Purple
+7:00
+PM
+30min
+Enabling Rapid Microservice Development with a Julia SDK
+Malcolm Miller
+The Optimal Reality platform, by Deloitte Digital Australia, is a modelling and simulation environment built and deployed as Julia microservices. This talk describes our Software Development Kit which enables rapid building and deployment of these microservices. We discuss our use of templates, utility packages, standardised multi-threading and logging functions, and a custom GraphQL interface; and share how they can be used to bolster team creativity and efficiency.
+Red
+7:00
+PM
+90min
+Discussing Gender Diversity in the Julia Community
+Xuan (Tan Zhi Xuan), Kim Louisa Auth, Laura
+Julia Gender Inclusive is an initiative that came to life from a focus group that has been working on diversity in the Julia community for the last year. We are a group of people whose gender is underrepresented in the community and aim at providing a supportive space for all gender minorities in the Julia community. Through a BoF session we wish to discuss what we are doing and what we hope to do in the future with other people whose gender is underrepresented or allies willing to support us.
+BoF/Mini Track
+7:00
+PM
+30min
+Linear programming by first-order methods
+Miles Lubin
+We present PDLP, a practical first-order method for linear programming (LP) that can solve to the high levels of accuracy that are expected in traditional LP applications. In addition, it can scale to very large problems because its core operation is matrix-vector multiplications.
+JuMP Track
+7:30 PM
+7:30
+PM
+10min
+Going to Jupiter with Julia
+Joe Carpinelli
+Modern astrodynamics demands a lot from scientific-computing. Calculations are often expensive, and correct unit handling is essential. Sometimes, complex algorithms are needed to parse through vast amounts of data. Julia's efficient syntax, and rich and growing ecosystem has met these challenges with minimal developer effort throughout the development of GeneralAstrodynamics.jl. Feature development and research applications will be presented alongside a simple Earth-Jupiter transfer design.
+Blue
+7:30
+PM
+30min
+Simulating Chemical Kinetics with ReactionMechanismSimulator.jl
+Matthew S Johnson
+Understanding many complex chemical processes requires the study of large chemical mechanisms that can involve thousands of species. We present ReactionMechanismSimulator.jl a highly extensible software that can be used to simulate, calculate sensitivities for, analyze and visualize a wide variety of kinetic systems and reactors from gas phase ignition to liquid oxidation to electrocatalysis. We present benchmarks against alternative software and our extensive mechanism analysis toolkit.
+Green
+7:30
+PM
+10min
+FourierTools.jl | Working with the Frequency Space
+Felix Wechsler, Rainer Heintzmann
+FourierTools.jl aims at simplifying work in Fourier/Frequency space without loosing efficiency. We provide several convenient wrappers to speed-up the common `fft(fftshift(x))` pattern. This package also brings functionality to up and downsample signals through sinc interpolation. Furthermore, based on FFTs it provides shearing, rotation, convolution and (sub) pixel shift functions which can be applied to N-dimensional data efficiently.
+Purple
+7:30
+PM
+30min
+Redwood: A framework for clusterless supercomputing in the cloud
+Philipp A. Witte
+We present Redwood, a Julia framework for clusterless supercomputing in the cloud. Redwood provides a set of distributed programming macros that enable users to remotely execute Julia functions in parallel through cloud services for batch and serverless computing. We present the architecture and design of Redwood, as well as its application to existing Julia packages for machine learning and inverse problems.
+Red
+7:30
+PM
+10min
+Cerberus: A solver for mixed-integer programs with disjunctions
+Joey Huchette
+Disjunctive programming (DP) is a powerful framework for modeling complex logic in optimization problems. In this talk, we present Cerberus, a prototype MIP solver that treats disjunctive constraints as first-class objects.
+JuMP Track
+7:40 PM
+7:40
+PM
+10min
+ClimaCore.jl: Tools for building spatial discretizations
+Simon Byrne
+This talk will cover ClimaCore.jl: a suite of tools for building spatial discretizations, primarily aimed at weather and climate modeling applications. It provides a high-level interface for composing multiple operators and functions, and are compatible with the SciML suite of differential equations solvers.
+Blue
+7:40
+PM
+10min
+HiGHS
+Ivet Galabova
+In this talk we present HiGHS, a suite of high performance open source optimization solvers, written in C++. HiGHS has simplex and interior point solvers for LP, and MIP and QP solvers. HiGHS can be called from Julia via the HiGHS.jl package.
+JuMP Track
+7:40
+PM
+10min
+IntervalLinearAlgebra.jl: Linear algebra done rigorously
+Luca Ferranti
+Solving linear systems is central in most computational domains, from mathematics to engineering applications. This talk will introduce IntervalLinearAlgebra.jl: a package written in Julia to solve linear systems, with interval or real coefficients, rigorously. That is, producing a set guaranteed to contain the true solution of the original problem. This can be applied to solve problems involving uncertainty propagation or perform self-validated computations.
+Purple
+7:50 PM
+7:50
+PM
+10min
+vOptSolver: an ecosystem for multi-objective linear optimization
+Xavier Gandibleux
+vOptSolver is an open source ecosystem written in the Julia language, for modeling and solving multi-objective linear optimization problems (mixed integer problems, continuous problems, integer problems, and combinatorial problems). Currently vOptSolver is composed of two independant packages named vOptGeneric.jl and vOptSpecific.jl integrated and registered as Julia packages since 2017. The source codes, examples, documentation and tutorial are available at https://github.com/vOptSolver.
+JuMP Track
+7:50
+PM
+10min
+Global Sensitivity Analysis for SciML models in Julia
+Vaibhav Dixit
+Majority of scientific modelling workflows involve doing global sensitivity analysis as an intermediate step. It can be used primarily in two stages, either before parameter estimation to simplify the fitting problem by fixing unimportant parameters or for analysis of the input parameters' influence on the output. GlobalSensitivity.jl is a package in the SciML ecosystem that provides a full suite of GSA methods that can be of great utility to a lot of practitioners.
+Purple
+7:50
+PM
+10min
+ClimateModels.jl -- A Simple Interface To Climate Models
+Gael Forget
+Here we provides a uniform interface to climate models of varying complexity and completeness. Models that range from low dimensional to whole Earth System models are ran and analyzed via this simple interface. Three examples illustrate this framework as applied to: - a stochastic path (zero-dimensional, Julia function) - a shallow water model (two-dimensional, Julia package) - a general circulation model (high-dim., feature-rich, fortran, MPI)
+Blue
+8:00 PM
+8:00
+PM
+30min
+ZigZagBoomerang.jl - parallel inference and variable selection
+Moritz Schauer
+[ZigZagBoomerang.jl](https://t.co/5MIOOlhGjZ) provides piecewise deterministic Monte Carlo methods. They have the same goal as classical Markov chain Monte Carlo methods: to sample for example from the posterior distribution in a Bayesian model. Only that the distribution is explored through the continuous movement of a particle and not one point at a time. This provides new angles of attack: I showcase a multithreaded sampler and high-dimensional variable selection sampler.
+Purple
+8:00
+PM
+10min
+Clapeyron.jl: An Extensible Implementation of Equations of State
+Paul Yew, Pierre Walker, Andrés Riedemann
+The implementation of thermodynamic equations of state for physical property prediction (density, heat capacity, enthalpy, phase fractions, etc) is traditionally an esoteric process. With Julia’s clean syntax and efficient multiple-dispatch system, it is possible to produce extremely lucid code without trade-offs in efficiency, while also being infinitely extensible. We hope to show that Julia is a powerful tool that can transform the art of thermodynamic modelling in both academia and industry.
+Green
+8:00
+PM
+30min
+A Derivative-Free Local Optimizer for Multi-Objective Problems
+Manuel Berkemeier
+In real-world applications, optimization problems might arise where there is more than one objective. Additionally, some objectives could be computationally expensive to evaluate, with no gradient information available. I present a derivative-free local optimizer (written in Julia) aimed at such problems. It employs a trust-region strategy and local surrogate models (e.g., polynomials or radial basis function models) to save function evaluations.
+JuMP Track
+8:00
+PM
+10min
+Space Engineering in Julia
+Dr. Ronan Arraes Jardim Chagas
+Amazonia 1 was the first remote sensing satellite fully designed, integrated, tested, and operated by Brazil. It was developed by the National Institute for Space Research (INPE) and was launched on February 28, 2021. In this project, Julia language was frequently used in the mission analysis and the development of the attitude and orbit control subsystem (AOCS).
+Blue
+8:00
+PM
+10min
+Julia in the Windows Store
+David Anthoff
+I will describe an effort to distribute Julia via the Windows Store. This effort includes a full Julia version manager that provides the ability to install multiple Julia versions at the same time, switch between them etc. The talk showcases an experimental working version of the installer from a user perspective, and also gives a brief deep dive around the technologies used.
+Red
+8:10 PM
+8:10
+PM
+10min
+kubernetes-native julia development
+Kolia Sadeghi
+You have access to a k8s cluster, and you want to use it to scale out computations. But first, you need to develop and debug julia code that can take advantage of it! I will present an ergonomic julia development setup to help make k8s feel like home, using freely available and easily installed tools.
+Red
+8:10
+PM
+10min
+Modia – Modeling Multidomain Engineering Systems with Julia
+Martin Otter, Hilding Elmqvist
+Modia (www.ModiaSim.org) is a set of Julia packages for modeling and simulation of multidomain engineering systems (electrical, 3D mechanical, fluid, etc.). Status and plans of a largely redesigned version of Modia is presented consisting of a new syntax in pure Julia mixing equation with function based modeling (e.g. drive trains + 3D mechanics) and new transformation techniques in order that Modia models can be simulated with the ODE integrators of DifferentialEquations.jl.
+Green
+8:10
+PM
+10min
+In-Situ Data Analysis with Julia for E3SM at Large Scale
+LI TANG, Earl Lawrence
+In this talk, we will present our work of coupling the Julia runtime with E3SM, an advanced earth system simulation application for supercomputers, and running E3SM with swappable in-situ Julia modules at large scale. The talk includes (1) the Julia runtime coupling with legacy High-Performance Computing (HPC) applications (i.e., E3SM), (2) the design of two in-situ data analysis modules in Julia, and (3) the communication design for E3SM and the in-situ Julia modules.
+Blue
+8:20 PM
+8:20
+PM
+10min
+Rewriting Pieces of a Python Codebase in Julia
+Satvik Souza Beri
+Many people looking at Julia are coming from Python, and already have a sizable codebase. Our fund started rewriting performance-critical parts of our Python codebase in Julia, getting 10x-30x speedups. I'll go over how to start migrating Python code to Julia using PyCall and PyJulia, some gotchas to avoid, and where you're likely to see the biggest benefits.
+Red
+8:20
+PM
+10min
+Optical simulation with the OpticSim.jl package
+Brian Guenter, Charlie Hewitt
+OpticSim.jl
+Green
